@@ -1,0 +1,34 @@
+name: Generate Daily HN Digest
+
+on:
+  schedule:
+    - cron: '0 5 * * *'  # 7 AM Budapest = 5 AM UTC
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: 3.11
+
+      - name: Install Dependencies
+        run: pip install pytz requests
+
+      - name: Run Digest Script
+        env:
+          LINKDING_URL: ${{ secrets.LINKDING_URL }}
+        run: python digest_script.py
+
+      - name: Commit and Push
+        run: |
+          git config --global user.name "HN Bot"
+          git config --global user.email "bot@example.com"
+          git add _posts/
+          git commit -m "Add daily HN digest"
+          git push
