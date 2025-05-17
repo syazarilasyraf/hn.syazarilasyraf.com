@@ -39,7 +39,14 @@ def create_markdown_post(stories, date, linkding_url):
     os.makedirs("_posts", exist_ok=True)
     filename = f"_posts/{date.strftime('%Y-%m-%d')}-hn.md"
     with open(filename, 'w', encoding='utf-8') as f:
-        f.write(f"---\ntitle: \"Hacker News Digest – {date.strftime('%B %d, %Y')}\"\ndate: {date.strftime('%Y-%m-%d')}\nlayout: post\n---\n\n")
+        # Front matter with full datetime ISO format for date
+        f.write(
+            f"---\n"
+            f"title: \"Hacker News Digest – {date.strftime('%B %d, %Y')}\"\n"
+            f"date: {date.astimezone(pytz.utc).strftime('%Y-%m-%dT%H:%M:%SZ')}\n"
+            f"layout: post\n"
+            f"---\n\n"
+        )
         f.write(f"*Top stories as of {date.astimezone(pytz.utc).strftime('%H:%M')} UTC*\n\n")
         for i, s in enumerate(stories, 1):
             title = s.get("title")
@@ -55,9 +62,12 @@ def create_markdown_post(stories, date, linkding_url):
             f.write(f"{i}. [{title}]({url}) — {score} points, [{comments} comments]({hn_link})  \n")
             f.write(f"   🔗 [Save to Linkding]({save_url})\n\n")
 
-    # Debug: print file creation confirmation and file size
+        # Add dynamic timestamp at the bottom to force file change every run
+        f.write(f"\n_Last updated: {datetime.datetime.utcnow().strftime('%Y-%m-%d %H:%M:%S UTC')}_\n")
+
     filesize = os.path.getsize(filename)
     print(f"✅ Created markdown post: {filename} ({filesize} bytes)")
+
 
 def format_email_body(stories, date, linkding_url):
     lines = [f"*Top stories as of {date.astimezone(pytz.utc).strftime('%H:%M')} UTC*\n"]
