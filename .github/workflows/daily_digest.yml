@@ -31,4 +31,4 @@ jobs:
           git config --global user.email "bot@example.com"
           git add _posts/
           git commit -m "Add daily HN digest"
-          git push
+          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git HEAD:${{ github.ref }}
