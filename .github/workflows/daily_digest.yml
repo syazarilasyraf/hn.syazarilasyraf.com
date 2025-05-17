@@ -40,3 +40,8 @@ jobs:
           else
             echo "No changes to commit."
           fi
+
+      - name: Debug Git Status
+        run: |
+          git status
+          ls -la _posts/

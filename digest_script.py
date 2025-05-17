@@ -67,7 +67,8 @@ def create_markdown_post(stories, date, linkding_url):
 
     filesize = os.path.getsize(filename)
     print(f"✅ Created markdown post: {filename} ({filesize} bytes)")
-
+    print("🔍 Directory contents after post creation:")
+    print(os.listdir("_posts"))
 
 def format_email_body(stories, date, linkding_url):
     lines = [f"*Top stories as of {date.astimezone(pytz.utc).strftime('%H:%M')} UTC*\n"]
@@ -92,7 +93,7 @@ def send_to_buttondown(subject, body, api_key):
         json={
             "subject": subject,
             "body": body,
-            "publish": False
+            "publish": True
         }
     )
     if response.status_code == 201:
