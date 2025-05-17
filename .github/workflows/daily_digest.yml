@@ -23,12 +23,15 @@ jobs:
       - name: Run Digest Script
         env:
           LINKDING_URL: ${{ secrets.LINKDING_URL }}
+          BUTTONDOWN_API_KEY: ${{ secrets.BUTTONDOWN_API_KEY }}
         run: python digest_script.py
 
       - name: Commit and Push
+        env:
+          GH_PAT: ${{ secrets.GH_PAT }}
         run: |
           git config --global user.name "HN Bot"
           git config --global user.email "bot@example.com"
           git add _posts/
           git commit -m "Add daily HN digest"
-          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git HEAD:${{ github.ref }}
+          git push https://${GH_PAT}@github.com/${{ github.repository }} HEAD:main
