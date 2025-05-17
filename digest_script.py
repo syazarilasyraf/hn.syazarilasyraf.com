@@ -101,6 +101,9 @@ def send_to_buttondown(subject, body, api_key):
         print(f"❌ Failed to send email: {response.status_code} {response.text}")
 
 def main():
+
+    os.chdir(os.path.dirname(os.path.abspath(__file__)))
+
     tz = pytz.timezone("Europe/Budapest")
     now = datetime.datetime.now(tz).replace(minute=0, second=0, microsecond=0)
     stories = get_hn_top_stories()
