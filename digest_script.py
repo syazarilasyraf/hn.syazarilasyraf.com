@@ -36,6 +36,7 @@ def auto_tag(title):
     return sorted(set(tags))
 
 def create_markdown_post(stories, date, linkding_url):
+    os.makedirs("_posts", exist_ok=True)
     filename = f"_posts/{date.strftime('%Y-%m-%d')}-hn.md"
     with open(filename, 'w', encoding='utf-8') as f:
         f.write(f"---\ntitle: \"Hacker News Digest – {date.strftime('%B %d, %Y')}\"\ndate: {date.strftime('%Y-%m-%d')}\nlayout: post\n---\n\n")
