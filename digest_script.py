@@ -55,6 +55,10 @@ def create_markdown_post(stories, date, linkding_url):
             f.write(f"{i}. [{title}]({url}) — {score} points, [{comments} comments]({hn_link})  \n")
             f.write(f"   🔗 [Save to Linkding]({save_url})\n\n")
 
+    # Debug: print file creation confirmation and file size
+    filesize = os.path.getsize(filename)
+    print(f"✅ Created markdown post: {filename} ({filesize} bytes)")
+
 def format_email_body(stories, date, linkding_url):
     lines = [f"*Top stories as of {date.astimezone(pytz.utc).strftime('%H:%M')} UTC*\n"]
     for i, s in enumerate(stories, 1):
@@ -78,7 +82,7 @@ def send_to_buttondown(subject, body, api_key):
         json={
             "subject": subject,
             "body": body,
-            "publish": True
+            "publish": False
         }
     )
     if response.status_code == 201:
