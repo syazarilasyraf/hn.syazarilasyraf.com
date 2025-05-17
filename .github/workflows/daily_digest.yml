@@ -34,7 +34,7 @@ jobs:
           git config --global user.email "bot@example.com"
           # Only commit if there are changes
           if ! git diff --quiet; then
-            git add _posts/
+            git add _posts/*.md
             git commit -m "Add daily HN digest for $(date +'%Y-%m-%d')"
             git push https://${GH_PAT}@github.com/${{ github.repository }} HEAD:main
           else
