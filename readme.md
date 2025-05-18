@@ -1,38 +1,53 @@
-# Hacker News Daily Digest
+# hn.syazarilasyraf.com
 
-This repository powers [hn.syazarilasyraf.com](https://hn.syazarilasyraf.com) — a daily digest of the top 10 Hacker News stories, generated automatically and published as a Jekyll blog.
+A minimal Hacker News daily digest. Every day at 7:00 AM, this site publishes the top 10 stories from Hacker News—complete with links, tags, and a one-click save button to [my Linkding instance](https://bookmark.syazarilasyraf.com).
+
+Built with [Jekyll](https://jekyllrb.com), deployed via [Netlify](https://www.netlify.com/), and powered by a Python script scheduled with GitHub Actions.
+
+**Live site:** [hn.syazarilasyraf.com](https://hn.syazarilasyraf.com)
+
+---
 
 ## Features
 
-- Fetches the top 10 HN stories every day  
-- Auto-tags stories based on title, description, and URL domain  
-- Generates a Markdown post with story links and “Save to Linkding” buttons  
-- Sends a daily email digest via Buttondown  
-- Archives past digests for easy browsing  
-- Simple, mobile-friendly design with an index showing the latest digest only
+- Automatically fetches the top 10 Hacker News stories daily
+- Tags stories based on a custom keyword list
+- One-click “Save to Linkding” button
+- Auto-publishes to the site via Netlify
+- Daily email digest sent with [Buttondown](https://buttondown.email/)
+- Archives organized by date
 
-## How it works
+---
 
-- A Python script fetches and filters HN stories using the official Firebase API  
-- It applies custom tagging rules and generates a dated Markdown post under `_posts/`  
-- The post is committed and deployed on GitHub Pages via GitHub Actions  
-- Emails are sent automatically with the latest digest using Buttondown’s API
+## Workflow Overview
 
-## Setup
+- At **7:00 AM (UTC+1)**, GitHub Actions runs `digest_script.py`
+- The script:
+  - Fetches current top stories from Hacker News
+  - Creates a new Markdown post in `_posts/`
+  - Commits the new file to the repository
+- Netlify auto-builds the site with `bundle exec jekyll build`
+- After the build, the script also sends the email digest via Buttondown
 
-1. Clone the repo  
-2. Set environment variables:  
-   - `LINKDING_URL` — your Linkding base URL (default: your personal Linkding)  
-   - `BUTTONDOWN_API_KEY` — your Buttondown API key  
-3. Configure GitHub Actions secrets accordingly  
-4. Customize tags and synonyms in the Python script if desired  
-5. Push changes and let the automation run daily
+## Local Development
 
-## Notes
+To run locally:
 
-- The “Save to Linkding” buttons add bookmarks to the configured Linkding account. Visitors wanting to save to their own Linkding should copy the story URL and title manually.  
-- This is a personal project meant as a lightweight, no-backend Hacker News digest.
+```bash
+bundle install
+bundle exec jekyll serve
+```
+
+To manually test the digest script:
+
+```bash
+python digest_script.py
+```
+
+> Make sure any required environment variables (API keys, tokens, etc.) are set locally.
+
+---
 
 ## License
 
-MIT License © [Syazaril Asyraf](https://syazarilasyraf.com)
+MIT
