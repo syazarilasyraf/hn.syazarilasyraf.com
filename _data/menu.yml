@@ -1,0 +1,14 @@
+entries:
+  - title: directories
+    entries:
+      - title: subscribe
+        url: https://buttondown.com/syazarilasyraf
+      - title: "source: <a href='https://github.com/syazarilasyraf/hn.syazarilasyraf.com'>github</a>"
+      - title: "update: <a href='/feed.xml'>rss feed</a>"
+
+  - title: posts
+    post_list:
+      limit: 10
+      show_more: true
+      show_more_text: See archive...
+      show_more_url: /archive/
