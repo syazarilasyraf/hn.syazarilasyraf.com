@@ -26,25 +26,17 @@ jobs:
           BUTTONDOWN_API_KEY: ${{ secrets.BUTTONDOWN_API_KEY }}
         run: python digest_script.py
 
-      - name: Commit and push new digest post
+      - name: Commit and Push New Digest Post
         env:
           GH_PAT: ${{ secrets.GH_PAT }}
         run: |
           git config --global user.name "HN Bot"
           git config --global user.email "bot@example.com"
           git add _posts/*.md
-              echo "🔍 Git status after add:"
+          echo "🔍 Git status after add:"
           git status
-          echo "🧪 Checking git diff --cached"
-          git diff --cached
-          # Only commit if there are changes
-          if ! git diff --quiet; then
-            echo "✅ Committing changes..."
-            git commit -m "Add daily HN digest for $(date +'%Y-%m-%d')"
-            git push https://${GH_PAT}@github.com/${{ github.repository }} HEAD:main
-          else
-            echo "🚫 No changes to commit.."
-          fi
+          git commit -m "Add daily HN digest for $(date +'%Y-%m-%d')" || echo "⚠️ Nothing to commit."
+          git push https://${GH_PAT}@github.com/${{ github.repository }} HEAD:main
 
       - name: Debug Git Status
         run: |
