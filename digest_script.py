@@ -3,6 +3,7 @@ import datetime
 import os
 import pytz
 import re
+from urllib.parse import urlparse
 
 # Configuration
 TAGS = [
@@ -13,7 +14,93 @@ TAGS = [
     "Security", "Self", "Skills", "Social", "Software", "Tech", "Tools",
     "Travel", "Web", "Writing"
 ]
-TAG_KEYWORDS = {tag.lower(): tag for tag in TAGS}
+
+# Synonym dictionary: key words (lowercase) to tags
+SYNONYMS = {
+    "ai": "AI",
+    "machine learning": "AI",
+    "ml": "AI",
+    "database": "Database",
+    "sql": "Database",
+    "nosql": "Database",
+    "javascript": "Programming",
+    "python": "Programming",
+    "developer": "Developer",
+    "dev": "Developer",
+    "privacy": "Privacy",
+    "security": "Security",
+    "hacking": "Hacking",
+    "open source": "Open-Source",
+    "opensource": "Open-Source",
+    "marketing": "Marketing",
+    "travel": "Travel",
+    "hardware": "Hardware",
+    "design": "Design",
+    "web": "Web",
+    "browser": "Browser",
+    "science": "Science",
+    "philosophy": "Philosophy",
+    "psychology": "Psychology",
+    "social": "Social",
+    "tools": "Tools",
+    "writing": "Writing",
+    # Add more synonyms here as needed
+}
+
+# Domain to tags mapping
+DOMAIN_TAGS = {
+    # Popular Dev & Open-Source
+    "github.com": "Open-Source",
+    "gitlab.com": "Open-Source",
+    "stackoverflow.com": "Developer",
+    "npmjs.com": "Tools",
+    "dev.to": "Developer",
+    "medium.com": "Writing",
+    "hashnode.com": "Developer",
+
+    # News & Tech Media
+    "techcrunch.com": "Tech",
+    "theverge.com": "Tech",
+    "wired.com": "Tech",
+    "arstechnica.com": "Tech",
+    "thenextweb.com": "Tech",
+
+    # Cloud Providers & Infrastructure
+    "aws.amazon.com": "Cloud",
+    "cloud.google.com": "Cloud",
+    "azure.microsoft.com": "Cloud",
+    "digitalocean.com": "Cloud",
+
+    # AI, Data Science, Research
+    "arxiv.org": "Science",
+    "kaggle.com": "Data",
+    "towardsdatascience.com": "AI",
+    "paperswithcode.com": "AI",
+
+    # Security & Privacy
+    "securityweekly.com": "Security",
+    "mitre.org": "Security",
+    "cvedetails.com": "Security",
+    "haveibeenpwned.com": "Security",
+
+    # Social & Community
+    "reddit.com": "Social",
+    "twitter.com": "Social",
+    "hackernews.com": "News",
+    "lobsters.org": "Social",
+
+    # Business & Startups
+    "techstars.com": "Startup",
+    "ycombinator.com": "Startup",
+    "crunchbase.com": "Startup",
+
+    # Misc
+    "youtube.com": "Culture",
+    "imgur.com": "Culture",
+    "spotify.com": "Culture",
+    "patreon.com": "Personal",
+}
+
 HN_ITEM_URL = "https://news.ycombinator.com/item?id="
 
 def get_hn_top_stories(limit=10):
@@ -27,19 +114,31 @@ def get_hn_top_stories(limit=10):
             break
     return top_stories
 
-def auto_tag(title):
-    tags = []
-    title_words = re.findall(r'\w+', title.lower())
-    for word in title_words:
-        if word in TAG_KEYWORDS:
-            tags.append(TAG_KEYWORDS[word])
-    return sorted(set(tags))
+def auto_tag(title, url, description=None):
+    tags = set()
+    combined_text = title.lower()
+    if description:
+        combined_text += " " + description.lower()
+    
+    # Check synonyms
+    for key, tag in SYNONYMS.items():
+        if key in combined_text:
+            tags.add(tag)
+
+    # Check domain
+    domain = urlparse(url).netloc.lower()
+    for d, tag in DOMAIN_TAGS.items():
+        if domain == d or domain.endswith("." + d):
+            return tag
+    
+    # No default fallback tag
+    
+    return sorted(tags)
 
 def create_markdown_post(stories, date, linkding_url):
     os.makedirs("_posts", exist_ok=True)
     filename = f"_posts/{date.strftime('%Y-%m-%d')}-hn.md"
     with open(filename, 'w', encoding='utf-8') as f:
-        # Front matter with full datetime ISO format for date
         f.write(
             f"---\n"
             f"title: \"Hacker News Digest – {date.strftime('%B %d, %Y')}\"\n"
@@ -54,15 +153,17 @@ def create_markdown_post(stories, date, linkding_url):
             score = s.get("score", 0)
             comments = s.get("descendants", 0)
             hn_link = f"{HN_ITEM_URL}{s['id']}"
-            tags = auto_tag(title)
+            description = s.get("text", "")
+            tags = auto_tag(title, url, description=description)
             tag_str = ",".join(tags)
             encoded_url = requests.utils.quote(url, safe='')
             encoded_title = requests.utils.quote(title, safe='')
             save_url = f"{linkding_url}/bookmarks/new?url={encoded_url}&title={encoded_title}&tags={tag_str}"
             f.write(f"{i}. [{title}]({url}) — {score} points, [{comments} comments]({hn_link})  \n")
+            if tags:
+                f.write(f"   🏷️ Tags: {tag_str}\n")
             f.write(f"   🔗 [Save to Linkding]({save_url})\n\n")
 
-        # Add dynamic timestamp at the bottom to force file change every run
         f.write(f"\n_Last updated: {datetime.datetime.utcnow().strftime('%Y-%m-%d %H:%M:%S UTC')}_\n")
 
     filesize = os.path.getsize(filename)
@@ -78,12 +179,17 @@ def format_email_body(stories, date, linkding_url):
         score = s.get("score", 0)
         comments = s.get("descendants", 0)
         hn_link = f"{HN_ITEM_URL}{s['id']}"
-        tags = auto_tag(title)
+        description = s.get("text", "")
+        tags = auto_tag(title, url, description=description)
         tag_str = ",".join(tags)
         encoded_url = requests.utils.quote(url, safe='')
         encoded_title = requests.utils.quote(title, safe='')
         save_url = f"{linkding_url}/bookmarks/new?url={encoded_url}&title={encoded_title}&tags={tag_str}"
-        lines.append(f"{i}. [{title}]({url}) — {score} points, [{comments} comments]({hn_link})\n   🔗 [Save to Linkding]({save_url})\n")
+        line = f"{i}. [{title}]({url}) — {score} points, [{comments} comments]({hn_link})"
+        if tags:
+            line += f"\n   🏷️ Tags: {tag_str}"
+        line += f"\n   🔗 [Save to Linkding]({save_url})\n"
+        lines.append(line)
     return "\n".join(lines)
 
 def send_to_buttondown(subject, body, api_key):
@@ -102,9 +208,7 @@ def send_to_buttondown(subject, body, api_key):
         print(f"❌ Failed to send email: {response.status_code} {response.text}")
 
 def main():
-
     os.chdir(os.path.dirname(os.path.abspath(__file__)))
-
     tz = pytz.timezone("Europe/Budapest")
     now = datetime.datetime.now(tz).replace(minute=0, second=0, microsecond=0)
     stories = get_hn_top_stories()
