@@ -1,6 +1,6 @@
 # hn.syazarilasyraf.com
 
-A minimal Hacker News daily digest. Every day at 7:00 AM, this site publishes the top 10 stories from Hacker News—complete with links, tags, and a one-click save button to [my Linkding instance](https://bookmark.syazarilasyraf.com).
+A minimal Hacker News daily digest. Every day at 7:00 AM, this site publishes the top 10 stories from Hacker News—complete with links, and a one-click save button to [my Linkding instance](https://bookmark.syazarilasyraf.com).
 
 Built with [Jekyll](https://jekyllrb.com), deployed via [Netlify](https://www.netlify.com/), and powered by a Python script scheduled with GitHub Actions.
 
@@ -11,8 +11,7 @@ Built with [Jekyll](https://jekyllrb.com), deployed via [Netlify](https://www.ne
 ## Features
 
 - Automatically fetches the top 10 Hacker News stories daily
-- Tags stories based on a custom keyword list
-- One-click “Save to Linkding” button
+- One-click “Save" to Linkding button
 - Auto-publishes to the site via Netlify
 - Daily email digest sent with [Buttondown](https://buttondown.email/)
 - Archives organized by date
@@ -50,4 +49,4 @@ python digest_script.py
 
 ## License
 
-MIT
+MIT SyazarilAsyraf
