@@ -1,21 +1,23 @@
-title: Hacker News Digest - Syazaril Asyraf # name of the site
-author: Syazaril Asyraf # name of site's author
-email: wan@syazarilasyraf.com # email of site's author
-url: https://hn.syazarilasyraf.com # root address of the site
-baseurl: "" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
-description: The personal Hacker News Digest of Syazaril Asyraf # description of the site (multiple lines allowed)
+title: Hacker News Digest - Syazaril Asyraf
+author: Syazaril Asyraf
+email: wan@syazarilasyraf.com
+url: https://hn.syazarilasyraf.com
+baseurl: ""
+description: The personal Hacker News Digest of Syazaril Asyraf
 
-permalink: /:slug.html
+permalink: /hn/:year/:month/:day/:title.html
 
-favicon: "logo.png" # name+extension of favicon (which must be put on the root folder)
+favicon: "logo.png"
 
-theme: no-style-please # if you are using GitHub Pages, change it to remote_theme: riggraz/no-style-please
+theme: no-style-please
+# If you use GitHub Pages, use:
+# remote_theme: riggraz/no-style-please
 
 theme_config:
-  appearance: "auto" # can be "light", "dark" or "auto"
-  back_home_text: "←" # customize text for homepage link in post layout
-  date_format: "%Y-%m-%d" # customize how date is formatted
-  show_description: false # show blog description in home page
+  appearance: "auto"
+  back_home_text: "←"
+  date_format: "%Y-%m-%d"
+  show_description: false
 
 sass:
   style: :compressed
