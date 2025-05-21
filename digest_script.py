@@ -23,7 +23,7 @@ def create_markdown_post(stories, date, linkding_url):
     with open(filename, 'w', encoding='utf-8') as f:
         f.write(
             f"---\n"
-            f"title: \"Hacker News Digest -“ {date.strftime('%B %d, %Y')}\"\n"
+            f"title: \"Hacker News Digest · “ {date.strftime('%B %d, %Y')}\"\n"
             f"date: {date.astimezone(pytz.utc).strftime('%Y-%m-%dT%H:%M:%SZ')}\n"
             f"layout: post\n"
             f"---\n\n"
@@ -38,8 +38,8 @@ def create_markdown_post(stories, date, linkding_url):
             encoded_url = requests.utils.quote(url, safe='')
             encoded_title = requests.utils.quote(title, safe='')
             save_url = f"{linkding_url}/bookmarks/new?url={encoded_url}&title={encoded_title}"
-            f.write(f"{i}. [{title}]({url}) â€” {score} points, [{comments} comments]({hn_link})  \n")
-            f.write(f"   🔗— [Save]({save_url})\n\n")
+            f.write(f"{i}. [{title}]({url}) · ” {score} points, [{comments} comments]({hn_link})  \n")
+            f.write(f"   🔗 · [Save]({save_url})\n\n")
 
         f.write(f"\n_Last updated: {datetime.datetime.utcnow().strftime('%Y-%m-%d %H:%M:%S UTC')}_\n")
 
@@ -54,8 +54,8 @@ def format_email_body(stories, date, linkding_url):
         encoded_url = requests.utils.quote(url, safe='')
         encoded_title = requests.utils.quote(title, safe='')
         save_url = f"{linkding_url}/bookmarks/new?url={encoded_url}&title={encoded_title}"
-        line = f"{i}. [{title}]({url}) â€” {score} points, [{comments} comments]({hn_link})"
-        line += f"\n   🔗— [Save]({save_url})\n"
+        line = f"{i}. [{title}]({url}) · ” {score} points, [{comments} comments]({hn_link})"
+        line += f"\n   🔗 · [Save]({save_url})\n"
         lines.append(line)
     return "\n".join(lines)
 
@@ -84,7 +84,7 @@ def main():
 
     create_markdown_post(stories, now, linkding_url)
 
-    subject = f"Hacker News Digest â€“ {now.strftime('%B %d, %Y')}"
+    subject = f"Hacker News Digest · “ {now.strftime('%B %d, %Y')}"
     body = format_email_body(stories, now, linkding_url)
     send_to_buttondown(subject, body, buttondown_api_key)
 
