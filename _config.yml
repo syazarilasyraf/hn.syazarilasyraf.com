@@ -5,7 +5,7 @@ url: https://hn.syazarilasyraf.com
 baseurl: ""
 description: The personal Hacker News Digest of Syazaril Asyraf
 
-permalink: /hn/:year/:month/:day/:title.html
+permalink: /:year/:month/:day/:title.html
 
 favicon: "logo.png"
 
