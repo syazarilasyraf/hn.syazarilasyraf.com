@@ -50,7 +50,6 @@ def create_markdown_post(stories, date, linkding_url):
 
         f.write(f"\n_Last updated: {datetime.datetime.utcnow().strftime('%Y-%m-%d %H:%M:%S UTC')}_\n")
 
-
 def format_email_body(stories, date, linkding_url):
     lines = [f"<p><em>Top stories as of {date.astimezone(pytz.utc).strftime('%H:%M')} UTC</em></p>"]
     for s in stories:
@@ -67,12 +66,12 @@ def format_email_body(stories, date, linkding_url):
             f"<p>"
             f"<strong><a href=\"{url}\">{title}</a></strong><br>"
             f"<span style=\"color:#888;font-size:0.9em\">{domain}</span> / "
-            f"<a href=\"{hn_link}\" style=\"font-size:0.9em;text-decoration:none\">{comments} comments</a><br>"
-            f"<a href=\"{save_url}\">Save</a>"
+            f"<a href=\"{hn_link}\" style=\"font-size:0.9em;text-decoration:none;color:inherit\">{comments} comments</a><br>"
+            f"🔗 · <a href=\"{save_url}\">Save</a>"
             f"</p>"
         )
     return "\n".join(lines)
-
+    
 def send_to_buttondown(subject, body, api_key):
     response = requests.post(
         "https://api.buttondown.email/v1/emails",
