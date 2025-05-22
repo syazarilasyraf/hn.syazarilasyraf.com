@@ -52,7 +52,7 @@ def create_markdown_post(stories, date, linkding_url):
 
 
 def format_email_body(stories, date, linkding_url):
-    lines = [f"*Top stories as of {date.astimezone(pytz.utc).strftime('%H:%M')} UTC*\n"]
+    lines = [f"<p><em>Top stories as of {date.astimezone(pytz.utc).strftime('%H:%M')} UTC</em></p>"]
     for s in stories:
         title = s.get("title")
         url = s.get("url")
@@ -63,10 +63,15 @@ def format_email_body(stories, date, linkding_url):
         encoded_title = requests.utils.quote(title, safe='')
         save_url = f"{linkding_url}/bookmarks/new?url={encoded_url}&title={encoded_title}"
 
-        line = f"[{title}]({url})  \n{domain} / [{comments} comments]({hn_link})  \n🔗 · [Save]({save_url})\n"
-        lines.append(line)
-    return "\n\n".join(lines)
-
+        lines.append(
+            f"<p>"
+            f"<strong><a href=\"{url}\">{title}</a></strong><br>"
+            f"<span style=\"color:#888;font-size:0.9em\">{domain}</span> / "
+            f"<a href=\"{hn_link}\" style=\"font-size:0.9em;text-decoration:none\">{comments} comments</a><br>"
+            f"<a href=\"{save_url}\">Save</a>"
+            f"</p>"
+        )
+    return "\n".join(lines)
 
 def send_to_buttondown(subject, body, api_key):
     response = requests.post(
