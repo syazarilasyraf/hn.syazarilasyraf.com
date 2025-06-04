@@ -23,7 +23,7 @@ def get_domain(url):
     return urlparse(url).netloc.replace("www.", "")
 
 
-def create_markdown_post(stories, date, linkding_url):
+def create_markdown_post(stories, date):
     os.makedirs("_posts", exist_ok=True)
     filename = f"_posts/{date.strftime('%Y-%m-%d')}-hn.md"
     with open(filename, 'w', encoding='utf-8') as f:
@@ -40,17 +40,14 @@ def create_markdown_post(stories, date, linkding_url):
             comments = s.get("descendants", 0)
             hn_link = f"{HN_ITEM_URL}{s['id']}"
             domain = get_domain(url)
-            encoded_url = requests.utils.quote(url, safe='')
-            encoded_title = requests.utils.quote(title, safe='')
-            save_url = f"{linkding_url}/bookmarks/new?url={encoded_url}&title={encoded_title}"
 
             f.write(f"[{title}]({url})  ")
-            f.write(f"{domain} / [{comments} comments]({hn_link})  ")
-            f.write(f"\n🔗 · [Save]({save_url})\n\n")
+            f.write(f"{domain} / [{comments} comments]({hn_link})\n\n")
 
         f.write(f"\n_Last updated: {datetime.datetime.utcnow().strftime('%Y-%m-%d %H:%M:%S UTC')}_\n")
 
-def format_email_body(stories, date, linkding_url):
+
+def format_email_body(stories, date):
     lines = [f"<p><em>Top stories as of {date.astimezone(pytz.utc).strftime('%H:%M')} UTC</em></p>"]
     for s in stories:
         title = s.get("title")
@@ -58,20 +55,17 @@ def format_email_body(stories, date, linkding_url):
         comments = s.get("descendants", 0)
         hn_link = f"{HN_ITEM_URL}{s['id']}"
         domain = get_domain(url)
-        encoded_url = requests.utils.quote(url, safe='')
-        encoded_title = requests.utils.quote(title, safe='')
-        save_url = f"{linkding_url}/bookmarks/new?url={encoded_url}&title={encoded_title}"
 
         lines.append(
             f"<p>"
             f"<strong><a href=\"{url}\">{title}</a></strong><br>"
             f"<span style=\"color:#888;font-size:0.9em\">{domain}</span> / "
-            f"<a href=\"{hn_link}\" style=\"font-size:0.9em;text-decoration:none;color:inherit\">{comments} comments</a><br>"
-            f"🔗 · <a href=\"{save_url}\">Save</a>"
+            f"<a href=\"{hn_link}\" style=\"font-size:0.9em;text-decoration:none;color:inherit\">{comments} comments</a>"
             f"</p>"
         )
     return "\n".join(lines)
-    
+
+
 def send_to_buttondown(subject, body, api_key):
     response = requests.post(
         "https://api.buttondown.email/v1/emails",
@@ -93,13 +87,12 @@ def main():
     tz = pytz.timezone("Europe/Budapest")
     now = datetime.datetime.now(tz).replace(minute=0, second=0, microsecond=0)
     stories = get_hn_top_stories()
-    linkding_url = os.getenv("LINKDING_URL", "https://bookmark.syazarilasyraf.com")
     buttondown_api_key = os.getenv("BUTTONDOWN_API_KEY")
 
-    create_markdown_post(stories, now, linkding_url)
+    create_markdown_post(stories, now)
 
     subject = f"Hacker News Digest · {now.strftime('%B %d, %Y')}"
-    body = format_email_body(stories, now, linkding_url)
+    body = format_email_body(stories, now)
     send_to_buttondown(subject, body, buttondown_api_key)
 
 
