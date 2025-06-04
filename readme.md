@@ -11,7 +11,6 @@ Built with [Jekyll](https://jekyllrb.com), deployed via [Netlify](https://www.ne
 ## Features
 
 - Automatically fetches the top 10 Hacker News stories daily
-- One-click “Save" to Linkding button
 - Auto-publishes to the site via Netlify
 - Daily email digest sent with [Buttondown](https://buttondown.email/)
 - Archives organized by date
