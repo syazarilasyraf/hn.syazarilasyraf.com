@@ -9,5 +9,3 @@ title: Hacker News Digest - Syazaril Asyraf
 {{ latest_post.content }}
 
 <p><a href="/archive/">See all archives</a></p>
-
-_Disclaimer: The “Save” links adds bookmarks to my Linkding account. To save to your own Linkding, just copy the story URL and title, then add them manually in your Linkding app or web interface._
