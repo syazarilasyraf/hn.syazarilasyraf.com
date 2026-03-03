@@ -1,0 +1,82 @@
+date: '2026-02-12'
+stories:
+- by: unknown
+  comments: 226
+  domain: age-verifier.kibty.town
+  hn_url: https://news.ycombinator.com/item?id=46982421
+  id: 46982421
+  score: 0
+  title: Discord/Twitch/Snapchat age verification bypass
+  url: https://age-verifier.kibty.town/
+- by: unknown
+  comments: 24
+  domain: ntietz.com
+  hn_url: https://news.ycombinator.com/item?id=46949814
+  id: 46949814
+  score: 0
+  title: Using an engineering notebook
+  url: https://ntietz.com/blog/using-an-engineering-notebook/
+- by: unknown
+  comments: 48
+  domain: vangemert.dev
+  hn_url: https://news.ycombinator.com/item?id=46933529
+  id: 46933529
+  score: 0
+  title: “Nothing” is the secret to structuring your work
+  url: https://www.vangemert.dev/blog/nothing
+- by: unknown
+  comments: 250
+  domain: fluorite.game
+  hn_url: https://news.ycombinator.com/item?id=46976911
+  id: 46976911
+  score: 0
+  title: Fluorite – A console-grade game engine fully integrated with Flutter
+  url: https://fluorite.game/
+- by: unknown
+  comments: 12
+  domain: altermag.com
+  hn_url: https://news.ycombinator.com/item?id=46921757
+  id: 46921757
+  score: 0
+  title: Kanchipuram Saris and Thinking Machines
+  url: https://altermag.com/articles/kanchipuram-saris-and-thinking-machines
+- by: unknown
+  comments: 418
+  domain: z.ai
+  hn_url: https://news.ycombinator.com/item?id=46974853
+  id: 46974853
+  score: 0
+  title: 'GLM-5: Targeting complex systems engineering and long-horizon agentic tasks'
+  url: https://z.ai/blog/glm-5
+- by: unknown
+  comments: 20
+  domain: maxhalford.github.io
+  hn_url: https://news.ycombinator.com/item?id=46942864
+  id: 46942864
+  score: 0
+  title: Text classification with Python 3.14's ZSTD module
+  url: https://maxhalford.github.io/blog/text-classification-zstd/
+- by: unknown
+  comments: 26
+  domain: terracenetworks.com
+  hn_url: https://news.ycombinator.com/item?id=46980355
+  id: 46980355
+  score: 0
+  title: Reports of Telnet's death have been greatly exaggerated
+  url: https://www.terracenetworks.com/blog/2026-02-11-telnet-routing
+- by: unknown
+  comments: 57
+  domain: netnewswire.blog
+  hn_url: https://news.ycombinator.com/item?id=46978490
+  id: 46978490
+  score: 0
+  title: NetNewsWire Turns 23
+  url: https://netnewswire.blog/2026/02/11/netnewswire-turns.html
+- by: unknown
+  comments: 2
+  domain: hologram.page
+  hn_url: https://news.ycombinator.com/item?id=46982943
+  id: 46982943
+  score: 0
+  title: 'From 34% to 96%: The Porting Initiative Delivers – Hologram v0.7.0'
+  url: https://hologram.page/blog/porting-initiative-delivers-hologram-v0-7-0

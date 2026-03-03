@@ -1,0 +1,74 @@
+date: '2025-08-13'
+stories:
+- by: unknown
+  comments: 545
+  domain: anthropic.com
+  hn_url: https://news.ycombinator.com/item?id=44878147
+  id: 44878147
+  score: 0
+  title: Claude Sonnet 4 now supports 1M tokens of context
+  url: https://www.anthropic.com/news/1m-context
+- by: unknown
+  comments: 42
+  domain: alltext.nyc
+  hn_url: https://news.ycombinator.com/item?id=44883304
+  id: 44883304
+  score: 0
+  title: Search all text in New York City
+  url: https://www.alltext.nyc/
+- by: unknown
+  comments: 0
+  domain: andreyor.st
+  hn_url: https://news.ycombinator.com/item?id=44884546
+  id: 44884546
+  score: 0
+  title: Fennel libraries as single files (2023)
+  url: https://andreyor.st/posts/2023-08-27-fennel-libraries-as-single-files/
+- by: unknown
+  comments: 4
+  domain: graphite.rs
+  hn_url: https://news.ycombinator.com/item?id=44846781
+  id: 44846781
+  score: 0
+  title: Bezier-rs – algorithms for Bézier segments and shapes
+  url: https://graphite.rs/libraries/bezier-rs/
+- by: unknown
+  comments: 47
+  domain: ashet.computer
+  hn_url: https://news.ycombinator.com/item?id=44880401
+  id: 44880401
+  score: 0
+  title: Ashet Home Computer
+  url: https://ashet.computer/
+- by: unknown
+  comments: 64
+  domain: blog.wilsonl.in
+  hn_url: https://news.ycombinator.com/item?id=44878151
+  id: 44878151
+  score: 0
+  title: 'Show HN: Building a web search engine from scratch with 3B neural embeddings'
+  url: https://blog.wilsonl.in/search-engine/
+- by: unknown
+  comments: 33
+  domain: tangled.sh
+  hn_url: https://news.ycombinator.com/item?id=44876356
+  id: 44876356
+  score: 0
+  title: Journaling using Nix, Vim and coreutils
+  url: https://tangled.sh/@oppi.li/journal
+- by: unknown
+  comments: 246
+  domain: arxiv.org
+  hn_url: https://news.ycombinator.com/item?id=44875992
+  id: 44875992
+  score: 0
+  title: Training language models to be warm and empathetic makes them less reliable
+  url: https://arxiv.org/abs/2507.21919
+- by: unknown
+  comments: 16
+  domain: webkit.org
+  hn_url: https://news.ycombinator.com/item?id=44882438
+  id: 44882438
+  score: 0
+  title: A gentle introduction to anchor positioning
+  url: https://webkit.org/blog/17240/a-gentle-introduction-to-anchor-positioning/

@@ -1,0 +1,74 @@
+date: '2025-06-10'
+stories:
+- by: unknown
+  comments: 174
+  domain: github.com
+  hn_url: https://news.ycombinator.com/item?id=44229348
+  id: 44229348
+  score: 0
+  title: Containerization is a Swift package for running Linux containers on macOS
+  url: https://github.com/apple/containerization
+- by: unknown
+  comments: 359
+  domain: apple.com
+  hn_url: https://news.ycombinator.com/item?id=44226978
+  id: 44226978
+  score: 0
+  title: Apple announces Foundation Models and Containerization frameworks, etc
+  url: https://www.apple.com/newsroom/2025/06/apple-supercharges-its-tools-and-technologies-for-developers/
+- by: unknown
+  comments: 2
+  domain: boston.conman.org
+  hn_url: https://news.ycombinator.com/item?id=44231594
+  id: 44231594
+  score: 0
+  title: Implementing DOES> in Forth, the entire reason I started this mess
+  url: https://boston.conman.org/2025/06/09.1
+- by: unknown
+  comments: 25
+  domain: abcnews.go.com
+  hn_url: https://news.ycombinator.com/item?id=44229841
+  id: 44229841
+  score: 0
+  title: Sly Stone has died
+  url: https://abcnews.go.com/US/sly-stone-pioneering-leader-funk-band-sly-family/story?id=122666345
+- by: unknown
+  comments: 0
+  domain: censys.com
+  hn_url: https://news.ycombinator.com/item?id=44207943
+  id: 44207943
+  score: 0
+  title: Working with the EPA to Secure Exposed Water HMIs
+  url: https://censys.com/blog/turning-off-the-information-flow-working-with-the-epa-to-secure-hundreds-of-exposed-water-hmis
+- by: unknown
+  comments: 17
+  domain: github.com
+  hn_url: https://news.ycombinator.com/item?id=44229239
+  id: 44229239
+  score: 0
+  title: 'Container: Apple''s Linux-Container Runtime'
+  url: https://github.com/apple/container
+- by: unknown
+  comments: 53
+  domain: justin.searls.co
+  hn_url: https://news.ycombinator.com/item?id=44230838
+  id: 44230838
+  score: 0
+  title: Why agents are bad pair programmers
+  url: https://justin.searls.co/posts/why-agents-are-bad-pair-programmers/
+- by: unknown
+  comments: 23
+  domain: righto.com
+  hn_url: https://news.ycombinator.com/item?id=44229694
+  id: 44229694
+  score: 0
+  title: The Xerox Alto, Smalltalk, and rewriting a running GUI (2017)
+  url: https://www.righto.com/2017/10/the-xerox-alto-smalltalk-and-rewriting.html
+- by: unknown
+  comments: 71
+  domain: github.com
+  hn_url: https://news.ycombinator.com/item?id=44226879
+  id: 44226879
+  score: 0
+  title: 'Show HN: Munal OS: a graphical experimental OS with WASM sandboxing'
+  url: https://github.com/Askannz/munal-os

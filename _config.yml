@@ -7,20 +7,17 @@ description: The personal Hacker News Digest of Syazaril Asyraf
 
 permalink: /:year/:month/:day/:title.html
 
+# Include data files
+include:
+  - _data
+
+# Exclude files from processing
+exclude:
+  - digest_script.py
+  - requirements.txt
+  - readme.md
+
 favicon: "logo.png"
-
-theme: no-style-please
-# If you use GitHub Pages, use:
-# remote_theme: riggraz/no-style-please
-
-theme_config:
-  appearance: "auto"
-  back_home_text: "←"
-  date_format: "%Y-%m-%d"
-  show_description: false
-
-sass:
-  style: :compressed
 
 plugins:
   - jekyll-feed

@@ -1,0 +1,74 @@
+date: '2025-08-23'
+stories:
+- by: unknown
+  comments: 3
+  domain: creao.ai
+  hn_url: https://news.ycombinator.com/item?id=44992186
+  id: 44992186
+  score: 0
+  title: 'Show HN: Creao – Vibe coding product for founders'
+  url: https://creao.ai/
+- by: unknown
+  comments: 5
+  domain: malsmith.net
+  hn_url: https://news.ycombinator.com/item?id=44992930
+  id: 44992930
+  score: 0
+  title: A visual history of Visual C++ (2017)
+  url: http://www.malsmith.net/blog/visual-c-visual-history/
+- by: unknown
+  comments: 44
+  domain: github.com
+  hn_url: https://news.ycombinator.com/item?id=44988271
+  id: 44988271
+  score: 0
+  title: 'Show HN: JavaScript-free (X)HTML Includes'
+  url: https://github.com/Evidlo/xsl-website
+- by: unknown
+  comments: 11
+  domain: arstechnica.com
+  hn_url: https://news.ycombinator.com/item?id=44992832
+  id: 44992832
+  score: 0
+  title: Google says it dropped the energy cost of AI queries by 33x in one year
+  url: https://arstechnica.com/ai/2025/08/google-says-it-dropped-the-energy-cost-of-ai-queries-by-33x-in-one-year/
+- by: unknown
+  comments: 57
+  domain: git.vuxu.org
+  hn_url: https://news.ycombinator.com/item?id=44988530
+  id: 44988530
+  score: 0
+  title: 'Nitro: A tiny but flexible init system and process supervisor'
+  url: https://git.vuxu.org/nitro/about/
+- by: unknown
+  comments: 89
+  domain: moq.dev
+  hn_url: https://news.ycombinator.com/item?id=44987924
+  id: 44987924
+  score: 0
+  title: 'The first Media over QUIC CDN: Cloudflare'
+  url: https://moq.dev/blog/first-cdn/
+- by: unknown
+  comments: 26
+  domain: howtogeek.com
+  hn_url: https://news.ycombinator.com/item?id=44950482
+  id: 44950482
+  score: 0
+  title: I Run a Full Linux Desktop in Docker Just Because I Can
+  url: https://www.howtogeek.com/i-run-a-full-linux-desktop-in-docker-just-because-i-can/
+- by: unknown
+  comments: 9
+  domain: shaderacademy.com
+  hn_url: https://news.ycombinator.com/item?id=44960750
+  id: 44960750
+  score: 0
+  title: 'Shader Academy: Learn computer graphics by solving challenges'
+  url: https://shaderacademy.com/
+- by: unknown
+  comments: 5
+  domain: thoughtbot.com
+  hn_url: https://news.ycombinator.com/item?id=44981088
+  id: 44981088
+  score: 0
+  title: 'Top Secret: Automatically filter sensitive information'
+  url: https://thoughtbot.com/blog/top-secret

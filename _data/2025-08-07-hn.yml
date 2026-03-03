@@ -1,0 +1,82 @@
+date: '2025-08-07'
+stories:
+- by: unknown
+  comments: 20
+  domain: tenfourfox.blogspot.com
+  hn_url: https://news.ycombinator.com/item?id=44819962
+  id: 44819962
+  score: 0
+  title: Mac history echoes in current Mac operating systems
+  url: http://tenfourfox.blogspot.com/2025/08/mac-history-echoes-in-mac-operating.html
+- by: unknown
+  comments: 199
+  domain: github.com
+  hn_url: https://news.ycombinator.com/item?id=44811567
+  id: 44811567
+  score: 0
+  title: Claude Code IDE integration for Emacs
+  url: https://github.com/manzaltu/claude-code-ide.el
+- by: unknown
+  comments: 4
+  domain: baseten.co
+  hn_url: https://news.ycombinator.com/item?id=44819968
+  id: 44819968
+  score: 0
+  title: Running GPT-OSS-120B at 500 tokens per second on Nvidia GPUs
+  url: https://www.baseten.co/blog/sota-performance-for-gpt-oss-120b-on-nvidia-gpus/
+- by: unknown
+  comments: 0
+  domain: benborgers.com
+  hn_url: https://news.ycombinator.com/item?id=44820753
+  id: 44820753
+  score: 0
+  title: How ChatGPT spoiled my semester (2024)
+  url: https://benborgers.com/chatgpt-semester
+- by: unknown
+  comments: 54
+  domain: founders.archives.gov
+  hn_url: https://news.ycombinator.com/item?id=44819037
+  id: 44819037
+  score: 0
+  title: Rules by Which a Great Empire May Be Reduced to a Small One (1773)
+  url: https://founders.archives.gov/documents/Franklin/01-20-02-0213
+- by: unknown
+  comments: 11
+  domain: arxiv.org
+  hn_url: https://news.ycombinator.com/item?id=44819738
+  id: 44819738
+  score: 0
+  title: A Candidate Giant Planet Imaged in the Habitable Zone of α Cen A
+  url: https://arxiv.org/abs/2508.03814
+- by: unknown
+  comments: 146
+  domain: projecthyperion.org
+  hn_url: https://news.ycombinator.com/item?id=44817539
+  id: 44817539
+  score: 0
+  title: 'Project Hyperion: Interstellar ship design competition'
+  url: https://www.projecthyperion.org
+- by: unknown
+  comments: 36
+  domain: classcentral.com
+  hn_url: https://news.ycombinator.com/item?id=44778125
+  id: 44778125
+  score: 0
+  title: 'The Day MOOCs Died: Coursera''s Preview Mode Kills Free Learning'
+  url: https://www.classcentral.com/report/coursera-preview-mode-paywall/
+- by: unknown
+  comments: 54
+  domain: b-list.org
+  hn_url: https://news.ycombinator.com/item?id=44816755
+  id: 44816755
+  score: 0
+  title: Litestar is worth a look
+  url: https://www.b-list.org/weblog/2025/aug/06/litestar/
+- by: unknown
+  comments: 0
+  domain: crates.io
+  hn_url: https://news.ycombinator.com/item?id=44820341
+  id: 44820341
+  score: 0
+  title: 'Show HN: Rust framework for advanced file recognition and identification'
+  url: https://crates.io/crates/magical_rs

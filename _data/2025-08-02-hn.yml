@@ -1,0 +1,83 @@
+date: '2025-08-02'
+stories:
+- by: unknown
+  comments: 1
+  domain: discourse.llvm.org
+  hn_url: https://news.ycombinator.com/item?id=44764376
+  id: 44764376
+  score: 0
+  title: Hardening mode for the compiler
+  url: https://discourse.llvm.org/t/rfc-hardening-mode-for-the-compiler/87660
+- by: unknown
+  comments: 101
+  domain: cerebras.ai
+  hn_url: https://news.ycombinator.com/item?id=44762959
+  id: 44762959
+  score: 0
+  title: Cerebras Code
+  url: https://www.cerebras.ai/blog/introducing-cerebras-code
+- by: unknown
+  comments: 5
+  domain: theartnewspaper.com
+  hn_url: https://news.ycombinator.com/item?id=44764568
+  id: 44764568
+  score: 0
+  title: Robert Wilson has died
+  url: https://www.theartnewspaper.com/2025/08/01/robert-wilson-playwright-director-artist-obituary
+- by: unknown
+  comments: 34
+  domain: dougmacdowell.com
+  hn_url: https://news.ycombinator.com/item?id=44762880
+  id: 44762880
+  score: 0
+  title: Coffeematic PC – A coffee maker computer that pumps hot coffee to the CPU
+  url: https://www.dougmacdowell.com/coffeematic-pc.html
+- by: unknown
+  comments: 8
+  domain: rickovercorpus.org
+  hn_url: https://news.ycombinator.com/item?id=44764077
+  id: 44764077
+  score: 0
+  title: 'The Rickover Corpus: A digital archive of Admiral Rickover''s speeches and
+    memos'
+  url: https://rickovercorpus.org/
+- by: unknown
+  comments: 20
+  domain: obrhubr.org
+  hn_url: https://news.ycombinator.com/item?id=44734515
+  id: 44734515
+  score: 0
+  title: Weather Model based on ADS-B
+  url: https://obrhubr.org/adsb-weather-model
+- by: unknown
+  comments: 10
+  domain: github.com
+  hn_url: https://news.ycombinator.com/item?id=44722950
+  id: 44722950
+  score: 0
+  title: 'Ethersync: Peer-to-peer collaborative editing of local text files'
+  url: https://github.com/ethersync/ethersync
+- by: unknown
+  comments: 127
+  domain: quantamagazine.org
+  hn_url: https://news.ycombinator.com/item?id=44759152
+  id: 44759152
+  score: 0
+  title: At 17, Hannah Cairo solved a major math mystery
+  url: https://www.quantamagazine.org/at-17-hannah-cairo-solved-a-major-math-mystery-20250801/
+- by: unknown
+  comments: 5
+  domain: github.grumdrig.com
+  hn_url: https://news.ycombinator.com/item?id=44721932
+  id: 44721932
+  score: 0
+  title: JavaScript retro sound effects generator
+  url: https://github.grumdrig.com/jsfxr/
+- by: unknown
+  comments: 122
+  domain: skeptrune.com
+  hn_url: https://news.ycombinator.com/item?id=44759417
+  id: 44759417
+  score: 0
+  title: I couldn't submit a PR, so I got hired and fixed it myself
+  url: https://www.skeptrune.com/posts/doing-the-little-things/

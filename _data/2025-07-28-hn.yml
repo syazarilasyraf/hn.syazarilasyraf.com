@@ -1,0 +1,82 @@
+date: '2025-07-28'
+stories:
+- by: unknown
+  comments: 272
+  domain: github.com
+  hn_url: https://news.ycombinator.com/item?id=44703164
+  id: 44703164
+  score: 0
+  title: Performance and telemetry analysis of Trae IDE, ByteDance's VSCode fork
+  url: https://github.com/segmentationf4u1t/trae_telemetry_research
+- by: unknown
+  comments: 59
+  domain: geoffreylitt.com
+  hn_url: https://news.ycombinator.com/item?id=44705445
+  id: 44705445
+  score: 0
+  title: Enough AI copilots, we need AI HUDs
+  url: https://www.geoffreylitt.com/2025/07/27/enough-ai-copilots-we-need-ai-huds
+- by: unknown
+  comments: 32
+  domain: lithub.com
+  hn_url: https://news.ycombinator.com/item?id=44706428
+  id: 44706428
+  score: 0
+  title: Big agriculture mislead the public about the benefits of biofuels
+  url: https://lithub.com/how-big-agriculture-mislead-the-public-about-the-benefits-of-biofuels/
+- by: unknown
+  comments: 142
+  domain: dumbpipe.dev
+  hn_url: https://news.ycombinator.com/item?id=44701555
+  id: 44701555
+  score: 0
+  title: Dumb Pipe
+  url: https://www.dumbpipe.dev/
+- by: unknown
+  comments: 25
+  domain: code.blender.org
+  hn_url: https://news.ycombinator.com/item?id=44671802
+  id: 44671802
+  score: 0
+  title: 'Blender: Beyond Mouse and Keyboard'
+  url: https://code.blender.org/2025/07/beyond-mouse-keyboard/
+- by: unknown
+  comments: 66
+  domain: nexy.blog
+  hn_url: https://news.ycombinator.com/item?id=44704270
+  id: 44704270
+  score: 0
+  title: I hacked my washing machine
+  url: https://nexy.blog/2025/07/27/how-i-hacked-my-washing-machine/
+- by: unknown
+  comments: 19
+  domain: byteofdev.com
+  hn_url: https://news.ycombinator.com/item?id=44704736
+  id: 44704736
+  score: 0
+  title: Making Postgres slower
+  url: https://byteofdev.com/posts/making-postgres-slow/
+- by: unknown
+  comments: 1
+  domain: neurrone.com
+  hn_url: https://news.ycombinator.com/item?id=44672149
+  id: 44672149
+  score: 0
+  title: Software Development at 800 Words per Minute
+  url: https://neurrone.com/posts/software-development-at-800-wpm/
+- by: unknown
+  comments: 208
+  domain: reddit.com
+  hn_url: https://news.ycombinator.com/item?id=44705240
+  id: 44705240
+  score: 0
+  title: EU age verification app to ban any Android system not licensed by Google
+  url: https://www.reddit.com/r/degoogle/s/YxmPgFes8a
+- by: unknown
+  comments: 3
+  domain: github.com
+  hn_url: https://news.ycombinator.com/item?id=44705958
+  id: 44705958
+  score: 0
+  title: Claude Code Router
+  url: https://github.com/musistudio/claude-code-router

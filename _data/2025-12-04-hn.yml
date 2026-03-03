@@ -1,0 +1,83 @@
+date: '2025-12-04'
+stories:
+- by: unknown
+  comments: 181
+  domain: mitchellh.com
+  hn_url: https://news.ycombinator.com/item?id=46138238
+  id: 46138238
+  score: 0
+  title: Ghostty is now non-profit
+  url: https://mitchellh.com/writing/ghostty-non-profit
+- by: unknown
+  comments: 523
+  domain: theverge.com
+  hn_url: https://news.ycombinator.com/item?id=46126446
+  id: 46126446
+  score: 0
+  title: Valve reveals it’s the architect behind a push to bring Windows games to
+    Arm
+  url: https://www.theverge.com/report/820656/valve-interview-arm-gaming-steamos-pierre-loup-griffais
+- by: unknown
+  comments: 2
+  domain: bbc.com
+  hn_url: https://news.ycombinator.com/item?id=46143622
+  id: 46143622
+  score: 0
+  title: New homes in London were delayed by 'energy-hungry' data centres
+  url: https://www.bbc.com/news/articles/c0mpr1mvwj3o
+- by: unknown
+  comments: 71
+  domain: pcpartpicker.com
+  hn_url: https://news.ycombinator.com/item?id=46142100
+  id: 46142100
+  score: 0
+  title: Average DRAM price in USD over last 18 months
+  url: https://pcpartpicker.com/trends/price/memory/
+- by: unknown
+  comments: 188
+  domain: alexschapiro.com
+  hn_url: https://news.ycombinator.com/item?id=46137514
+  id: 46137514
+  score: 0
+  title: Reverse engineering a $1B Legal AI tool exposed 100k+ confidential files
+  url: https://alexschapiro.com/security/vulnerability/2025/12/02/filevine-api-100k
+- by: unknown
+  comments: 221
+  domain: investors.micron.com
+  hn_url: https://news.ycombinator.com/item?id=46137783
+  id: 46137783
+  score: 0
+  title: Micron Announces Exit from Crucial Consumer Business
+  url: https://investors.micron.com/news-releases/news-release-details/micron-announces-exit-crucial-consumer-business
+- by: unknown
+  comments: 1
+  domain: fortran-lang.discourse.group
+  hn_url: https://news.ycombinator.com/item?id=46143618
+  id: 46143618
+  score: 0
+  title: Euler Conjecture and CDC 6600
+  url: https://fortran-lang.discourse.group/t/euler-conjecture-and-cdc-6600/10501
+- by: unknown
+  comments: 134
+  domain: conwaylife.com
+  hn_url: https://news.ycombinator.com/item?id=46137253
+  id: 46137253
+  score: 0
+  title: 1D Conway's Life glider found, 3.7B cells long
+  url: https://conwaylife.com/forums/viewtopic.php?&p=222136#p222136
+- by: unknown
+  comments: 33
+  domain: blog.brocas.org
+  hn_url: https://news.ycombinator.com/item?id=46141745
+  id: 46141745
+  score: 0
+  title: Acme, a brief history of one of the protocols which has changed the Internet
+  url: https://blog.brocas.org/2025/12/01/ACME-a-brief-history-of-one-of-the-protocols-which-has-changed-the-Internet-Security/
+- by: unknown
+  comments: 20
+  domain: isc.org
+  hn_url: https://news.ycombinator.com/item?id=46142000
+  id: 46142000
+  score: 0
+  title: 'Kea DHCP: Modern, open source DHCPv4 and DHCPv6 server'
+  url: https://www.isc.org/kea/

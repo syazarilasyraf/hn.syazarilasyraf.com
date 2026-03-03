@@ -1,0 +1,82 @@
+date: '2025-09-09'
+stories:
+- by: unknown
+  comments: 66
+  domain: maurycyz.com
+  hn_url: https://news.ycombinator.com/item?id=45176206
+  id: 45176206
+  score: 0
+  title: No adblocker detected
+  url: https://maurycyz.com/misc/ads/
+- by: unknown
+  comments: 111
+  domain: news.artnet.com
+  hn_url: https://news.ycombinator.com/item?id=45175628
+  id: 45175628
+  score: 0
+  title: The art world is in a precarious state
+  url: https://news.artnet.com/market/intelligence-report-storm-2025-2684512
+- by: unknown
+  comments: 321
+  domain: signal.org
+  hn_url: https://news.ycombinator.com/item?id=45170515
+  id: 45170515
+  score: 0
+  title: Signal Secure Backups
+  url: https://signal.org/blog/introducing-secure-backups/
+- by: unknown
+  comments: 242
+  domain: stopa.io
+  hn_url: https://news.ycombinator.com/item?id=45171200
+  id: 45171200
+  score: 0
+  title: iPhone dumbphone
+  url: https://stopa.io/post/297
+- by: unknown
+  comments: 30
+  domain: kube.io
+  hn_url: https://news.ycombinator.com/item?id=45174297
+  id: 45174297
+  score: 0
+  title: 'Liquid Glass in the Browser: Refraction with CSS and SVG'
+  url: https://kube.io/blog/liquid-glass-css-svg/
+- by: unknown
+  comments: 6
+  domain: gustedt.wordpress.com
+  hn_url: https://news.ycombinator.com/item?id=45135591
+  id: 45135591
+  score: 0
+  title: Contracts for C
+  url: https://gustedt.wordpress.com/2025/03/10/contracts-for-c/
+- by: unknown
+  comments: 67
+  domain: alterego.io
+  hn_url: https://news.ycombinator.com/item?id=45174125
+  id: 45174125
+  score: 0
+  title: 'Alterego: Thought to Text'
+  url: https://www.alterego.io/
+- by: unknown
+  comments: 569
+  domain: aikido.dev
+  hn_url: https://news.ycombinator.com/item?id=45169657
+  id: 45169657
+  score: 0
+  title: NPM debug and chalk packages compromised
+  url: https://www.aikido.dev/blog/npm-debug-and-chalk-packages-compromised
+- by: unknown
+  comments: 184
+  domain: blog.6nok.org
+  hn_url: https://news.ycombinator.com/item?id=45168953
+  id: 45168953
+  score: 0
+  title: Experimenting with Local LLMs on macOS
+  url: https://blog.6nok.org/experimenting-with-local-llms-on-macos/
+- by: unknown
+  comments: 11
+  domain: github.com
+  hn_url: https://news.ycombinator.com/item?id=45176401
+  id: 45176401
+  score: 0
+  title: 'Show HN: Attempt – A CLI for retrying fallible commands'
+  url: https://github.com/MaxBondABE/attempt

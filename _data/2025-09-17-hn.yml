@@ -1,0 +1,83 @@
+date: '2025-09-17'
+stories:
+- by: unknown
+  comments: 21
+  domain: midnight-commander.org
+  hn_url: https://news.ycombinator.com/item?id=45271481
+  id: 45271481
+  score: 0
+  title: GNU Midnight Commander
+  url: https://midnight-commander.org/
+- by: unknown
+  comments: 119
+  domain: blinry.org
+  hn_url: https://news.ycombinator.com/item?id=45262835
+  id: 45262835
+  score: 0
+  title: Things you can do with a Software Defined Radio (2024)
+  url: https://blinry.org/50-things-with-sdr/
+- by: unknown
+  comments: 86
+  domain: support.apple.com
+  hn_url: https://news.ycombinator.com/item?id=45270108
+  id: 45270108
+  score: 0
+  title: Apple releases iOS 15.8.5 security update for 10-year old iPhone 6s
+  url: https://support.apple.com/en-us/125142
+- by: unknown
+  comments: 68
+  domain: noctua.at
+  hn_url: https://news.ycombinator.com/item?id=45266039
+  id: 45266039
+  score: 0
+  title: How to make the Framework Desktop run even quieter
+  url: https://noctua.at/en/how-to-make-the-framework-desktop-run-even-quieter
+- by: unknown
+  comments: 24
+  domain: hub.docker.com
+  hn_url: https://news.ycombinator.com/item?id=45270482
+  id: 45270482
+  score: 0
+  title: 'Irssi: IRC Client in a Docker Image'
+  url: https://hub.docker.com/_/irssi
+- by: unknown
+  comments: 1
+  domain: totenarctanz.itch.io
+  hn_url: https://news.ycombinator.com/item?id=45270981
+  id: 45270981
+  score: 0
+  title: 'Show HN: A PSX/DOS style 3D game written in Rust with a custom software
+    renderer'
+  url: https://totenarctanz.itch.io/a-scavenging-trip
+- by: unknown
+  comments: 243
+  domain: gavi.org
+  hn_url: https://news.ycombinator.com/item?id=45265745
+  id: 45265745
+  score: 0
+  title: Denmark close to wiping out cancer-causing HPV strains after vaccine roll-out
+  url: https://www.gavi.org/vaccineswork/denmark-close-wiping-out-leading-cancer-causing-hpv-strains-after-vaccine-roll-out
+- by: unknown
+  comments: 3
+  domain: github.com
+  hn_url: https://news.ycombinator.com/item?id=45271484
+  id: 45271484
+  score: 0
+  title: 'The Asus Gaming Laptop ACPI Firmware Bug: A Deep Technical Investigation'
+  url: https://github.com/Zephkek/Asus-ROG-Aml-Deep-Dive
+- by: unknown
+  comments: 40
+  domain: lenowo.org
+  hn_url: https://news.ycombinator.com/item?id=45268269
+  id: 45268269
+  score: 0
+  title: Doom crash after 2.5 years of real-world runtime confirmed on real hardware
+  url: https://lenowo.org/viewtopic.php?t=31
+- by: unknown
+  comments: 16
+  domain: herman.bearblog.dev
+  hn_url: https://news.ycombinator.com/item?id=45270676
+  id: 45270676
+  score: 0
+  title: Slow Social Media
+  url: https://herman.bearblog.dev/slow-social-media/

@@ -1,0 +1,82 @@
+date: '2025-05-25'
+stories:
+- by: unknown
+  comments: 136
+  domain: endler.dev
+  hn_url: https://news.ycombinator.com/item?id=44083467
+  id: 44083467
+  score: 0
+  title: Reinvent the Wheel
+  url: https://endler.dev/2025/reinvent-the-wheel/
+- by: unknown
+  comments: 11
+  domain: wsj.com
+  hn_url: https://news.ycombinator.com/item?id=44055454
+  id: 44055454
+  score: 0
+  title: Nvidia Pushes Further into Cloud with GPU Marketplace
+  url: https://www.wsj.com/articles/nvidia-pushes-further-into-cloud-with-gpu-marketplace-4fba6bdd
+- by: unknown
+  comments: 16
+  domain: blog.pipetogrep.org
+  hn_url: https://news.ycombinator.com/item?id=44084885
+  id: 44084885
+  score: 0
+  title: How to Install Windows NT 4 Server on Proxmox
+  url: https://blog.pipetogrep.org/2025/05/23/how-to-install-windows-nt-4-server-on-proxmox/
+- by: unknown
+  comments: 0
+  domain: solhsa.com
+  hn_url: https://news.ycombinator.com/item?id=44049252
+  id: 44049252
+  score: 0
+  title: On File Formats
+  url: https://solhsa.com/oldernews2025.html#ON-FILE-FORMATS
+- by: unknown
+  comments: 120
+  domain: sean.heelan.io
+  hn_url: https://news.ycombinator.com/item?id=44081338
+  id: 44081338
+  score: 0
+  title: I used o3 to find a remote zeroday in the Linux SMB implementation
+  url: https://sean.heelan.io/2025/05/22/how-i-used-o3-to-find-cve-2025-37899-a-remote-zeroday-vulnerability-in-the-linux-kernels-smb-implementation/
+- by: unknown
+  comments: 18
+  domain: angrystaffofficer.com
+  hn_url: https://news.ycombinator.com/item?id=44084653
+  id: 44084653
+  score: 0
+  title: Failure Mechanisms in Democratic Regimes – An Army's Role
+  url: https://angrystaffofficer.com/2025/03/02/failure-mechanisms-in-democratic-regimes-an-armys-role/
+- by: unknown
+  comments: 25
+  domain: blog.siguza.net
+  hn_url: https://news.ycombinator.com/item?id=44083388
+  id: 44083388
+  score: 0
+  title: 'Tachy0n: The Last 0day Jailbreak'
+  url: https://blog.siguza.net/tachy0n/
+- by: unknown
+  comments: 80
+  domain: pleromanonx86.wordpress.com
+  hn_url: https://news.ycombinator.com/item?id=44083917
+  id: 44083917
+  score: 0
+  title: Why old games never die, but new ones do
+  url: https://pleromanonx86.wordpress.com/2025/05/06/why-old-games-never-die-but-new-ones-do/
+- by: unknown
+  comments: 205
+  domain: paulgraham.com
+  hn_url: https://news.ycombinator.com/item?id=44081586
+  id: 44081586
+  score: 0
+  title: Good Writing
+  url: https://paulgraham.com/goodwriting.html
+- by: unknown
+  comments: 17
+  domain: basicappleguy.com
+  hn_url: https://news.ycombinator.com/item?id=44048589
+  id: 44048589
+  score: 0
+  title: The WinRAR Approach
+  url: https://basicappleguy.com/basicappleblog/the-winrar-approach

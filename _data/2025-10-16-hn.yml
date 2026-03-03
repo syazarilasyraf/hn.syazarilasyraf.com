@@ -1,0 +1,74 @@
+date: '2025-10-16'
+stories:
+- by: unknown
+  comments: 1114
+  domain: apple.com
+  hn_url: https://news.ycombinator.com/item?id=45591799
+  id: 45591799
+  score: 0
+  title: Apple M5 chip
+  url: https://www.apple.com/newsroom/2025/10/apple-unleashes-m5-the-next-big-leap-in-ai-performance-for-apple-silicon/
+- by: unknown
+  comments: 201
+  domain: anthropic.com
+  hn_url: https://news.ycombinator.com/item?id=45595403
+  id: 45595403
+  score: 0
+  title: Claude Haiku 4.5
+  url: https://www.anthropic.com/news/claude-haiku-4-5
+- by: unknown
+  comments: 1
+  domain: exploring-better-ways.bellroy.com
+  hn_url: https://news.ycombinator.com/item?id=45601177
+  id: 45601177
+  score: 0
+  title: Free applicatives, the handle pattern, and remote systems
+  url: https://exploring-better-ways.bellroy.com/free-applicatives-the-handle-pattern-and-remote-systems.html
+- by: unknown
+  comments: 429
+  domain: blog.daviddodda.com
+  hn_url: https://news.ycombinator.com/item?id=45591707
+  id: 45591707
+  score: 0
+  title: I almost got hacked by a 'job interview'
+  url: https://blog.daviddodda.com/how-i-almost-got-hacked-by-a-job-interview
+- by: unknown
+  comments: 9
+  domain: marimo.io
+  hn_url: https://news.ycombinator.com/item?id=45509301
+  id: 45509301
+  score: 0
+  title: Closer to production quality Python notebooks with `marimo check`
+  url: https://marimo.io/blog/marimo-check
+- by: unknown
+  comments: 105
+  domain: zed.dev
+  hn_url: https://news.ycombinator.com/item?id=45594920
+  id: 45594920
+  score: 0
+  title: Zed is now available on Windows
+  url: https://zed.dev/blog/zed-for-windows-is-here
+- by: unknown
+  comments: 0
+  domain: arxiv.org
+  hn_url: https://news.ycombinator.com/item?id=45601230
+  id: 45601230
+  score: 0
+  title: 'TaxCalcBench: Evaluating Frontier Models on the Tax Calculation Task'
+  url: https://arxiv.org/abs/2507.16126
+- by: unknown
+  comments: 0
+  domain: smithsonianmag.com
+  hn_url: https://news.ycombinator.com/item?id=45601541
+  id: 45601541
+  score: 0
+  title: What Does George Orwell's '1984' Mean in 2024?
+  url: https://www.smithsonianmag.com/history/what-does-george-orwells-1984-mean-in-2024-180984468/
+- by: unknown
+  comments: 56
+  domain: github.com
+  hn_url: https://news.ycombinator.com/item?id=45599567
+  id: 45599567
+  score: 0
+  title: IRS open sources its fact graph
+  url: https://github.com/IRS-Public/fact-graph

@@ -1,0 +1,82 @@
+date: '2025-08-09'
+stories:
+- by: unknown
+  comments: 158
+  domain: instavm.io
+  hn_url: https://news.ycombinator.com/item?id=44840013
+  id: 44840013
+  score: 0
+  title: I want everything local – Building my offline AI workspace
+  url: https://instavm.io/blog/building-my-offline-ai-workspace
+- by: unknown
+  comments: 21
+  domain: shkspr.mobi
+  hn_url: https://news.ycombinator.com/item?id=44810916
+  id: 44810916
+  score: 0
+  title: I bought a £16 smartwatch just because it used USB-C
+  url: https://shkspr.mobi/blog/2025/08/i-bought-a-16-smartwatch-just-because-it-used-usb-c/
+- by: unknown
+  comments: 188
+  domain: github.com
+  hn_url: https://news.ycombinator.com/item?id=44835879
+  id: 44835879
+  score: 0
+  title: Ultrathin business card runs a fluid simulation
+  url: https://github.com/Nicholas-L-Johnson/flip-card
+- by: unknown
+  comments: 11
+  domain: npr.org
+  hn_url: https://news.ycombinator.com/item?id=44806537
+  id: 44806537
+  score: 0
+  title: Engineer restores pay phones for free public use
+  url: https://www.npr.org/2025/08/04/nx-s1-5484013/engineer-restores-pay-phones-for-free-public-use
+- by: unknown
+  comments: 135
+  domain: thereader.mitpress.mit.edu
+  hn_url: https://news.ycombinator.com/item?id=44838378
+  id: 44838378
+  score: 0
+  title: 'Tor: How a military project became a lifeline for privacy'
+  url: https://thereader.mitpress.mit.edu/the-secret-history-of-tor-how-a-military-project-became-a-lifeline-for-privacy/
+- by: unknown
+  comments: 0
+  domain: ethanding.substack.com
+  hn_url: https://news.ycombinator.com/item?id=44843801
+  id: 44843801
+  score: 0
+  title: What the windsurf sale means for the AI coding ecosystem
+  url: https://ethanding.substack.com/p/windsurf-gets-margin-called
+- by: unknown
+  comments: 15
+  domain: github.com
+  hn_url: https://news.ycombinator.com/item?id=44840654
+  id: 44840654
+  score: 0
+  title: 'Efrit: A native elisp coding agent running in Emacs'
+  url: https://github.com/steveyegge/efrit
+- by: unknown
+  comments: 119
+  domain: dzombak.com
+  hn_url: https://news.ycombinator.com/item?id=44836879
+  id: 44836879
+  score: 0
+  title: Getting good results from Claude Code
+  url: https://www.dzombak.com/blog/2025/08/getting-good-results-from-claude-code/
+- by: unknown
+  comments: 87
+  domain: nasa.gov
+  hn_url: https://news.ycombinator.com/item?id=44840582
+  id: 44840582
+  score: 0
+  title: Jim Lovell, Apollo 13 commander, has died
+  url: https://www.nasa.gov/news-release/acting-nasa-administrator-reflects-on-legacy-of-astronaut-jim-lovell/
+- by: unknown
+  comments: 53
+  domain: radar.com
+  hn_url: https://news.ycombinator.com/item?id=44836463
+  id: 44836463
+  score: 0
+  title: How we replaced Elasticsearch and MongoDB with Rust and RocksDB
+  url: https://radar.com/blog/high-performance-geocoding-in-rust

@@ -1,0 +1,82 @@
+date: '2026-01-14'
+stories:
+- by: unknown
+  comments: 67
+  domain: blog.jgc.org
+  hn_url: https://news.ycombinator.com/item?id=46591810
+  id: 46591810
+  score: 0
+  title: There's a ridiculous amount of tech in a disposable vape
+  url: https://blog.jgc.org/2026/01/theres-ridiculous-amount-of-tech-in.html
+- by: unknown
+  comments: 10
+  domain: caidan.dev
+  hn_url: https://news.ycombinator.com/item?id=46611507
+  id: 46611507
+  score: 0
+  title: ASCII Clouds
+  url: https://caidan.dev/portfolio/ascii_clouds/
+- by: unknown
+  comments: 38
+  domain: questdb.com
+  hn_url: https://news.ycombinator.com/item?id=46609630
+  id: 46609630
+  score: 0
+  title: A 40-line fix eliminated a 400x performance gap
+  url: https://questdb.com/blog/jvm-current-thread-user-time/
+- by: unknown
+  comments: 44
+  domain: greptile.com
+  hn_url: https://news.ycombinator.com/item?id=46602591
+  id: 46602591
+  score: 0
+  title: Every GitHub object has two IDs
+  url: https://www.greptile.com/blog/github-ids
+- by: unknown
+  comments: 2
+  domain: en.wikipedia.org
+  hn_url: https://news.ycombinator.com/item?id=46611823
+  id: 46611823
+  score: 0
+  title: 1000 Blank White Cards
+  url: https://en.wikipedia.org/wiki/1000_Blank_White_Cards
+- by: unknown
+  comments: 7
+  domain: blog.vllm.ai
+  hn_url: https://news.ycombinator.com/item?id=46602737
+  id: 46602737
+  score: 0
+  title: 'vLLM large scale serving: DeepSeek 2.2k tok/s/h200 with wide-ep'
+  url: https://blog.vllm.ai/2025/12/17/large-scale-serving.html
+- by: unknown
+  comments: 13
+  domain: epstein.trynia.ai
+  hn_url: https://news.ycombinator.com/item?id=46611348
+  id: 46611348
+  score: 0
+  title: 'Show HN: OSS AI agent that indexes and searches the Epstein files'
+  url: https://epstein.trynia.ai/
+- by: unknown
+  comments: 0
+  domain: github.com
+  hn_url: https://news.ycombinator.com/item?id=46611548
+  id: 46611548
+  score: 0
+  title: 'Show HN: Cachekit – High performance caching policies library in Rust'
+  url: https://github.com/OxidizeLabs/cachekit
+- by: unknown
+  comments: 28
+  domain: owlposting.com
+  hn_url: https://news.ycombinator.com/item?id=46605332
+  id: 46605332
+  score: 0
+  title: The truth behind the 2026 J.P. Morgan Healthcare Conference
+  url: https://www.owlposting.com/p/the-truth-behind-the-2026-jp-morgan
+- by: unknown
+  comments: 9
+  domain: linus.schreibt.jetzt
+  hn_url: https://news.ycombinator.com/item?id=46554774
+  id: 46554774
+  score: 0
+  title: Handling secrets (somewhat) securely in shells
+  url: https://linus.schreibt.jetzt/posts/shell-secrets.html

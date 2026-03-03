@@ -1,0 +1,84 @@
+date: '2026-01-15'
+stories:
+- by: unknown
+  comments: 20
+  domain: creepylink.com
+  hn_url: https://news.ycombinator.com/item?id=46627652
+  id: 46627652
+  score: 0
+  title: The URL shortener that makes your links look as suspicious as possible
+  url: https://creepylink.com/
+- by: unknown
+  comments: 232
+  domain: promptarmor.com
+  hn_url: https://news.ycombinator.com/item?id=46622328
+  id: 46622328
+  score: 0
+  title: Claude Cowork Exfiltrates Files
+  url: https://www.promptarmor.com/resources/claude-cowork-exfiltrates-files
+- by: unknown
+  comments: 53
+  domain: furiosa.ai
+  hn_url: https://news.ycombinator.com/item?id=46626410
+  id: 46626410
+  score: 0
+  title: 'Furiosa: 3.5x efficiency over H100s'
+  url: https://furiosa.ai/blog/introducing-rngd-server-efficient-ai-inference-at-data-center-scale
+- by: unknown
+  comments: 75
+  domain: cursor.com
+  hn_url: https://news.ycombinator.com/item?id=46624541
+  id: 46624541
+  score: 0
+  title: Scaling long-running autonomous coding
+  url: https://cursor.com/blog/scaling-agents
+- by: unknown
+  comments: 31
+  domain: entropicthoughts.com
+  hn_url: https://news.ycombinator.com/item?id=46602411
+  id: 46602411
+  score: 0
+  title: You need a kitchen slide rule
+  url: https://entropicthoughts.com/kitchen-slide-rule
+- by: unknown
+  comments: 0
+  domain: tavus.io
+  hn_url: https://news.ycombinator.com/item?id=46619614
+  id: 46619614
+  score: 0
+  title: 'Show HN: Sparrow-1 – Audio-native model for human-level turn-taking without
+    ASR'
+  url: https://www.tavus.io/post/sparrow-1-human-level-conversational-timing-in-real-time-voice
+- by: unknown
+  comments: 17
+  domain: cryptography.io
+  hn_url: https://news.ycombinator.com/item?id=46624352
+  id: 46624352
+  score: 0
+  title: The State of OpenSSL for pyca/cryptography
+  url: https://cryptography.io/en/latest/statements/state-of-openssl/
+- by: unknown
+  comments: 38
+  domain: patrickmccanna.net
+  hn_url: https://news.ycombinator.com/item?id=46626836
+  id: 46626836
+  score: 0
+  title: 'Bubblewrap: A nimble way to prevent agents from accessing your .env files'
+  url: https://patrickmccanna.net/a-better-way-to-limit-claude-code-and-other-coding-agents-access-to-secrets/
+- by: unknown
+  comments: 248
+  domain: swinburne.edu.au
+  hn_url: https://news.ycombinator.com/item?id=46572307
+  id: 46572307
+  score: 0
+  title: Why some clothes shrink in the wash and how to unshrink them
+  url: https://www.swinburne.edu.au/news/2025/08/why-some-clothes-shrink-in-the-wash-and-how-to-unshrink-them/
+- by: unknown
+  comments: 22
+  domain: webtiles.kicya.net
+  hn_url: https://news.ycombinator.com/item?id=46561341
+  id: 46561341
+  score: 0
+  title: 'Show HN: WebTiles – create a tiny 250x250 website with neighbors around
+    you'
+  url: https://webtiles.kicya.net/

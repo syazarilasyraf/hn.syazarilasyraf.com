@@ -1,0 +1,82 @@
+date: '2025-09-18'
+stories:
+- by: unknown
+  comments: 352
+  domain: meta.com
+  hn_url: https://news.ycombinator.com/item?id=45283306
+  id: 45283306
+  score: 0
+  title: Meta Ray-Ban Display
+  url: https://www.meta.com/blog/meta-ray-ban-display-ai-glasses-connect-2025/
+- by: unknown
+  comments: 297
+  domain: webassembly.org
+  hn_url: https://news.ycombinator.com/item?id=45279384
+  id: 45279384
+  score: 0
+  title: WASM 3.0 Completed
+  url: https://webassembly.org/news/2025-09-17-wasm-3.0/
+- by: unknown
+  comments: 30
+  domain: unscreenshottable.vercel.app
+  hn_url: https://news.ycombinator.com/item?id=45284311
+  id: 45284311
+  score: 0
+  title: 'Show HN: The text disappears when you screenshot it'
+  url: https://unscreenshottable.vercel.app/?text=Hello
+- by: unknown
+  comments: 377
+  domain: tenderlovemaking.com
+  hn_url: https://news.ycombinator.com/item?id=45274277
+  id: 45274277
+  score: 0
+  title: Apple Photos app corrupts images
+  url: https://tenderlovemaking.com/2025/09/17/apple-photos-app-corrupts-images/
+- by: unknown
+  comments: 222
+  domain: skyfall.dev
+  hn_url: https://news.ycombinator.com/item?id=45283887
+  id: 45283887
+  score: 0
+  title: Slack has raised our charges by $195k per year
+  url: https://skyfall.dev/posts/slack
+- by: unknown
+  comments: 81
+  domain: anthropic.com
+  hn_url: https://news.ycombinator.com/item?id=45281139
+  id: 45281139
+  score: 0
+  title: A postmortem of three recent issues
+  url: https://www.anthropic.com/engineering/a-postmortem-of-three-recent-issues
+- by: unknown
+  comments: 13
+  domain: dirkjanm.io
+  hn_url: https://news.ycombinator.com/item?id=45282497
+  id: 45282497
+  score: 0
+  title: One Token to rule them all – Obtaining Global Admin in every Entra ID tenant
+  url: https://dirkjanm.io/obtaining-global-admin-in-every-entra-id-tenant-with-actor-tokens/
+- by: unknown
+  comments: 3
+  domain: arxiv.org
+  hn_url: https://news.ycombinator.com/item?id=45284766
+  id: 45284766
+  score: 0
+  title: Towards a Physics Foundation Model
+  url: https://arxiv.org/abs/2509.13805
+- by: unknown
+  comments: 21
+  domain: jenson.org
+  hn_url: https://news.ycombinator.com/item?id=45254763
+  id: 45254763
+  score: 0
+  title: Boring is good
+  url: https://jenson.org/boring/
+- by: unknown
+  comments: 3
+  domain: discourse.gnome.org
+  hn_url: https://news.ycombinator.com/item?id=45283196
+  id: 45283196
+  score: 0
+  title: Stepping Down as Libxml2 Maintainer
+  url: https://discourse.gnome.org/t/stepping-down-as-libxml2-maintainer/31398

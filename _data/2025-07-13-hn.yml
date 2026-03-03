@@ -1,0 +1,83 @@
+date: '2025-07-13'
+stories:
+- by: unknown
+  comments: 469
+  domain: 0x44.xyz
+  hn_url: https://news.ycombinator.com/item?id=44544266
+  id: 44544266
+  score: 0
+  title: Bypassing Google's big anti-adblock update
+  url: https://0x44.xyz/blog/web-request-blocking/
+- by: unknown
+  comments: 11
+  domain: wiomoc.de
+  hn_url: https://news.ycombinator.com/item?id=44546640
+  id: 44546640
+  score: 0
+  title: Hacking Coroutines into C
+  url: https://wiomoc.de/misc/posts/hacking_coroutines_into_c.html
+- by: unknown
+  comments: 0
+  domain: lelanthran.com
+  hn_url: https://news.ycombinator.com/item?id=44507405
+  id: 44507405
+  score: 0
+  title: Parse, Don't Validate (For C)
+  url: https://www.lelanthran.com/chap13/content.html
+- by: unknown
+  comments: 73
+  domain: github.com
+  hn_url: https://news.ycombinator.com/item?id=44543508
+  id: 44543508
+  score: 0
+  title: Kimi k2 largest open source SOTA model?
+  url: https://github.com/MoonshotAI/Kimi-K2
+- by: unknown
+  comments: 177
+  domain: blog.decryption.net.au
+  hn_url: https://news.ycombinator.com/item?id=44540402
+  id: 44540402
+  score: 0
+  title: MacPaint Art from the Mid-80s Still Looks Great Today
+  url: https://blog.decryption.net.au/posts/macpaint.html
+- by: unknown
+  comments: 3
+  domain: timsh.org
+  hn_url: https://news.ycombinator.com/item?id=44533044
+  id: 44533044
+  score: 0
+  title: Switching to Claude Code and VSCode Inside Docker
+  url: https://timsh.org/claude-inside-docker/
+- by: unknown
+  comments: 26
+  domain: github.com
+  hn_url: https://news.ycombinator.com/item?id=44527739
+  id: 44527739
+  score: 0
+  title: Chrome's hidden X-Browser-Validation header reverse engineered
+  url: https://github.com/dsekz/chrome-x-browser-validation-header
+- by: unknown
+  comments: 8
+  domain: inventwithpython.com
+  hn_url: https://news.ycombinator.com/item?id=44543240
+  id: 44543240
+  score: 0
+  title: 'Lost Chapter of Automate the Boring Stuff: Audio, Video, and Webcams in
+    Python'
+  url: https://inventwithpython.com/blog/lost-av-chapter.html
+- by: unknown
+  comments: 2
+  domain: newyorker.com
+  hn_url: https://news.ycombinator.com/item?id=44547089
+  id: 44547089
+  score: 0
+  title: Edward Burtynsky's monumental chronicle of the human impact on the planet
+  url: https://www.newyorker.com/culture/photo-booth/earths-poet-of-scale
+- by: unknown
+  comments: 131
+  domain: nautil.us
+  hn_url: https://news.ycombinator.com/item?id=44541576
+  id: 44541576
+  score: 0
+  title: The fish kick may be the fastest subsurface swim stroke yet (2015)
+  url: https://nautil.us/is-this-new-swim-stroke-the-fastest-yet-235511/

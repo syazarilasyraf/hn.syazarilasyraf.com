@@ -1,0 +1,82 @@
+date: '2026-01-28'
+stories:
+- by: unknown
+  comments: 70
+  domain: aisle.com
+  hn_url: https://news.ycombinator.com/item?id=46789913
+  id: 46789913
+  score: 0
+  title: AI found 12 vulnerabilities in OpenSSL
+  url: https://aisle.com/blog/aisle-discovered-12-out-of-12-openssl-vulnerabilities
+- by: unknown
+  comments: 302
+  domain: openai.com
+  hn_url: https://news.ycombinator.com/item?id=46783752
+  id: 46783752
+  score: 0
+  title: Prism
+  url: https://openai.com/index/introducing-prism
+- by: unknown
+  comments: 400
+  domain: twitter.com
+  hn_url: https://news.ycombinator.com/item?id=46771564
+  id: 46771564
+  score: 0
+  title: A few random notes from Claude coding quite a bit last few weeks
+  url: https://twitter.com/karpathy/status/2015883857489522876
+- by: unknown
+  comments: 206
+  domain: nytimes.com
+  hn_url: https://news.ycombinator.com/item?id=46781530
+  id: 46781530
+  score: 0
+  title: 430k-year-old well-preserved wooden tools are the oldest ever found
+  url: https://www.nytimes.com/2026/01/26/science/archaeology-neanderthals-tools.html
+- by: unknown
+  comments: 3
+  domain: geometrycode.com
+  hn_url: https://news.ycombinator.com/item?id=46735152
+  id: 46735152
+  score: 0
+  title: Golden Ratio using an equilateral triangle inscribed in a circle
+  url: https://geometrycode.com/free/how-to-graphically-derive-the-golden-ratio-using-an-equilateral-triangle-inscribed-in-a-circle/
+- by: unknown
+  comments: 15
+  domain: vectorware.com
+  hn_url: https://news.ycombinator.com/item?id=46741150
+  id: 46741150
+  score: 0
+  title: Rust’s Standard Library on the GPU
+  url: https://www.vectorware.com/blog/rust-std-on-gpu/
+- by: unknown
+  comments: 34
+  domain: github.com
+  hn_url: https://news.ycombinator.com/item?id=46786183
+  id: 46786183
+  score: 0
+  title: Time Station Emulator
+  url: https://github.com/kangtastic/timestation
+- by: unknown
+  comments: 338
+  domain: amutable.com
+  hn_url: https://news.ycombinator.com/item?id=46784572
+  id: 46784572
+  score: 0
+  title: Lennart Poettering, Christian Brauner founded a new company
+  url: https://amutable.com/about
+- by: unknown
+  comments: 100
+  domain: softwaredesign.ing
+  hn_url: https://news.ycombinator.com/item?id=46776155
+  id: 46776155
+  score: 0
+  title: Doing the thing is doing the thing
+  url: https://www.softwaredesign.ing/blog/doing-the-thing-is-doing-the-thing
+- by: unknown
+  comments: 221
+  domain: alexxcons.github.io
+  hn_url: https://news.ycombinator.com/item?id=46779645
+  id: 46779645
+  score: 0
+  title: Xfwl4 – The Roadmap for a Xfce Wayland Compositor
+  url: https://alexxcons.github.io/blogpost_15.html

@@ -1,0 +1,82 @@
+date: '2025-11-16'
+stories:
+- by: unknown
+  comments: 70
+  domain: github.com
+  hn_url: https://news.ycombinator.com/item?id=45941596
+  id: 45941596
+  score: 0
+  title: AirPods libreated from Apple's ecosystem
+  url: https://github.com/kavishdevar/librepods
+- by: unknown
+  comments: 18
+  domain: codeberg.org
+  hn_url: https://news.ycombinator.com/item?id=45941835
+  id: 45941835
+  score: 0
+  title: 'IDEmacs: A Visual Studio Code clone for Emacs'
+  url: https://codeberg.org/IDEmacs/IDEmacs
+- by: unknown
+  comments: 369
+  domain: adguard-dns.io
+  hn_url: https://news.ycombinator.com/item?id=45936460
+  id: 45936460
+  score: 0
+  title: Our investigation into the suspicious pressure on Archive.today
+  url: https://adguard-dns.io/en/blog/archive-today-adguard-dns-block-demand.html
+- by: unknown
+  comments: 36
+  domain: owl.is
+  hn_url: https://news.ycombinator.com/item?id=45941441
+  id: 45941441
+  score: 0
+  title: Blocking LLM crawlers without JavaScript
+  url: https://www.owl.is/blogg/blocking-crawlers-without-javascript/
+- by: unknown
+  comments: 5
+  domain: libwifi.so
+  hn_url: https://news.ycombinator.com/item?id=45941025
+  id: 45941025
+  score: 0
+  title: 'libwifi: an 802.11 frame parsing and generation library written in C'
+  url: https://libwifi.so/
+- by: unknown
+  comments: 85
+  domain: strangestloop.io
+  hn_url: https://news.ycombinator.com/item?id=45939431
+  id: 45939431
+  score: 0
+  title: Things that aren't doing the thing
+  url: https://strangestloop.io/essays/things-that-arent-doing-the-thing
+- by: unknown
+  comments: 115
+  domain: oldvcr.blogspot.com
+  hn_url: https://news.ycombinator.com/item?id=45941563
+  id: 45941563
+  score: 0
+  title: When UPS charged me a $684 tariff on $355 of vintage computer parts
+  url: http://oldvcr.blogspot.com/2025/11/when-ups-charged-me-684-tariff-on-355.html
+- by: unknown
+  comments: 4
+  domain: blog.polybdenum.com
+  hn_url: https://news.ycombinator.com/item?id=45941443
+  id: 45941443
+  score: 0
+  title: 'The inconceivable types of Rust: How to make self-borrows safe (2024)'
+  url: https://blog.polybdenum.com/2024/06/07/the-inconceivable-types-of-rust-how-to-make-self-borrows-safe.html
+- by: unknown
+  comments: 73
+  domain: sicpers.info
+  hn_url: https://news.ycombinator.com/item?id=45841095
+  id: 45841095
+  score: 0
+  title: When did people favor composition over inheritance?
+  url: https://www.sicpers.info/2025/11/when-did-people-favor-composition-over-inheritance/
+- by: unknown
+  comments: 14
+  domain: asciimath.org
+  hn_url: https://news.ycombinator.com/item?id=45940706
+  id: 45940706
+  score: 0
+  title: AsciiMath
+  url: https://asciimath.org/

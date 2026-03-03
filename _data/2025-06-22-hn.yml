@@ -1,0 +1,82 @@
+date: '2025-06-22'
+stories:
+- by: unknown
+  comments: 2
+  domain: henryhmko.github.io
+  hn_url: https://news.ycombinator.com/item?id=44342977
+  id: 44342977
+  score: 0
+  title: TPU (Tensor Processing Unit) Deep Dive
+  url: https://henryhmko.github.io/posts/tpu/tpu.html
+- by: unknown
+  comments: 7
+  domain: github.com
+  hn_url: https://news.ycombinator.com/item?id=44342731
+  id: 44342731
+  score: 0
+  title: 'Sound As Pure Form: Music Language Inspired by Supercollider, APL, and Forth'
+  url: https://github.com/lfnoise/sapf
+- by: unknown
+  comments: 43
+  domain: briefer.cloud
+  hn_url: https://news.ycombinator.com/item?id=44308328
+  id: 44308328
+  score: 0
+  title: P-Hacking in Startups
+  url: https://briefer.cloud/blog/posts/p-hacking/
+- by: unknown
+  comments: 29
+  domain: filmlabs.org
+  hn_url: https://news.ycombinator.com/item?id=44340386
+  id: 44340386
+  score: 0
+  title: 'LaborBerlin: State-of-the-Art 16mm Projector'
+  url: https://www.filmlabs.org/wiki/en/meetings_projects/spectral/laborberlin16mmprojector/start
+- by: unknown
+  comments: 5
+  domain: blog.engora.com
+  hn_url: https://news.ycombinator.com/item?id=44309734
+  id: 44309734
+  score: 0
+  title: 'The bad boy of bar charts: William Playfair (2023)'
+  url: https://blog.engora.com/2023/05/the-bad-boy-of-bar-charts-william.html
+- by: unknown
+  comments: 55
+  domain: scientificamerican.com
+  hn_url: https://news.ycombinator.com/item?id=44309191
+  id: 44309191
+  score: 0
+  title: Denmark's Archaeology Experiment Is Paying Off in Gold and Knowledge
+  url: https://www.scientificamerican.com/article/denmark-let-amateurs-dig-for-treasure-and-it-paid-off/
+- by: unknown
+  comments: 1224
+  domain: bbc.co.uk
+  hn_url: https://news.ycombinator.com/item?id=44341639
+  id: 44341639
+  score: 0
+  title: U.S. bombs Iranian nuclear sites
+  url: https://www.bbc.co.uk/news/live/ckg3rzj8emjt
+- by: unknown
+  comments: 191
+  domain: airpass.tiagoalves.me
+  hn_url: https://news.ycombinator.com/item?id=44310763
+  id: 44310763
+  score: 0
+  title: Airpass – easily overcome WiFi time limits
+  url: https://airpass.tiagoalves.me/
+- by: unknown
+  comments: 2
+  domain: zoo.cuichen.cc
+  hn_url: https://news.ycombinator.com/item?id=44307667
+  id: 44307667
+  score: 0
+  title: Type Inference Zoo
+  url: https://zoo.cuichen.cc/
+- by: unknown
+  comments: 8
+  domain: alltracker.github.io
+  hn_url: https://news.ycombinator.com/item?id=44339076
+  id: 44339076
+  score: 0
+  title: 'AllTracker: Efficient Dense Point Tracking at High Resolution'
+  url: https://alltracker.github.io/

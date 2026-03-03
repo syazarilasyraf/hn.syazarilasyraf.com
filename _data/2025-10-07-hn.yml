@@ -1,0 +1,83 @@
+date: '2025-10-07'
+stories:
+- by: unknown
+  comments: 45
+  domain: thecascade.dev
+  hn_url: https://news.ycombinator.com/item?id=45497624
+  id: 45497624
+  score: 0
+  title: The least amount of CSS for a decent looking site (2023)
+  url: https://thecascade.dev/article/least-amount-of-css/
+- by: unknown
+  comments: 4
+  domain: pdoc.dev
+  hn_url: https://news.ycombinator.com/item?id=45499170
+  id: 45499170
+  score: 0
+  title: Pdoc – Generate API documentation for Python projects
+  url: https://pdoc.dev/
+- by: unknown
+  comments: 288
+  domain: developers.openai.com
+  hn_url: https://news.ycombinator.com/item?id=45494558
+  id: 45494558
+  score: 0
+  title: Apps SDK
+  url: https://developers.openai.com/apps-sdk/
+- by: unknown
+  comments: 125
+  domain: animebythenumbers.substack.com
+  hn_url: https://news.ycombinator.com/item?id=45458973
+  id: 45458973
+  score: 0
+  title: Why did Crunchyroll's subtitles just get worse?
+  url: https://animebythenumbers.substack.com/p/worse-crunchyroll-subtitles
+- by: unknown
+  comments: 48
+  domain: physicsworld.com
+  hn_url: https://news.ycombinator.com/item?id=45449015
+  id: 45449015
+  score: 0
+  title: Kirigami-inspired parachute falls on target
+  url: https://physicsworld.com/a/kirigami-inspired-parachute-falls-on-target/
+- by: unknown
+  comments: 19
+  domain: explodi.tubatuba.net
+  hn_url: https://news.ycombinator.com/item?id=45459706
+  id: 45459706
+  score: 0
+  title: Using Deno as my game engine
+  url: https://explodi.tubatuba.net/2025/09/26/using-deno-as-my-game-engine
+- by: unknown
+  comments: 194
+  domain: windscribe.com
+  hn_url: https://news.ycombinator.com/item?id=45469376
+  id: 45469376
+  score: 0
+  title: Who owns Express VPN, Nord, Surfshark? VPN relationships explained (2024)
+  url: https://windscribe.com/blog/the-vpn-relationship-map/
+- by: unknown
+  comments: 62
+  domain: engineering.fb.com
+  hn_url: https://news.ycombinator.com/item?id=45492803
+  id: 45492803
+  score: 0
+  title: 'OpenZL: An open source format-aware compression framework'
+  url: https://engineering.fb.com/2025/10/06/developer-tools/openzl-open-source-format-aware-compression-framework/
+- by: unknown
+  comments: 31
+  domain: motivenotes.ai
+  hn_url: https://news.ycombinator.com/item?id=45456381
+  id: 45456381
+  score: 0
+  title: What makes 5% of AI agents work in production?
+  url: https://www.motivenotes.ai/p/what-makes-5-of-ai-agents-actually
+- by: unknown
+  comments: 6
+  domain: arstechnica.com
+  hn_url: https://news.ycombinator.com/item?id=45468599
+  id: 45468599
+  score: 0
+  title: Removing these 50 objects from orbit would cut danger from space junk in
+    half
+  url: https://arstechnica.com/space/2025/10/everyone-but-china-has-pretty-much-stopped-littering-in-low-earth-orbit/

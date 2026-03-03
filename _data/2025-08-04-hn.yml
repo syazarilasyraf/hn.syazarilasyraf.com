@@ -1,0 +1,83 @@
+date: '2025-08-04'
+stories:
+- by: unknown
+  comments: 205
+  domain: kashw1n.com
+  hn_url: https://news.ycombinator.com/item?id=44778936
+  id: 44778936
+  score: 0
+  title: Modern Node.js Patterns
+  url: https://kashw1n.com/blog/nodejs-2025/
+- by: unknown
+  comments: 58
+  domain: grantslatton.com
+  hn_url: https://news.ycombinator.com/item?id=44779428
+  id: 44779428
+  score: 0
+  title: Writing a good design document
+  url: https://grantslatton.com/how-to-design-document
+- by: unknown
+  comments: 72
+  domain: eliot-jones.com
+  hn_url: https://news.ycombinator.com/item?id=44780353
+  id: 44780353
+  score: 0
+  title: So you want to parse a PDF?
+  url: https://eliot-jones.com/2025/8/pdf-parsing-xref
+- by: unknown
+  comments: 4
+  domain: github.com
+  hn_url: https://news.ycombinator.com/item?id=44781523
+  id: 44781523
+  score: 0
+  title: A parser for TypeScript types, written in TypeScript types
+  url: https://github.com/easrng/tsints
+- by: unknown
+  comments: 105
+  domain: anthropic.com
+  hn_url: https://news.ycombinator.com/item?id=44777760
+  id: 44777760
+  score: 0
+  title: 'Persona vectors: Monitoring and controlling character traits in language
+    models'
+  url: https://www.anthropic.com/research/persona-vectors
+- by: unknown
+  comments: 1
+  domain: thenewstack.io
+  hn_url: https://news.ycombinator.com/item?id=44777766
+  id: 44777766
+  score: 0
+  title: How Python grew from a language to a community
+  url: https://thenewstack.io/how-python-grew-from-a-language-to-a-community/
+- by: unknown
+  comments: 24
+  domain: newyorker.com
+  hn_url: https://news.ycombinator.com/item?id=44781116
+  id: 44781116
+  score: 0
+  title: Why doctors hate their computers (2018)
+  url: https://www.newyorker.com/magazine/2018/11/12/why-doctors-hate-their-computers
+- by: unknown
+  comments: 96
+  domain: solmaz.io
+  hn_url: https://news.ycombinator.com/item?id=44780878
+  id: 44780878
+  score: 0
+  title: Typed languages are better suited for vibecoding
+  url: https://solmaz.io/typed-languages-are-better-suited-for-vibecoding
+- by: unknown
+  comments: 392
+  domain: stephango.com
+  hn_url: https://news.ycombinator.com/item?id=44775563
+  id: 44775563
+  score: 0
+  title: If you're remote, ramble
+  url: https://stephango.com/ramblings
+- by: unknown
+  comments: 0
+  domain: acoup.blog
+  hn_url: https://news.ycombinator.com/item?id=44765562
+  id: 44765562
+  score: 0
+  title: 'Life, Work, Death and the Peasant: Family Formation'
+  url: https://acoup.blog/2025/08/01/collections-life-work-death-and-the-peasant-part-iiia-family-formation/

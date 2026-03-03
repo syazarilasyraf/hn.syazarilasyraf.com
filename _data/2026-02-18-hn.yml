@@ -1,0 +1,82 @@
+date: '2026-02-18'
+stories:
+- by: unknown
+  comments: 127
+  domain: sceneandheardnu.com
+  hn_url: https://news.ycombinator.com/item?id=47056314
+  id: 47056314
+  score: 0
+  title: 'Halt and Catch Fire: TV''s Best Drama You''ve Probably Never Heard Of (2021)'
+  url: https://www.sceneandheardnu.com/content/halt-and-catch-fire
+- by: unknown
+  comments: 877
+  domain: anthropic.com
+  hn_url: https://news.ycombinator.com/item?id=47050488
+  id: 47050488
+  score: 0
+  title: Claude Sonnet 4.6
+  url: https://www.anthropic.com/news/claude-sonnet-4-6
+- by: unknown
+  comments: 69
+  domain: github.com
+  hn_url: https://news.ycombinator.com/item?id=47052941
+  id: 47052941
+  score: 0
+  title: BarraCUDA Open-source CUDA compiler targeting AMD GPUs
+  url: https://github.com/Zaneham/BarraCUDA
+- by: unknown
+  comments: 164
+  domain: fortune.com
+  hn_url: https://news.ycombinator.com/item?id=47055979
+  id: 47055979
+  score: 0
+  title: Thousands of CEOs just admitted AI had no impact on employment or productivity
+  url: https://fortune.com/2026/02/17/ai-productivity-paradox-ceo-study-robert-solow-information-technology-age/
+- by: unknown
+  comments: 36
+  domain: asteroidos.org
+  hn_url: https://news.ycombinator.com/item?id=47051852
+  id: 47051852
+  score: 0
+  title: 'Show HN: AsteroidOS 2.0 – Nobody asked, we shipped anyway'
+  url: https://asteroidos.org/news/2-0-release/index.html
+- by: unknown
+  comments: 17
+  domain: github.com
+  hn_url: https://news.ycombinator.com/item?id=47055262
+  id: 47055262
+  score: 0
+  title: Minimal x86 Kernel Zig
+  url: https://github.com/lopespm/zig-minimal-kernel-x86
+- by: unknown
+  comments: 102
+  domain: gentoo.org
+  hn_url: https://news.ycombinator.com/item?id=47050067
+  id: 47050067
+  score: 0
+  title: Gentoo on Codeberg
+  url: https://www.gentoo.org/news/2026/02/16/codeberg.html
+- by: unknown
+  comments: 69
+  domain: go.dev
+  hn_url: https://news.ycombinator.com/item?id=47049479
+  id: 47049479
+  score: 0
+  title: Using go fix to modernize Go code
+  url: https://go.dev/blog/gofix
+- by: unknown
+  comments: 80
+  domain: practical.engineering
+  hn_url: https://news.ycombinator.com/item?id=47049718
+  id: 47049718
+  score: 0
+  title: So you want to build a tunnel
+  url: https://practical.engineering/blog/2026/2/17/so-you-want-to-build-a-tunnel
+- by: unknown
+  comments: 7
+  domain: vogons.org
+  hn_url: https://news.ycombinator.com/item?id=47015138
+  id: 47015138
+  score: 0
+  title: Reverse Engineering Sid Meier's Railroad Tycoon for DOS from 1990
+  url: https://www.vogons.org/viewtopic.php?t=105451

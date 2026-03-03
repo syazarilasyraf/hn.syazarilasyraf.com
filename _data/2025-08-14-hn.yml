@@ -1,0 +1,82 @@
+date: '2025-08-14'
+stories:
+- by: unknown
+  comments: 4
+  domain: github.com
+  hn_url: https://news.ycombinator.com/item?id=44896489
+  id: 44896489
+  score: 0
+  title: 'Show HN: Yet Another Memory System for LLM''s'
+  url: https://github.com/trvon/yams
+- by: unknown
+  comments: 282
+  domain: astral.sh
+  hn_url: https://news.ycombinator.com/item?id=44892209
+  id: 44892209
+  score: 0
+  title: 'PYX: The next step in Python packaging'
+  url: https://astral.sh/blog/introducing-pyx
+- by: unknown
+  comments: 196
+  domain: blog.nginx.org
+  hn_url: https://news.ycombinator.com/item?id=44889941
+  id: 44889941
+  score: 0
+  title: Nginx introduces native support for ACME protocol
+  url: https://blog.nginx.org/blog/native-support-for-acme-protocol
+- by: unknown
+  comments: 5
+  domain: dusty.phillips.codes
+  hn_url: https://news.ycombinator.com/item?id=44896539
+  id: 44896539
+  score: 0
+  title: My AI-Driven Identity Crisis
+  url: https://dusty.phillips.codes/2025/06/08/my-ai-driven-identity-crisis/
+- by: unknown
+  comments: 9
+  domain: zenobiapay.com
+  hn_url: https://news.ycombinator.com/item?id=44896085
+  id: 44896085
+  score: 0
+  title: Zenobia Pay – A mission to build an alternative to high-fee card networks
+  url: https://zenobiapay.com/blog/open-source-payments
+- by: unknown
+  comments: 289
+  domain: code.ffmpeg.org
+  hn_url: https://news.ycombinator.com/item?id=44886647
+  id: 44886647
+  score: 0
+  title: FFmpeg 8.0 adds Whisper support
+  url: https://code.ffmpeg.org/FFmpeg/FFmpeg/commit/13ce36fef98a3f4e6d8360c24d6b8434cbb8869b
+- by: unknown
+  comments: 12
+  domain: forgefed.org
+  hn_url: https://news.ycombinator.com/item?id=44873341
+  id: 44873341
+  score: 0
+  title: 'ForgeFed: ActivityPub-based forge federation protocol'
+  url: https://forgefed.org
+- by: unknown
+  comments: 62
+  domain: nist.gov
+  hn_url: https://news.ycombinator.com/item?id=44893600
+  id: 44893600
+  score: 0
+  title: NIST Finalizes 'Lightweight Cryptography' Standard to Protect Small Devices
+  url: https://www.nist.gov/news-events/news/2025/08/nist-finalizes-lightweight-cryptography-standard-protect-small-devices
+- by: unknown
+  comments: 159
+  domain: xvw.lol
+  hn_url: https://news.ycombinator.com/item?id=44891759
+  id: 44891759
+  score: 0
+  title: OCaml as my primary language
+  url: https://xvw.lol/en/articles/why-ocaml.html
+- by: unknown
+  comments: 1
+  domain: lwn.net
+  hn_url: https://news.ycombinator.com/item?id=44860080
+  id: 44860080
+  score: 0
+  title: 'Nyxt: The Emacs-like web browser'
+  url: https://lwn.net/Articles/1001773/

@@ -1,0 +1,84 @@
+date: '2026-01-07'
+stories:
+- by: unknown
+  comments: 25
+  domain: inc.com
+  hn_url: https://news.ycombinator.com/item?id=46452641
+  id: 46452641
+  score: 0
+  title: Sergey Brin's Unretirement
+  url: https://www.inc.com/jessica-stillman/google-co-founder-sergey-brins-unretirement-is-a-lesson-for-the-rest-of-us/91280208
+- by: unknown
+  comments: 15
+  domain: twitter.com
+  hn_url: https://news.ycombinator.com/item?id=46470017
+  id: 46470017
+  score: 0
+  title: The creator of Claude Code's Claude setup
+  url: https://twitter.com/bcherny/status/2007179832300581177
+- by: unknown
+  comments: 54
+  domain: jasoneckert.github.io
+  hn_url: https://news.ycombinator.com/item?id=46521860
+  id: 46521860
+  score: 0
+  title: Microsoft probably killed my Snapdragon Dev Kit
+  url: https://jasoneckert.github.io/myblog/how-microsoft-killed-my-snapdragon-devkit/
+- by: unknown
+  comments: 5
+  domain: papers.ssrn.com
+  hn_url: https://news.ycombinator.com/item?id=46522308
+  id: 46522308
+  score: 0
+  title: On the slow death of scaling
+  url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5877662
+- by: unknown
+  comments: 247
+  domain: github.com
+  hn_url: https://news.ycombinator.com/item?id=46517458
+  id: 46517458
+  score: 0
+  title: 'Stop Doom Scrolling, Start Doom Coding: Build via the terminal from your
+    phone'
+  url: https://github.com/rberg27/doom-coding
+- by: unknown
+  comments: 49
+  domain: byteshape.com
+  hn_url: https://news.ycombinator.com/item?id=46518573
+  id: 46518573
+  score: 0
+  title: A 30B Qwen model walks into a Raspberry Pi and runs in real time
+  url: https://byteshape.com/blogs/Qwen3-30B-A3B-Instruct-2507/
+- by: unknown
+  comments: 583
+  domain: burkeholland.github.io
+  hn_url: https://news.ycombinator.com/item?id=46515696
+  id: 46515696
+  score: 0
+  title: Opus 4.5 is not the normal AI agent experience that I have had thus far
+  url: https://burkeholland.github.io/posts/opus-4-5-change-everything/
+- by: unknown
+  comments: 34
+  domain: advanced.onlinelibrary.wiley.com
+  hn_url: https://news.ycombinator.com/item?id=46520935
+  id: 46520935
+  score: 0
+  title: Electronic nose for indoor mold detection and identification
+  url: https://advanced.onlinelibrary.wiley.com/doi/10.1002/adsr.202500124
+- by: unknown
+  comments: 49
+  domain: blog.booleanbiotech.com
+  hn_url: https://news.ycombinator.com/item?id=46518804
+  id: 46518804
+  score: 0
+  title: Oral microbiome sequencing after taking probiotics
+  url: https://blog.booleanbiotech.com/oral-microbiome-biogaia
+- by: unknown
+  comments: 3
+  domain: github.com
+  hn_url: https://news.ycombinator.com/item?id=46520926
+  id: 46520926
+  score: 0
+  title: 'Show HN: SMTP Tunnel – A SOCKS5 proxy disguised as email traffic to bypass
+    DPI'
+  url: https://github.com/x011/smtp-tunnel-proxy

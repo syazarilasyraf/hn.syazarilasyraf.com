@@ -1,0 +1,83 @@
+date: '2025-05-31'
+stories:
+- by: unknown
+  comments: 23
+  domain: dpreview.com
+  hn_url: https://news.ycombinator.com/item?id=44139626
+  id: 44139626
+  score: 0
+  title: Photos taken inside musical instruments
+  url: https://www.dpreview.com/photography/5400934096/probe-lenses-and-focus-stacking-the-secrets-to-incredible-photos-taken-inside-instruments
+- by: unknown
+  comments: 26
+  domain: gomomento.com
+  hn_url: https://news.ycombinator.com/item?id=44140379
+  id: 44140379
+  score: 0
+  title: 'Valkey Turns One: Community fork of Redis'
+  url: https://www.gomomento.com/blog/valkey-turns-one-how-the-community-fork-left-redis-in-the-dust/
+- by: unknown
+  comments: 58
+  domain: crfm.stanford.edu
+  hn_url: https://news.ycombinator.com/item?id=44139454
+  id: 44139454
+  score: 0
+  title: Surprisingly fast AI-generated kernels we didn't mean to publish yet
+  url: https://crfm.stanford.edu/2025/05/28/fast-kernels.html
+- by: unknown
+  comments: 40
+  domain: bondcap.com
+  hn_url: https://news.ycombinator.com/item?id=44139403
+  id: 44139403
+  score: 0
+  title: Mary Meeker's first Trends report since 2019, focused on AI
+  url: https://www.bondcap.com/reports/tai
+- by: unknown
+  comments: 3
+  domain: github.com
+  hn_url: https://news.ycombinator.com/item?id=44123131
+  id: 44123131
+  score: 0
+  title: Reverse engineering of Linear's sync engine
+  url: https://github.com/wzhudev/reverse-linear-sync-engine
+- by: unknown
+  comments: 81
+  domain: anemato.de
+  hn_url: https://news.ycombinator.com/item?id=44137715
+  id: 44137715
+  score: 0
+  title: Beating Google's kernelCTF PoW using AVX512
+  url: https://anemato.de/blog/kctf-vdf
+- by: unknown
+  comments: 551
+  domain: cnn.com
+  hn_url: https://news.ycombinator.com/item?id=44136117
+  id: 44136117
+  score: 0
+  title: The 'white-collar bloodbath' is all part of the AI hype machine
+  url: https://www.cnn.com/2025/05/30/business/anthropic-amodei-ai-jobs-nightcap
+- by: unknown
+  comments: 6
+  domain: mcpdefender.com
+  hn_url: https://news.ycombinator.com/item?id=44128325
+  id: 44128325
+  score: 0
+  title: 'Show HN: MCP Defender – OSS AI Firewall for Protecting MCP in Cursor/Claude
+    etc.'
+  url: https://mcpdefender.com
+- by: unknown
+  comments: 25
+  domain: github.com
+  hn_url: https://news.ycombinator.com/item?id=44115853
+  id: 44115853
+  score: 0
+  title: 'Show HN: Icepi Zero – The FPGA Raspberry Pi Zero Equivalent'
+  url: https://github.com/cheyao/icepi-zero
+- by: unknown
+  comments: 1
+  domain: vickiboykis.com
+  hn_url: https://news.ycombinator.com/item?id=44113847
+  id: 44113847
+  score: 0
+  title: How large should your sample size be?
+  url: https://vickiboykis.com/2015/08/04/how-large-should-your-sample-size-be/

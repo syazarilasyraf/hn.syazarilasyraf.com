@@ -1,0 +1,82 @@
+date: '2025-08-18'
+stories:
+- by: unknown
+  comments: 33
+  domain: clojure.github.io
+  hn_url: https://news.ycombinator.com/item?id=44936309
+  id: 44936309
+  score: 0
+  title: Clojure Async Flow Guide
+  url: https://clojure.github.io/core.async/flow-guide.html
+- by: unknown
+  comments: 52
+  domain: accc.gov.au
+  hn_url: https://news.ycombinator.com/item?id=44936945
+  id: 44936945
+  score: 0
+  title: Google admits anti-competitive conduct involving Google Search in Australia
+  url: https://www.accc.gov.au/media-release/google-admits-anti-competitive-conduct-involving-google-search-in-australia
+- by: unknown
+  comments: 4
+  domain: science.nasa.gov
+  hn_url: https://news.ycombinator.com/item?id=44908528
+  id: 44908528
+  score: 0
+  title: 'A gigantic jet caught on camera: A spritacular moment for NASA astronaut'
+  url: https://science.nasa.gov/science-research/heliophysics/a-gigantic-jet-caught-on-camera-a-spritacular-moment-for-nasa-astronaut-nicole-ayers/
+- by: unknown
+  comments: 178
+  domain: claudiacode.com
+  hn_url: https://news.ycombinator.com/item?id=44933255
+  id: 44933255
+  score: 0
+  title: Claudia – Desktop companion for Claude code
+  url: https://claudiacode.com/
+- by: unknown
+  comments: 13
+  domain: codemia.io
+  hn_url: https://news.ycombinator.com/item?id=44936575
+  id: 44936575
+  score: 0
+  title: 'NUMA Is the New Network: Reshaping Per-Socket Microservice Placement'
+  url: https://codemia.io/blog/path/NUMA-Is-the-New-Network-How-Per-Socket-Memory-Models-Are-Reshaping-Microservice-Placement
+- by: unknown
+  comments: 79
+  domain: churchofturing.github.io
+  hn_url: https://news.ycombinator.com/item?id=44932980
+  id: 44932980
+  score: 0
+  title: The Enterprise Experience
+  url: https://churchofturing.github.io/the-enterprise-experience.html
+- by: unknown
+  comments: 51
+  domain: github.com
+  hn_url: https://news.ycombinator.com/item?id=44935169
+  id: 44935169
+  score: 0
+  title: 'Llama-Scan: Convert PDFs to Text W Local LLMs'
+  url: https://github.com/ngafar/llama-scan
+- by: unknown
+  comments: 18
+  domain: natkr.com
+  hn_url: https://news.ycombinator.com/item?id=44896472
+  id: 44896472
+  score: 0
+  title: Modifying other people's software
+  url: https://natkr.com/2025-08-14-modifying-other-peoples-software/
+- by: unknown
+  comments: 29
+  domain: github.com
+  hn_url: https://news.ycombinator.com/item?id=44934391
+  id: 44934391
+  score: 0
+  title: 'Show HN: Doxx – Terminal .docx viewer inspired by Glow'
+  url: https://github.com/bgreenwell/doxx
+- by: unknown
+  comments: 1
+  domain: github.com
+  hn_url: https://news.ycombinator.com/item?id=44936333
+  id: 44936333
+  score: 0
+  title: Mangle – a language for deductive database programming
+  url: https://github.com/google/mangle

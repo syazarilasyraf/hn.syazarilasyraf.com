@@ -1,0 +1,83 @@
+date: '2025-09-19'
+stories:
+- by: unknown
+  comments: 75
+  domain: phishyurl.com
+  hn_url: https://news.ycombinator.com/item?id=45295898
+  id: 45295898
+  score: 0
+  title: Want to piss off your IT department? Are the links not malicious looking
+    enough?
+  url: https://phishyurl.com/
+- by: unknown
+  comments: 32
+  domain: wallpaper.com
+  hn_url: https://news.ycombinator.com/item?id=45296638
+  id: 45296638
+  score: 0
+  title: David Lynch LA House
+  url: https://www.wallpaper.com/design-interiors/david-lynch-house-los-angeles-for-sale
+- by: unknown
+  comments: 2
+  domain: lenowo.org
+  hn_url: https://news.ycombinator.com/item?id=45297258
+  id: 45297258
+  score: 0
+  title: Playing “Minecraft” without Minecraft (2024)
+  url: https://lenowo.org/viewtopic.php?t=5
+- by: unknown
+  comments: 101
+  domain: keith.github.io
+  hn_url: https://news.ycombinator.com/item?id=45294440
+  id: 45294440
+  score: 0
+  title: 'Apple: SSH and FileVault'
+  url: https://keith.github.io/xcode-man-pages/apple_ssh_and_filevault.7.html
+- by: unknown
+  comments: 85
+  domain: newyorker.com
+  hn_url: https://news.ycombinator.com/item?id=45256575
+  id: 45256575
+  score: 0
+  title: The Sagrada Família takes its final shape
+  url: https://www.newyorker.com/magazine/2025/09/22/is-the-sagrada-familia-a-masterpiece-or-kitsch
+- by: unknown
+  comments: 73
+  domain: gemini.google
+  hn_url: https://news.ycombinator.com/item?id=45297331
+  id: 45297331
+  score: 0
+  title: Gemini in Chrome
+  url: https://gemini.google/overview/gemini-in-chrome/
+- by: unknown
+  comments: 4
+  domain: lwn.net
+  hn_url: https://news.ycombinator.com/item?id=45248242
+  id: 45248242
+  score: 0
+  title: Tracking trust with Rust in the kernel
+  url: https://lwn.net/Articles/1034603/
+- by: unknown
+  comments: 132
+  domain: minesnewsroom.com
+  hn_url: https://news.ycombinator.com/item?id=45294058
+  id: 45294058
+  score: 0
+  title: U.S. already has the critical minerals it needs, according to new analysis
+  url: https://www.minesnewsroom.com/news/us-already-has-critical-minerals-it-needs-theyre-being-thrown-away-new-analysis-shows
+- by: unknown
+  comments: 316
+  domain: maps.com
+  hn_url: https://news.ycombinator.com/item?id=45292694
+  id: 45292694
+  score: 0
+  title: This map is not upside down
+  url: https://www.maps.com/this-map-is-not-upside-down/
+- by: unknown
+  comments: 11
+  domain: github.com
+  hn_url: https://news.ycombinator.com/item?id=45296403
+  id: 45296403
+  score: 0
+  title: 'Llama-Factory: Unified, Efficient Fine-Tuning for 100 Open LLMs'
+  url: https://github.com/hiyouga/LLaMA-Factory

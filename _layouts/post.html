@@ -1,15 +1,72 @@
 ---
-layout: default
+layout: none
 ---
 
-{%-include tag_back_link.html-%}
+{% assign date_key = page.date | date: '%Y-%m-%d' | append: '-hn' %}
+{% assign digest_data = site.data[date_key] %}
 
-<article>
-  <p class="post-meta">
-    <time datetime="{{ page.date }}">{{ page.date | date: site.theme_config.date_format }}</time>
-  </p>
-  
-  <h1>{{ page.title }}</h1>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ page.title }}</title>
+  <link rel="stylesheet" href="{{ site.baseurl }}/css/main.css">
+</head>
+<body>
+  <header class="site-header">
+    <h1 class="site-title"><a href="/">{{ site.title }}</a></h1>
+    <p class="digest-date">{{ page.date | date: "%B %d, %Y" }}</p>
+    <nav class="site-nav">
+      <a href="/">&larr; back to live feed</a> &middot; 
+      <a href="/digest/">daily digest</a>
+    </nav>
+  </header>
 
-  {{ content }}
-</article>
+  <div class="subscribe-box">
+    <h3>Daily digest email</h3>
+    <p>Get a daily email with the top stories from Hacker News. No spam, unsubscribe at any time.</p>
+    <form class="subscribe-form" id="subscribe-form">
+      <label class="sr-only" for="email">Email address</label>
+      <input type="email" name="email" id="email" class="subscribe-input" placeholder="Email address" required />
+      <button type="submit" class="subscribe-btn" id="subscribe-btn">Subscribe</button>
+    </form>
+  </div>
+
+  <main>
+    <ol class="story-list" id="story-list">
+      {% if digest_data and digest_data.stories %}
+        {% for story in digest_data.stories %}
+          <li class="story" id="story-{{ story.id }}">
+            <div class="story-header">
+              <h2 class="story-title">
+                <a href="{{ story.url }}" target="_blank" rel="noopener noreferrer">{{ story.title }}</a>
+              </h2>
+              <div class="story-meta">
+                by {{ story.by }}
+                &middot; {{ story.domain }}
+                {% if story.comments > 0 %}
+                  &middot; <button class="story-expand" onclick="toggleStoryPreview({{ story.id }})">{{ story.comments }} comments</button>
+                {% endif %}
+                &middot; <a href="https://news.ycombinator.com/item?id={{ story.id }}" target="_blank">hn</a>
+              </div>
+            </div>
+            <div class="story-preview hidden" id="preview-{{ story.id }}"></div>
+          </li>
+        {% endfor %}
+      {% else %}
+        <li style="color: var(--text-muted); padding: 2rem; text-align: center;">Stories data not available for this archive.</li>
+      {% endif %}
+    </ol>
+  </main>
+
+  <footer class="site-footer">
+    <p>Daily Hacker News digest &middot; <a href="https://news.ycombinator.com">news.ycombinator.com</a></p>
+  </footer>
+
+  <script src="{{ site.baseurl }}/assets/js/hn.js"></script>
+  <script>
+    initSubscribeForm();
+  </script>
+</body>
+</html>

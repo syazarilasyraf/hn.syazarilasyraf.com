@@ -1,0 +1,82 @@
+date: '2025-10-17'
+stories:
+- by: unknown
+  comments: 3
+  domain: blog.torproject.org
+  hn_url: https://news.ycombinator.com/item?id=45613246
+  id: 45613246
+  score: 0
+  title: 'Free the Internet: The Tor Project''s annual fundraiser'
+  url: https://blog.torproject.org/2025-fundraiser-donations-matched/
+- by: unknown
+  comments: 216
+  domain: blog.pixelmelt.dev
+  hn_url: https://news.ycombinator.com/item?id=45610226
+  id: 45610226
+  score: 0
+  title: How I bypassed Amazon's Kindle web DRM
+  url: https://blog.pixelmelt.dev/kindle-web-drm/
+- by: unknown
+  comments: 302
+  domain: anthropic.com
+  hn_url: https://news.ycombinator.com/item?id=45607117
+  id: 45607117
+  score: 0
+  title: Claude Skills
+  url: https://www.anthropic.com/news/skills
+- by: unknown
+  comments: 61
+  domain: youtube.com
+  hn_url: https://news.ycombinator.com/item?id=45611735
+  id: 45611735
+  score: 0
+  title: America’s semiconductor boom
+  url: https://www.youtube.com/watch?v=T-jt3qBzJ4A
+- by: unknown
+  comments: 185
+  domain: ricklamers.io
+  hn_url: https://news.ycombinator.com/item?id=45607758
+  id: 45607758
+  score: 0
+  title: Gemini 3.0 spotted in the wild through A/B testing
+  url: https://ricklamers.io/posts/gemini-3-spotted-in-the-wild/
+- by: unknown
+  comments: 0
+  domain: lwn.net
+  hn_url: https://news.ycombinator.com/item?id=45612987
+  id: 45612987
+  score: 0
+  title: Next steps for BPF support in the GNU toolchain
+  url: https://lwn.net/Articles/1039827/
+- by: unknown
+  comments: 50
+  domain: sandbox.cloudflare.com
+  hn_url: https://news.ycombinator.com/item?id=45610523
+  id: 45610523
+  score: 0
+  title: Cloudflare Sandbox SDK
+  url: https://sandbox.cloudflare.com/
+- by: unknown
+  comments: 16
+  domain: today.ucsd.edu
+  hn_url: https://news.ycombinator.com/item?id=45611851
+  id: 45611851
+  score: 0
+  title: Lead Limited Brain and Language Development in Neanderthals and Other Hominids?
+  url: https://today.ucsd.edu/story/did-lead-limit-brain-and-language-development-in-neanderthals-and-other-extinct-hominids
+- by: unknown
+  comments: 31
+  domain: notes.mtb.xyz
+  hn_url: https://news.ycombinator.com/item?id=45583786
+  id: 45583786
+  score: 0
+  title: Your data model is your destiny
+  url: https://notes.mtb.xyz/p/your-data-model-is-your-destiny
+- by: unknown
+  comments: 526
+  domain: about.doordash.com
+  hn_url: https://news.ycombinator.com/item?id=45605501
+  id: 45605501
+  score: 0
+  title: DoorDash and Waymo launch autonomous delivery service in Phoenix
+  url: https://about.doordash.com/en-us/news/waymo

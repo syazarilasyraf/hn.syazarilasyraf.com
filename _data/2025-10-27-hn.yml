@@ -1,0 +1,82 @@
+date: '2025-10-27'
+stories:
+- by: unknown
+  comments: 22
+  domain: github.com
+  hn_url: https://news.ycombinator.com/item?id=45717285
+  id: 45717285
+  score: 0
+  title: Severe performance penalty found in VSCode rendering loop
+  url: https://github.com/microsoft/vscode/issues/272155
+- by: unknown
+  comments: 20
+  domain: github.com
+  hn_url: https://news.ycombinator.com/item?id=45715055
+  id: 45715055
+  score: 0
+  title: 'Show HN: MyraOS – My 32-bit operating system in C and ASM (Hack Club project)'
+  url: https://github.com/dvir-biton/MyraOS
+- by: unknown
+  comments: 17
+  domain: lalinsky.com
+  hn_url: https://news.ycombinator.com/item?id=45716109
+  id: 45716109
+  score: 0
+  title: How I turned Zig into my favorite language to write network programs in
+  url: https://lalinsky.com/2025/10/26/zio-async-io-for-zig.html
+- by: unknown
+  comments: 8
+  domain: smithsonianmag.com
+  hn_url: https://news.ycombinator.com/item?id=45672615
+  id: 45672615
+  score: 0
+  title: Sandhill cranes have adopted a Canada gosling
+  url: https://www.smithsonianmag.com/science-nature/these-sandhill-cranes-have-adopted-a-canadian-gosling-and-birders-have-flocked-to-watch-the-strange-family-180986828/
+- by: unknown
+  comments: 71
+  domain: engineering.nanit.com
+  hn_url: https://news.ycombinator.com/item?id=45715204
+  id: 45715204
+  score: 0
+  title: We Saved $500k per Year by Rolling Our Own "S3"
+  url: https://engineering.nanit.com/how-we-saved-500-000-per-year-by-rolling-our-own-s3-6caec1ee1143
+- by: unknown
+  comments: 9
+  domain: github.com
+  hn_url: https://news.ycombinator.com/item?id=45715873
+  id: 45715873
+  score: 0
+  title: Are-we-fast-yet implementations in Oberon, C++, C, Pascal, Micron and Luon
+  url: https://github.com/rochus-keller/Are-we-fast-yet
+- by: unknown
+  comments: 331
+  domain: maurycyz.com
+  hn_url: https://news.ycombinator.com/item?id=45710721
+  id: 45710721
+  score: 0
+  title: You already have a Git server
+  url: https://maurycyz.com/misc/easy_git/
+- by: unknown
+  comments: 289
+  domain: arxiv.org
+  hn_url: https://news.ycombinator.com/item?id=45713959
+  id: 45713959
+  score: 0
+  title: A definition of AGI
+  url: https://arxiv.org/abs/2510.18212
+- by: unknown
+  comments: 8
+  domain: thenewstack.io
+  hn_url: https://news.ycombinator.com/item?id=45713359
+  id: 45713359
+  score: 0
+  title: Ken Thompson recalls Unix's rowdy, lock-picking origins
+  url: https://thenewstack.io/ken-thompson-recalls-unixs-rowdy-lock-picking-origins/
+- by: unknown
+  comments: 3
+  domain: sphere.computer
+  hn_url: https://news.ycombinator.com/item?id=45683536
+  id: 45683536
+  score: 0
+  title: Sphere Computer – The Innovative 1970s Computer Company Everyone Forgot
+  url: https://sphere.computer/

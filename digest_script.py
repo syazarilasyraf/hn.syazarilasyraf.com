@@ -7,6 +7,7 @@ import logging
 import sys
 import time
 import argparse
+import yaml
 
 HN_ITEM_URL = "https://news.ycombinator.com/item?id="
 
@@ -43,10 +44,54 @@ def get_domain(url):
     return urlparse(url).netloc.replace("www.", "")
 
 
-def create_markdown_post(stories, date, output_dir):
+def create_markdown_post(stories, date, output_dir, data_dir="_data"):
     try:
         os.makedirs(output_dir, exist_ok=True)
-        filename = f"{output_dir}/{date.strftime('%Y-%m-%d')}-hn.md"
+        os.makedirs(data_dir, exist_ok=True)
+        
+        # Get both local and UTC dates for filenames
+        # Jekyll may interpret the date differently based on timezone
+        local_date_str = date.strftime('%Y-%m-%d')
+        utc_date = date.astimezone(pytz.utc)
+        utc_date_str = utc_date.strftime('%Y-%m-%d')
+        
+        filename = f"{output_dir}/{local_date_str}-hn.md"
+        
+        # Create data file with local date (matches post filename)
+        data_filename = f"{data_dir}/{local_date_str}-hn.yml"
+        
+        # Prepare story data for YAML
+        stories_data = []
+        for s in stories:
+            stories_data.append({
+                'id': s['id'],
+                'title': s.get('title'),
+                'url': s.get('url'),
+                'domain': get_domain(s.get('url', '')),
+                'comments': s.get('descendants', 0),
+                'score': s.get('score', 0),
+                'by': s.get('by', 'unknown'),
+                'hn_url': f"{HN_ITEM_URL}{s['id']}"
+            })
+        
+        # Write YAML data file for structured access
+        with open(data_filename, 'w', encoding='utf-8') as f:
+            yaml.dump({
+                'date': date.strftime('%Y-%m-%d'),
+                'stories': stories_data
+            }, f, default_flow_style=False, allow_unicode=True)
+        logging.info(f"Data file created: {data_filename}")
+        
+        # Also create UTC date version if different (for timezone compatibility)
+        if utc_date_str != local_date_str:
+            utc_data_filename = f"{data_dir}/{utc_date_str}-hn.yml"
+            with open(utc_data_filename, 'w', encoding='utf-8') as f:
+                yaml.dump({
+                    'date': utc_date_str,
+                    'stories': stories_data
+                }, f, default_flow_style=False, allow_unicode=True)
+            logging.info(f"Data file created: {utc_data_filename}")
+        
         with open(filename, 'w', encoding='utf-8') as f:
             f.write(
                 f"---\n"
@@ -61,6 +106,7 @@ def create_markdown_post(stories, date, output_dir):
                 comments = s.get("descendants", 0)
                 hn_link = f"{HN_ITEM_URL}{s['id']}"
                 domain = get_domain(url)
+                story_id = s['id']
 
                 f.write(f"[{title}]({url})  ")
                 f.write(f"{domain} / [{comments} comments]({hn_link})\n\n")
@@ -77,14 +123,17 @@ def format_email_body(stories, date):
         title = s.get("title")
         url = s.get("url")
         comments = s.get("descendants", 0)
-        hn_link = f"{HN_ITEM_URL}{s['id']}"
+        story_id = s['id']
+        # Link to your site's story page instead of HN
+        site_comment_link = f"https://hn.syazarilasyraf.com/story/#{story_id}"
+        hn_link = f"{HN_ITEM_URL}{story_id}"
         domain = get_domain(url)
 
         lines.append(
             f"<p>"
             f"<strong><a href=\"{url}\">{title}</a></strong><br>"
             f"<span style=\"color:#888;font-size:0.9em\">{domain}</span> / "
-            f"<a href=\"{hn_link}\" style=\"font-size:0.9em;text-decoration:none;color:inherit\">{comments} comments</a>"
+            f"<a href=\"{site_comment_link}\" style=\"font-size:0.9em;text-decoration:none;color:inherit\">{comments} comments</a>"
             f"</p>"
         )
     return "\n".join(lines)
@@ -131,7 +180,7 @@ def main():
     stories = get_hn_top_stories(limit=args.limit)
     buttondown_api_key = os.getenv("BUTTONDOWN_API_KEY")
 
-    create_markdown_post(stories, now, args.output_dir)
+    create_markdown_post(stories, now, args.output_dir, "_data")
 
     if not args.no_email:
         if not buttondown_api_key:

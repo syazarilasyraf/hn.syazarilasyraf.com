@@ -1,0 +1,82 @@
+date: '2025-10-31'
+stories:
+- by: unknown
+  comments: 9
+  domain: github.com
+  hn_url: https://news.ycombinator.com/item?id=45768156
+  id: 45768156
+  score: 0
+  title: No Code
+  url: https://github.com/lemonyte/no-code
+- by: unknown
+  comments: 603
+  domain: affinity.studio
+  hn_url: https://news.ycombinator.com/item?id=45761445
+  id: 45761445
+  score: 0
+  title: Affinity Studio now free
+  url: https://www.affinity.studio/get-affinity
+- by: unknown
+  comments: 3
+  domain: guru3d.com
+  hn_url: https://news.ycombinator.com/item?id=45767916
+  id: 45767916
+  score: 0
+  title: AMD Could Enter ARM Market with Sound Wave APU Built on TSMC 3nm Process
+  url: https://www.guru3d.com/story/amd-enters-arm-market-with-sound-wave-apu-built-on-tsmc-3nm-process/
+- by: unknown
+  comments: 2
+  domain: github.com
+  hn_url: https://news.ycombinator.com/item?id=45766937
+  id: 45766937
+  score: 0
+  title: 'Kimi Linear: An Expressive, Efficient Attention Architecture'
+  url: https://github.com/MoonshotAI/Kimi-Linear
+- by: unknown
+  comments: 55
+  domain: acma.gov.au
+  hn_url: https://news.ycombinator.com/item?id=45765787
+  id: 45765787
+  score: 0
+  title: Phone numbers for use in TV shows, films and creative works
+  url: https://www.acma.gov.au/phone-numbers-use-tv-shows-films-and-creative-works
+- by: unknown
+  comments: 120
+  domain: dissonances.blog
+  hn_url: https://news.ycombinator.com/item?id=45762259
+  id: 45762259
+  score: 0
+  title: The ear does not do a Fourier transform (2024)
+  url: https://www.dissonances.blog/p/the-ear-does-not-do-a-fourier-transform
+- by: unknown
+  comments: 7
+  domain: github.com
+  hn_url: https://news.ycombinator.com/item?id=45680023
+  id: 45680023
+  score: 0
+  title: Rouille – Rust Programming, in French
+  url: https://github.com/bnjbvr/rouille
+- by: unknown
+  comments: 0
+  domain: maurycyz.com
+  hn_url: https://news.ycombinator.com/item?id=45700672
+  id: 45700672
+  score: 0
+  title: Modifying a radiation meter for (radioactive) rock collecting
+  url: https://maurycyz.com/projects/ludlum3/
+- by: unknown
+  comments: 132
+  domain: arstechnica.com
+  hn_url: https://news.ycombinator.com/item?id=45755027
+  id: 45755027
+  score: 0
+  title: NPM flooded with malicious packages downloaded more than 86k times
+  url: https://arstechnica.com/security/2025/10/npm-flooded-with-malicious-packages-downloaded-more-than-86000-times/
+- by: unknown
+  comments: 24
+  domain: joshwcomeau.com
+  hn_url: https://news.ycombinator.com/item?id=45736461
+  id: 45736461
+  score: 0
+  title: Springs and bounces in native CSS
+  url: https://www.joshwcomeau.com/animation/linear-timing-function/

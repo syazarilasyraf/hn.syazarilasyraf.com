@@ -1,0 +1,83 @@
+date: '2025-07-10'
+stories:
+- by: unknown
+  comments: 65
+  domain: lithub.com
+  hn_url: https://news.ycombinator.com/item?id=44516793
+  id: 44516793
+  score: 0
+  title: A Virginia public library is fighting off a takeover by private equity
+  url: https://lithub.com/a-virginia-public-library-is-fighting-off-a-threatened-takeover-by-private-equity/
+- by: unknown
+  comments: 86
+  domain: plf.inf.ethz.ch
+  hn_url: https://news.ycombinator.com/item?id=44510600
+  id: 44510600
+  score: 0
+  title: Tree Borrows
+  url: https://plf.inf.ethz.ch/research/pldi25-tree-borrows.html
+- by: unknown
+  comments: 79
+  domain: mcp-b.ai
+  hn_url: https://news.ycombinator.com/item?id=44515403
+  id: 44515403
+  score: 0
+  title: 'MCP-B: A Protocol for AI Browser Automation'
+  url: https://mcp-b.ai/
+- by: unknown
+  comments: 27
+  domain: github.com
+  hn_url: https://news.ycombinator.com/item?id=44513843
+  id: 44513843
+  score: 0
+  title: 'Biomni: A General-Purpose Biomedical AI Agent'
+  url: https://github.com/snap-stanford/Biomni
+- by: unknown
+  comments: 0
+  domain: asteriskmag.com
+  hn_url: https://news.ycombinator.com/item?id=44484409
+  id: 44484409
+  score: 0
+  title: The Origin of the Research University
+  url: https://asteriskmag.com/issues/10/the-origin-of-the-research-university
+- by: unknown
+  comments: 109
+  domain: dchp.arts.ubc.ca
+  hn_url: https://news.ycombinator.com/item?id=44515101
+  id: 44515101
+  score: 0
+  title: A Typology of Canadianisms
+  url: https://dchp.arts.ubc.ca/how-to-use
+- by: unknown
+  comments: 54
+  domain: github.com
+  hn_url: https://news.ycombinator.com/item?id=44512763
+  id: 44512763
+  score: 0
+  title: 'Show HN: FlopperZiro – A DIY open-source Flipper Zero clone'
+  url: https://github.com/lraton/FlopperZiro
+- by: unknown
+  comments: 26
+  domain: github.com
+  hn_url: https://news.ycombinator.com/item?id=44514753
+  id: 44514753
+  score: 0
+  title: 'Show HN: MCP server for searching and downloading documents from Anna''s
+    Archive'
+  url: https://github.com/iosifache/annas-mcp
+- by: unknown
+  comments: 62
+  domain: jank-lang.org
+  hn_url: https://news.ycombinator.com/item?id=44482273
+  id: 44482273
+  score: 0
+  title: The jank programming language
+  url: https://jank-lang.org/
+- by: unknown
+  comments: 6
+  domain: punkx.org
+  hn_url: https://news.ycombinator.com/item?id=44484579
+  id: 44484579
+  score: 0
+  title: 'Code and Trust: Vibrators to Pacemakers'
+  url: https://punkx.org/jackdoe/code-and-trust.html

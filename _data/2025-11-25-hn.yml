@@ -1,0 +1,82 @@
+date: '2025-11-25'
+stories:
+- by: unknown
+  comments: 123
+  domain: ericmigi.com
+  hn_url: https://news.ycombinator.com/item?id=46037626
+  id: 46037626
+  score: 0
+  title: Pebble Watch software is now 100% open source
+  url: https://ericmigi.com/blog/pebble-watch-software-is-now-100percent-open-source
+- by: unknown
+  comments: 115
+  domain: xda-developers.com
+  hn_url: https://news.ycombinator.com/item?id=46038099
+  id: 46038099
+  score: 0
+  title: Unpowered SSDs slowly lose data
+  url: https://www.xda-developers.com/your-unpowered-ssd-is-slowly-losing-your-data/
+- by: unknown
+  comments: 158
+  domain: anthropic.com
+  hn_url: https://news.ycombinator.com/item?id=46038047
+  id: 46038047
+  score: 0
+  title: Claude Advanced Tool Use
+  url: https://www.anthropic.com/engineering/advanced-tool-use
+- by: unknown
+  comments: 76
+  domain: github.com
+  hn_url: https://news.ycombinator.com/item?id=46036895
+  id: 46036895
+  score: 0
+  title: 'Cool-retro-term: terminal emulator which mimics look and feel of CRTs'
+  url: https://github.com/Swordfish90/cool-retro-term
+- by: unknown
+  comments: 116
+  domain: news.ysimulator.run
+  hn_url: https://news.ycombinator.com/item?id=46036908
+  id: 46036908
+  score: 0
+  title: 'Show HN: I built an interactive HN Simulator'
+  url: https://news.ysimulator.run/news
+- by: unknown
+  comments: 9
+  domain: kmicinski.com
+  hn_url: https://news.ycombinator.com/item?id=46031220
+  id: 46031220
+  score: 0
+  title: Build a Compiler in Five Projects
+  url: https://kmicinski.com/functional-programming/2025/11/23/build-a-language/
+- by: unknown
+  comments: 151
+  domain: oneusefulthing.org
+  hn_url: https://news.ycombinator.com/item?id=46019898
+  id: 46019898
+  score: 0
+  title: Three Years from GPT-3 to Gemini 3
+  url: https://www.oneusefulthing.org/p/three-years-from-gpt-3-to-gemini
+- by: unknown
+  comments: 30
+  domain: ocrarena.ai
+  hn_url: https://news.ycombinator.com/item?id=46006104
+  id: 46006104
+  score: 0
+  title: 'Show HN: OCR Arena – A playground for OCR models'
+  url: https://www.ocrarena.ai/battle
+- by: unknown
+  comments: 389
+  domain: anthropic.com
+  hn_url: https://news.ycombinator.com/item?id=46037637
+  id: 46037637
+  score: 0
+  title: Claude Opus 4.5
+  url: https://www.anthropic.com/news/claude-opus-4-5
+- by: unknown
+  comments: 87
+  domain: utcc.utoronto.ca
+  hn_url: https://news.ycombinator.com/item?id=45980474
+  id: 45980474
+  score: 0
+  title: Moving from OpenBSD to FreeBSD for firewalls
+  url: https://utcc.utoronto.ca/~cks/space/blog/sysadmin/OpenBSDToFreeBSDMove

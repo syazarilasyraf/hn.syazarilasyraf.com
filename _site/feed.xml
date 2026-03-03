@@ -1,46 +1,201 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-05-18T05:01:18+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Hacker News Digest - Syazaril Asyraf</title><subtitle>The personal Hacker News Digest of Syazaril Asyraf</subtitle><author><name>Syazaril Asyraf</name></author><entry><title type="html">Hacker News Digest – May 18, 2025</title><link href="http://localhost:4000/hn.html" rel="alternate" type="text/html" title="Hacker News Digest – May 18, 2025" /><published>2025-05-18T02:00:00+02:00</published><updated>2025-05-18T02:00:00+02:00</updated><id>http://localhost:4000/hn</id><content type="html" xml:base="http://localhost:4000/hn.html"><![CDATA[<p><em>Top stories as of 00:00 UTC</em></p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2026-03-04T07:09:20+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Hacker News Digest - Syazaril Asyraf</title><subtitle>The personal Hacker News Digest of Syazaril Asyraf</subtitle><author><name>Syazaril Asyraf</name></author><entry><title type="html">Hacker News Digest · March 03, 2026</title><link href="http://localhost:4000/2026/03/03/hn.html" rel="alternate" type="text/html" title="Hacker News Digest · March 03, 2026" /><published>2026-03-03T13:00:00+08:00</published><updated>2026-03-03T13:00:00+08:00</updated><id>http://localhost:4000/2026/03/03/hn</id><content type="html" xml:base="http://localhost:4000/2026/03/03/hn.html"><![CDATA[<p><a href="https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything">A hidden workforce behind Meta’s new smart glasses</a>  svd.se / <a href="https://news.ycombinator.com/item?id=47225130">476 comments</a></p>
 
-<ol>
-  <li>
-    <p><a href="https://www.journaldulapin.com/2025/05/17/the-lost-japanese-rom-of-the-macintosh-plus-which-isnt-lost-anymore/">The Lost Japanese ROM of the Macintosh Plus</a> — 40 points, <a href="https://news.ycombinator.com/item?id=44017692">8 comments</a><br />
-🔗 <a href="https://bookmark.syazarilasyraf.com/bookmarks/new?url=https%3A%2F%2Fwww.journaldulapin.com%2F2025%2F05%2F17%2Fthe-lost-japanese-rom-of-the-macintosh-plus-which-isnt-lost-anymore%2F&amp;title=The%20Lost%20Japanese%20ROM%20of%20the%20Macintosh%20Plus&amp;tags=">Save to Linkding</a></p>
-  </li>
-  <li>
-    <p><a href="https://holdtherobot.com/blog/2025/05/11/linux-on-android-with-ar-glasses/">Coding without a laptop: Two weeks with AR glasses and Linux on Android</a> — 350 points, <a href="https://news.ycombinator.com/item?id=43985513">167 comments</a><br />
-🔗 <a href="https://bookmark.syazarilasyraf.com/bookmarks/new?url=https%3A%2F%2Fholdtherobot.com%2Fblog%2F2025%2F05%2F11%2Flinux-on-android-with-ar-glasses%2F&amp;title=Coding%20without%20a%20laptop%3A%20Two%20weeks%20with%20AR%20glasses%20and%20Linux%20on%20Android&amp;tags=">Save to Linkding</a></p>
-  </li>
-  <li>
-    <p><a href="https://komiko.app/video/AniSora">AniSora: Open-source anime video generation model</a> — 8 points, <a href="https://news.ycombinator.com/item?id=44017913">2 comments</a><br />
-🔗 <a href="https://bookmark.syazarilasyraf.com/bookmarks/new?url=https%3A%2F%2Fkomiko.app%2Fvideo%2FAniSora&amp;title=AniSora%3A%20Open-source%20anime%20video%20generation%20model&amp;tags=">Save to Linkding</a></p>
-  </li>
-  <li>
-    <p><a href="https://freebasic.net/">FreeBASIC is a free/open source BASIC compiler for Windows DOS and Linux</a> — 26 points, <a href="https://news.ycombinator.com/item?id=44017592">5 comments</a><br />
-🔗 <a href="https://bookmark.syazarilasyraf.com/bookmarks/new?url=https%3A%2F%2Ffreebasic.net%2F&amp;title=FreeBASIC%20is%20a%20free%2Fopen%20source%20BASIC%20compiler%20for%20Windows%20DOS%20and%20Linux&amp;tags=">Save to Linkding</a></p>
-  </li>
-  <li>
-    <p><a href="https://suberic.net/~dmm/projects/mystical/README.html">Mystical</a> — 133 points, <a href="https://news.ycombinator.com/item?id=44016037">12 comments</a><br />
-🔗 <a href="https://bookmark.syazarilasyraf.com/bookmarks/new?url=https%3A%2F%2Fsuberic.net%2F~dmm%2Fprojects%2Fmystical%2FREADME.html&amp;title=Mystical&amp;tags=">Save to Linkding</a></p>
-  </li>
-  <li>
-    <p><a href="https://github.com/chatmcp/mcpso">Directory of MCP Servers</a> — 72 points, <a href="https://news.ycombinator.com/item?id=44016336">23 comments</a><br />
-🔗 <a href="https://bookmark.syazarilasyraf.com/bookmarks/new?url=https%3A%2F%2Fgithub.com%2Fchatmcp%2Fmcpso&amp;title=Directory%20of%20MCP%20Servers&amp;tags=">Save to Linkding</a></p>
-  </li>
-  <li>
-    <p><a href="https://johncarlosbaez.wordpress.com/2025/05/17/dead-stars-dont-radiate-and-shrink/">Dead Stars Don’t Radiate</a> — 151 points, <a href="https://news.ycombinator.com/item?id=44015872">67 comments</a><br />
-🔗 <a href="https://bookmark.syazarilasyraf.com/bookmarks/new?url=https%3A%2F%2Fjohncarlosbaez.wordpress.com%2F2025%2F05%2F17%2Fdead-stars-dont-radiate-and-shrink%2F&amp;title=Dead%20Stars%20Don%27t%20Radiate&amp;tags=">Save to Linkding</a></p>
-  </li>
-  <li>
-    <p><a href="https://www.techradar.com/vpn/vpn-privacy-security/we-would-be-less-confidential-than-google-proton-threatens-to-quit-switzerland-over-new-surveillance-law">Proton threatens to quit Switzerland over new surveillance law</a> — 225 points, <a href="https://news.ycombinator.com/item?id=44014808">129 comments</a><br />
-🔗 <a href="https://bookmark.syazarilasyraf.com/bookmarks/new?url=https%3A%2F%2Fwww.techradar.com%2Fvpn%2Fvpn-privacy-security%2Fwe-would-be-less-confidential-than-google-proton-threatens-to-quit-switzerland-over-new-surveillance-law&amp;title=Proton%20threatens%20to%20quit%20Switzerland%20over%20new%20surveillance%20law&amp;tags=">Save to Linkding</a></p>
-  </li>
-  <li>
-    <p><a href="https://graphthinking.blogspot.com/2025/05/leverage-and-sanction-between-coworkers.html">Unspoken Currency of Office Politics: Leverage and Sanction Between Coworkers</a> — 34 points, <a href="https://news.ycombinator.com/item?id=44017056">1 comments</a><br />
-🔗 <a href="https://bookmark.syazarilasyraf.com/bookmarks/new?url=https%3A%2F%2Fgraphthinking.blogspot.com%2F2025%2F05%2Fleverage-and-sanction-between-coworkers.html&amp;title=Unspoken%20Currency%20of%20Office%20Politics%3A%20Leverage%20and%20Sanction%20Between%20Coworkers&amp;tags=">Save to Linkding</a></p>
-  </li>
-  <li>
-    <p><a href="https://30fps.net/pages/palette-lighting-tricks-n64/">Palette lighting tricks on the Nintendo 64</a> — 177 points, <a href="https://news.ycombinator.com/item?id=44014587">31 comments</a><br />
-   🔗 <a href="https://bookmark.syazarilasyraf.com/bookmarks/new?url=https%3A%2F%2F30fps.net%2Fpages%2Fpalette-lighting-tricks-n64%2F&amp;title=Palette%20lighting%20tricks%20on%20the%20Nintendo%2064&amp;tags=">Save to Linkding</a></p>
-  </li>
-</ol>
+<p><a href="https://www.cbc.ca/news/canada/british-columbia/b-c-adopting-year-round-daylight-time-9.7111657">British Columbia is permanently adopting daylight time</a>  cbc.ca / <a href="https://news.ycombinator.com/item?id=47223620">310 comments</a></p>
 
-<p><em>Last updated: 2025-05-18 00:22:13 UTC</em></p>]]></content><author><name>Syazaril Asyraf</name></author><summary type="html"><![CDATA[Top stories as of 00:00 UTC]]></summary></entry></feed>
+<p><a href="https://futurism.com/artificial-intelligence/ars-technica-fires-reporter-ai-quotes">Ars Technica fires reporter after AI controversy involving fabricated quotes</a>  futurism.com / <a href="https://news.ycombinator.com/item?id=47226608">42 comments</a></p>
+
+<p><a href="https://www.ntik.me/posts/voice-agent">Show HN: I built a sub-500ms latency voice agent from scratch</a>  ntik.me / <a href="https://news.ycombinator.com/item?id=47224295">76 comments</a></p>
+
+<p><a href="https://mitxela.com/projects/screwcounter">Simple Screw Counter</a>  mitxela.com / <a href="https://news.ycombinator.com/item?id=47201132">6 comments</a></p>
+
+<p><a href="https://github.com/adamveld12/ghost">Intent-Based Commits</a>  github.com / <a href="https://news.ycombinator.com/item?id=47227999">2 comments</a></p>
+
+<p><a href="https://www.hopefulmons.com/p/what-are-your-guilty-displeasures">Guilty Displeasures</a>  hopefulmons.com / <a href="https://news.ycombinator.com/item?id=47204784">48 comments</a></p>
+
+<p><a href="https://andrewvanner.github.io/som/SoM_CC_Process_Day.pdf">Seed of Might Color Correction Process (2023) [pdf]</a>  andrewvanner.github.io / <a href="https://news.ycombinator.com/item?id=47225318">18 comments</a></p>
+
+<p><a href="https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-ipad-air-powered-by-m4/">New iPad Air, powered by M4</a>  apple.com / <a href="https://news.ycombinator.com/item?id=47218175">563 comments</a></p>
+
+<p><a href="https://health.ucdavis.edu/news/headlines/first-ever-in-utero-stem-cell-therapy-for-fetal-spina-bifida-repair-is-safe-study-finds/2026/02">First in-utero stem cell therapy for fetal spina bifida repair is safe: study</a>  health.ucdavis.edu / <a href="https://news.ycombinator.com/item?id=47218743">51 comments</a></p>
+
+<p><em>Last updated: 2026-03-03 05:21:01 UTC</em></p>]]></content><author><name>Syazaril Asyraf</name></author><summary type="html"><![CDATA[A hidden workforce behind Meta’s new smart glasses svd.se / 476 comments]]></summary></entry><entry><title type="html">Hacker News Digest · March 02, 2026</title><link href="http://localhost:4000/2026/03/02/hn.html" rel="alternate" type="text/html" title="Hacker News Digest · March 02, 2026" /><published>2026-03-02T13:00:00+08:00</published><updated>2026-03-02T13:00:00+08:00</updated><id>http://localhost:4000/2026/03/02/hn</id><content type="html" xml:base="http://localhost:4000/2026/03/02/hn.html"><![CDATA[<p><a href="https://github.com/mandel-macaque/memento">If AI writes code, should the session be part of the commit?</a>  github.com / <a href="https://news.ycombinator.com/item?id=47212355">112 comments</a></p>
+
+<p><a href="https://developer.chrome.com/blog/webmcp-epp">WebMCP is available for early preview</a>  developer.chrome.com / <a href="https://news.ycombinator.com/item?id=47211249">129 comments</a></p>
+
+<p><a href="https://deadlime.hu/en/2026/02/22/computer-generated-dream-world/">Computer-generated dream world: Virtual reality for a 286 processor</a>  deadlime.hu / <a href="https://news.ycombinator.com/item?id=47213866">0 comments</a></p>
+
+<p><a href="https://www.wltx.com/article/news/nation-world/281-53d8693e-77a4-42ad-86e4-3426a30d25ae">Everett shuts down Flock camera network after judge rules footage public record</a>  wltx.com / <a href="https://news.ycombinator.com/item?id=47213764">12 comments</a></p>
+
+<p><a href="https://github.com/kossisoroyce/timber">Show HN: Timber – Ollama for classical ML models, 336x faster than Python</a>  github.com / <a href="https://news.ycombinator.com/item?id=47212576">7 comments</a></p>
+
+<p><a href="https://github.com/cosmiciron/vmprint">Show HN: I built a zero-browser, pure-JS typesetting engine for bit-perfect PDFs</a>  github.com / <a href="https://news.ycombinator.com/item?id=47206082">7 comments</a></p>
+
+<p><a href="https://github.com/AlexsJones/llmfit">Right-sizes LLM models to your system’s RAM, CPU, and GPU</a>  github.com / <a href="https://news.ycombinator.com/item?id=47211830">12 comments</a></p>
+
+<p><a href="https://frankensqlite.com/">Frankensqlite a Rust reimplementation of SQLite with concurrent writers</a>  frankensqlite.com / <a href="https://news.ycombinator.com/item?id=47176209">4 comments</a></p>
+
+<p><a href="https://ghostty.org/docs">Ghostty – Terminal Emulator</a>  ghostty.org / <a href="https://news.ycombinator.com/item?id=47206009">297 comments</a></p>
+
+<p><a href="https://littlefreelibrary.org/">Little Free Library</a>  littlefreelibrary.org / <a href="https://news.ycombinator.com/item?id=47211280">42 comments</a></p>
+
+<p><em>Last updated: 2026-03-02 05:22:18 UTC</em></p>]]></content><author><name>Syazaril Asyraf</name></author><summary type="html"><![CDATA[If AI writes code, should the session be part of the commit? github.com / 112 comments]]></summary></entry><entry><title type="html">Hacker News Digest · March 01, 2026</title><link href="http://localhost:4000/2026/03/01/hn.html" rel="alternate" type="text/html" title="Hacker News Digest · March 01, 2026" /><published>2026-03-01T13:00:00+08:00</published><updated>2026-03-01T13:00:00+08:00</updated><id>http://localhost:4000/2026/03/01/hn</id><content type="html" xml:base="http://localhost:4000/2026/03/01/hn.html"><![CDATA[<p><a href="http://karpathy.github.io/2026/02/12/microgpt/">Microgpt</a>  karpathy.github.io / <a href="https://news.ycombinator.com/item?id=47202708">72 comments</a></p>
+
+<p><a href="https://twitter.com/OpenAI/status/2027846016423321831">We do not think Anthropic should be designated as a supply chain risk</a>  twitter.com / <a href="https://news.ycombinator.com/item?id=47200420">173 comments</a></p>
+
+<p><a href="https://dl.acm.org/doi/fullHtml/10.1145/238386.238611">The Windows 95 user interface: A case study in usability engineering (1996)</a>  dl.acm.org / <a href="https://news.ycombinator.com/item?id=47200904">113 comments</a></p>
+
+<p><a href="https://help.obsidian.md/sync/headless">Obsidian Sync now has a headless client</a>  help.obsidian.md / <a href="https://news.ycombinator.com/item?id=47197267">148 comments</a></p>
+
+<p><a href="https://www.inconspicuous.info/p/h-bomb-a-frank-lloyd-wright-typographic">H-Bomb: A Frank Lloyd Wright Typographic Mystery</a>  inconspicuous.info / <a href="https://news.ycombinator.com/item?id=47163779">13 comments</a></p>
+
+<p><a href="https://ben-mini.com/2026/the-happiest-ive-ever-been">The happiest I’ve ever been</a>  ben-mini.com / <a href="https://news.ycombinator.com/item?id=47161759">202 comments</a></p>
+
+<p><a href="https://github.com/jonwiggins/xmloxide">Show HN: Xmloxide – an agent made rust replacement for libxml2</a>  github.com / <a href="https://news.ycombinator.com/item?id=47201816">33 comments</a></p>
+
+<p><a href="https://robservatory.com/block-the-upgrade-to-tahoe-alerts-and-system-settings-indicator/">Block the “Upgrade to Tahoe” Alerts</a>  robservatory.com / <a href="https://news.ycombinator.com/item?id=47198977">79 comments</a></p>
+
+<p><a href="https://github.com/google-gemini/gemini-cli/discussions/20632">Addressing Antigravity Bans and Reinstating Access</a>  github.com / <a href="https://news.ycombinator.com/item?id=47195371">181 comments</a></p>
+
+<p><a href="https://github.com/ad-si/Woxi">Woxi: Wolfram Mathematica Reimplementation in Rust</a>  github.com / <a href="https://news.ycombinator.com/item?id=47155526">109 comments</a></p>
+
+<p><em>Last updated: 2026-03-01 05:23:50 UTC</em></p>]]></content><author><name>Syazaril Asyraf</name></author><summary type="html"><![CDATA[Microgpt karpathy.github.io / 72 comments]]></summary></entry><entry><title type="html">Hacker News Digest · February 28, 2026</title><link href="http://localhost:4000/2026/02/28/hn.html" rel="alternate" type="text/html" title="Hacker News Digest · February 28, 2026" /><published>2026-02-28T13:00:00+08:00</published><updated>2026-02-28T13:00:00+08:00</updated><id>http://localhost:4000/2026/02/28/hn</id><content type="html" xml:base="http://localhost:4000/2026/02/28/hn.html"><![CDATA[<p><a href="https://notdivided.org">We Will Not Be Divided</a>  notdivided.org / <a href="https://news.ycombinator.com/item?id=47188473">365 comments</a></p>
+
+<p><a href="https://www.anthropic.com/news/statement-comments-secretary-war">Statement on the comments from Secretary of War Pete Hegseth</a>  anthropic.com / <a href="https://news.ycombinator.com/item?id=47188697">234 comments</a></p>
+
+<p><a href="https://blog.timcappalli.me/p/passkeys-prf-warning/">Don’t use passkeys for encrypting user data</a>  blog.timcappalli.me / <a href="https://news.ycombinator.com/item?id=47189749">27 comments</a></p>
+
+<p><a href="https://glashrvatske.hrt.hr/en/domestic/croatia-declared-free-of-landmines-after-31-years-12593533">Croatia declared free of landmines after 31 years</a>  glashrvatske.hrt.hr / <a href="https://news.ycombinator.com/item?id=47189535">2 comments</a></p>
+
+<p><a href="https://github.com/anadim/AdderBoard">Smallest transformer that can add two 10-digit numbers</a>  github.com / <a href="https://news.ycombinator.com/item?id=47170030">35 comments</a></p>
+
+<p><a href="https://techcrunch.com/2026/02/27/openai-raises-110b-in-one-of-the-largest-private-funding-rounds-in-history/">OpenAI raises $110B on $730B pre-money valuation</a>  techcrunch.com / <a href="https://news.ycombinator.com/item?id=47181211">488 comments</a></p>
+
+<p><a href="https://www.pcgamer.com/software/operating-systems/a-new-california-law-says-all-operating-systems-including-linux-need-to-have-some-form-of-age-verification-at-account-setup/">A new California law says all operating systems need to have age verification</a>  pcgamer.com / <a href="https://news.ycombinator.com/item?id=47181208">465 comments</a></p>
+
+<p><a href="https://github.com/maloyan/manim-web">Show HN: I ported Manim to TypeScript (run 3b1B math animations in the browser)</a>  github.com / <a href="https://news.ycombinator.com/item?id=47155375">4 comments</a></p>
+
+<p><a href="https://www.npr.org/2026/02/27/nx-s1-5729118/trump-anthropic-pentagon-openai-ai-weapons-ban">President Trump bans Anthropic from use in government systems</a>  npr.org / <a href="https://news.ycombinator.com/item?id=47186031">163 comments</a></p>
+
+<p><a href="https://twitter.com/sama/status/2027578652477821175">OpenAI agrees with Dept. of War to deploy models in their classified network</a>  twitter.com / <a href="https://news.ycombinator.com/item?id=47189650">143 comments</a></p>
+
+<p><em>Last updated: 2026-02-28 05:10:48 UTC</em></p>]]></content><author><name>Syazaril Asyraf</name></author><summary type="html"><![CDATA[We Will Not Be Divided notdivided.org / 365 comments]]></summary></entry><entry><title type="html">Hacker News Digest · February 27, 2026</title><link href="http://localhost:4000/2026/02/27/hn.html" rel="alternate" type="text/html" title="Hacker News Digest · February 27, 2026" /><published>2026-02-27T13:00:00+08:00</published><updated>2026-02-27T13:00:00+08:00</updated><id>http://localhost:4000/2026/02/27/hn</id><content type="html" xml:base="http://localhost:4000/2026/02/27/hn.html"><![CDATA[<p><a href="https://www.anthropic.com/news/statement-department-of-war">Statement from Dario Amodei on our discussions with the Department of War</a>  anthropic.com / <a href="https://news.ycombinator.com/item?id=47173121">724 comments</a></p>
+
+<p><a href="https://moultano.wordpress.com/2026/02/22/the-hunt-for-dark-breakfast/">The Hunt for Dark Breakfast – Can we derive breakfasts we have never observed?</a>  moultano.wordpress.com / <a href="https://news.ycombinator.com/item?id=47176257">30 comments</a></p>
+
+<p><a href="https://www.nytimes.com/2026/02/26/technology/google-deepmind-letter-pentagon.html">Google Workers Seek ‘Red Lines’ on Military A.I., Echoing Anthropic</a>  nytimes.com / <a href="https://news.ycombinator.com/item?id=47175931">61 comments</a></p>
+
+<p><a href="https://amplifying.ai/research/claude-code-picks">What Claude Code Chooses</a>  amplifying.ai / <a href="https://news.ycombinator.com/item?id=47169757">130 comments</a></p>
+
+<p><a href="https://twitter.com/jack/status/2027129697092731343">Layoffs at Block</a>  twitter.com / <a href="https://news.ycombinator.com/item?id=47172119">622 comments</a></p>
+
+<p><a href="https://read.technically.dev/p/vibe-coding-and-the-maker-movement">Will vibe coding end like the maker movement?</a>  read.technically.dev / <a href="https://news.ycombinator.com/item?id=47167931">347 comments</a></p>
+
+<p><a href="https://www.ndss-symposium.org/wp-content/uploads/2026-f1282-paper.pdf">AirSnitch: Demystifying and breaking client isolation in Wi-Fi networks [pdf]</a>  ndss-symposium.org / <a href="https://news.ycombinator.com/item?id=47167763">161 comments</a></p>
+
+<p><a href="https://github.com/tldraw/tldraw/issues/8082">Move tests to closed source repo</a>  github.com / <a href="https://news.ycombinator.com/item?id=47161889">16 comments</a></p>
+
+<p><a href="https://github.com/Frikallo/parakeet.cpp">Parakeet.cpp – Parakeet ASR inference in pure C++ with Metal GPU acceleration</a>  github.com / <a href="https://news.ycombinator.com/item?id=47176239">2 comments</a></p>
+
+<p><a href="https://stackoverflow.com/questions/818255/what-does-21-mean">What does “ 2&gt;&amp;1 “ mean?</a>  stackoverflow.com / <a href="https://news.ycombinator.com/item?id=47171233">113 comments</a></p>
+
+<p><em>Last updated: 2026-02-27 05:22:05 UTC</em></p>]]></content><author><name>Syazaril Asyraf</name></author><summary type="html"><![CDATA[Statement from Dario Amodei on our discussions with the Department of War anthropic.com / 724 comments]]></summary></entry><entry><title type="html">Hacker News Digest · February 26, 2026</title><link href="http://localhost:4000/2026/02/26/hn.html" rel="alternate" type="text/html" title="Hacker News Digest · February 26, 2026" /><published>2026-02-26T13:00:00+08:00</published><updated>2026-02-26T13:00:00+08:00</updated><id>http://localhost:4000/2026/02/26/hn</id><content type="html" xml:base="http://localhost:4000/2026/02/26/hn.html"><![CDATA[<p><a href="https://trufflesecurity.com/blog/google-api-keys-werent-secrets-but-then-gemini-changed-the-rules">Google API keys weren’t secrets, but then Gemini changed the rules</a>  trufflesecurity.com / <a href="https://news.ycombinator.com/item?id=47156925">34 comments</a></p>
+
+<p><a href="https://spectrum.ieee.org/jimi-hendrix-systems-engineer">Jimi Hendrix was a systems engineer</a>  spectrum.ieee.org / <a href="https://news.ycombinator.com/item?id=47157224">128 comments</a></p>
+
+<p><a href="https://info.cern.ch">First Website (1992)</a>  info.cern.ch / <a href="https://news.ycombinator.com/item?id=47159302">33 comments</a></p>
+
+<p><a href="https://arstechnica.com/gadgets/2026/02/ram-now-represents-35-percent-of-bill-of-materials-for-hp-pcs/">RAM now represents 35 percent of bill of materials for HP PCs</a>  arstechnica.com / <a href="https://news.ycombinator.com/item?id=47161160">63 comments</a></p>
+
+<p><a href="https://quod.lib.umich.edu/m/mqrarchive/act2080.0035.002/10">The Pleasures and Pains of Coffee (1830)</a>  quod.lib.umich.edu / <a href="https://news.ycombinator.com/item?id=47108861">6 comments</a></p>
+
+<p><a href="https://www.ben-evans.com/benedictevans/2026/2/19/how-will-openai-compete-nkg2x">How will OpenAI compete?</a>  ben-evans.com / <a href="https://news.ycombinator.com/item?id=47158975">111 comments</a></p>
+
+<p><a href="https://simonbergerart.com">Artist who “paints” portraits on glass by hitting it with a hammer</a>  simonbergerart.com / <a href="https://news.ycombinator.com/item?id=47112299">38 comments</a></p>
+
+<p><a href="https://lukasmetzner.github.io/blog/gauss-weekday.html">Gauss’s Weekday Algorithm, Visualized</a>  lukasmetzner.github.io / <a href="https://news.ycombinator.com/item?id=47105175">1 comments</a></p>
+
+<p><a href="https://kanyilmaz.me/2026/02/23/cli-vs-mcp.html">Making MCP cheaper via CLI</a>  kanyilmaz.me / <a href="https://news.ycombinator.com/item?id=47157398">76 comments</a></p>
+
+<p><a href="https://blogs.windows.com/windows-insider/2026/01/21/notepad-and-paint-updates-begin-rolling-out-to-windows-insiders/">Windows 11 Notepad to support Markdown</a>  blogs.windows.com / <a href="https://news.ycombinator.com/item?id=47154399">376 comments</a></p>
+
+<p><em>Last updated: 2026-02-26 05:25:57 UTC</em></p>]]></content><author><name>Syazaril Asyraf</name></author><summary type="html"><![CDATA[Google API keys weren’t secrets, but then Gemini changed the rules trufflesecurity.com / 34 comments]]></summary></entry><entry><title type="html">Hacker News Digest · February 25, 2026</title><link href="http://localhost:4000/2026/02/25/hn.html" rel="alternate" type="text/html" title="Hacker News Digest · February 25, 2026" /><published>2026-02-25T13:00:00+08:00</published><updated>2026-02-25T13:00:00+08:00</updated><id>http://localhost:4000/2026/02/25/hn</id><content type="html" xml:base="http://localhost:4000/2026/02/25/hn.html"><![CDATA[<p><a href="https://dfarq.homeip.net/what-happened-to-frys-electronics/">What Happened to Fry’s Electronics</a>  dfarq.homeip.net / <a href="https://news.ycombinator.com/item?id=47147122">28 comments</a></p>
+
+<p><a href="https://www.calebleak.com/posts/dog-game/">I’m helping my dog vibe code games</a>  calebleak.com / <a href="https://news.ycombinator.com/item?id=47139675">214 comments</a></p>
+
+<p><a href="https://github.com/moonshine-ai/moonshine">Show HN: Moonshine Open-Weights STT models – higher accuracy than WhisperLargev3</a>  github.com / <a href="https://news.ycombinator.com/item?id=47143755">33 comments</a></p>
+
+<p><a href="https://www.apple.com/newsroom/2026/02/apple-accelerates-us-manufacturing-with-mac-mini-production/">Mac mini will be made at a new facility in Houston</a>  apple.com / <a href="https://news.ycombinator.com/item?id=47143152">425 comments</a></p>
+
+<p><a href="https://www.inceptionlabs.ai/blog/introducing-mercury-2">Mercury 2: The fastest reasoning LLM, powered by diffusion</a>  inceptionlabs.ai / <a href="https://news.ycombinator.com/item?id=47144464">74 comments</a></p>
+
+<p><a href="https://pi.dev">Pi – A minimal terminal coding harness</a>  pi.dev / <a href="https://news.ycombinator.com/item?id=47143754">106 comments</a></p>
+
+<p><a href="https://www.thebignewsletter.com/p/amazon-busted-for-widespread-price">Amazon accused of widespread scheme to inflate prices across the economy</a>  thebignewsletter.com / <a href="https://news.ycombinator.com/item?id=47145907">84 comments</a></p>
+
+<p><a href="https://matklad.github.io/2026/02/14/justifying-text-wrap-pretty.html">Justifying Text-Wrap: Pretty</a>  matklad.github.io / <a href="https://news.ycombinator.com/item?id=47077215">25 comments</a></p>
+
+<p><a href="https://www.mariannefeng.com/portfolio/kindle/">Hacking an old Kindle to display bus arrival times</a>  mariannefeng.com / <a href="https://news.ycombinator.com/item?id=47141797">44 comments</a></p>
+
+<p><a href="https://github.com/yjeanrenaud/yj_nearbyglasses">Nearby Glasses</a>  github.com / <a href="https://news.ycombinator.com/item?id=47140042">108 comments</a></p>
+
+<p><em>Last updated: 2026-02-25 05:28:09 UTC</em></p>]]></content><author><name>Syazaril Asyraf</name></author><summary type="html"><![CDATA[What Happened to Fry’s Electronics dfarq.homeip.net / 28 comments]]></summary></entry><entry><title type="html">Hacker News Digest · February 24, 2026</title><link href="http://localhost:4000/2026/02/24/hn.html" rel="alternate" type="text/html" title="Hacker News Digest · February 24, 2026" /><published>2026-02-24T13:00:00+08:00</published><updated>2026-02-24T13:00:00+08:00</updated><id>http://localhost:4000/2026/02/24/hn</id><content type="html" xml:base="http://localhost:4000/2026/02/24/hn.html"><![CDATA[<p><a href="https://gwern.net/doc/iq/high/smpy/1984-clements.pdf">Terence Tao, at 8 years old (1984) [pdf]</a>  gwern.net / <a href="https://news.ycombinator.com/item?id=47123689">10 comments</a></p>
+
+<p><a href="https://medicalxpress.com/news/2026-02-blood-boosts-alzheimer-diagnosis-accuracy.html">Blood test boosts Alzheimer’s diagnosis accuracy to 94.5%, clinical study shows</a>  medicalxpress.com / <a href="https://news.ycombinator.com/item?id=47132388">32 comments</a></p>
+
+<p><a href="https://dork.dev/posts/2026-02-20-ported-coreboot/">I Ported Coreboot to the ThinkPad X270</a>  dork.dev / <a href="https://news.ycombinator.com/item?id=47130860">19 comments</a></p>
+
+<p><a href="https://lyra.horse/x86css/">Show HN: X86CSS – An x86 CPU emulator written in CSS</a>  lyra.horse / <a href="https://news.ycombinator.com/item?id=47132102">13 comments</a></p>
+
+<p><a href="https://spectrum.ieee.org/age-verification">The Age Verification Trap: Verifying age undermines everyone’s data protection</a>  spectrum.ieee.org / <a href="https://news.ycombinator.com/item?id=47122715">1019 comments</a></p>
+
+<p><a href="https://www.guidelabs.ai/post/steerling-8b-base-model-release/">Show HN: Steerling-8B, a language model that can explain any token it generates</a>  guidelabs.ai / <a href="https://news.ycombinator.com/item?id=47131225">10 comments</a></p>
+
+<p><a href="https://forums.atariage.com/topic/380883-unix99-a-unix-like-os-for-the-ti-994a/">UNIX99, a UNIX-like OS for the TI-99/4A (2025)</a>  forums.atariage.com / <a href="https://news.ycombinator.com/item?id=47127986">52 comments</a></p>
+
+<p><a href="https://writings.stephenwolfram.com/2026/02/making-wolfram-tech-available-as-a-foundation-tool-for-llm-systems/">Making Wolfram Tech Available as a Foundation Tool for LLM Systems</a>  writings.stephenwolfram.com / <a href="https://news.ycombinator.com/item?id=47129727">58 comments</a></p>
+
+<p><a href="https://www.scientificamerican.com/article/baby-chicks-pass-the-bouba-kiki-test-challenging-a-theory-of-language/">Baby chicks pass the bouba-kiki test, challenging a theory of language evolution</a>  scientificamerican.com / <a href="https://news.ycombinator.com/item?id=47079208">2 comments</a></p>
+
+<p><a href="https://www.intel.com/content/www/us/en/download/785597/intel-arc-graphics-windows.html">Intel XeSS 3: expanded support for Core Ultra/Core Ultra 2 and Arc A, B series</a>  intel.com / <a href="https://news.ycombinator.com/item?id=47132721">0 comments</a></p>
+
+<p><em>Last updated: 2026-02-24 05:26:43 UTC</em></p>]]></content><author><name>Syazaril Asyraf</name></author><summary type="html"><![CDATA[Terence Tao, at 8 years old (1984) [pdf] gwern.net / 10 comments]]></summary></entry><entry><title type="html">Hacker News Digest · February 23, 2026</title><link href="http://localhost:4000/2026/02/23/hn.html" rel="alternate" type="text/html" title="Hacker News Digest · February 23, 2026" /><published>2026-02-23T13:00:00+08:00</published><updated>2026-02-23T13:00:00+08:00</updated><id>http://localhost:4000/2026/02/23/hn</id><content type="html" xml:base="http://localhost:4000/2026/02/23/hn.html"><![CDATA[<p><a href="https://hawksley.org/2026/02/17/timeframe.html">I built Timeframe, our family e-paper dashboard</a>  hawksley.org / <a href="https://news.ycombinator.com/item?id=47113728">207 comments</a></p>
+
+<p><a href="https://fmhy.net/">Freemediaheckyeah</a>  fmhy.net / <a href="https://news.ycombinator.com/item?id=47117780">25 comments</a></p>
+
+<p><a href="https://oxc.rs/">The JavaScript Oxidation Compiler</a>  oxc.rs / <a href="https://news.ycombinator.com/item?id=47117459">5 comments</a></p>
+
+<p><a href="https://joinloops.org/">Loops is a federated, open-source TikTok</a>  joinloops.org / <a href="https://news.ycombinator.com/item?id=47113618">185 comments</a></p>
+
+<p><a href="https://cia-factbook-archive.fly.dev/">Show HN: CIA World Factbook Archive (1990–2025), searchable and exportable</a>  cia-factbook-archive.fly.dev / <a href="https://news.ycombinator.com/item?id=47114530">56 comments</a></p>
+
+<p><a href="https://risemsr.github.io/blog/2026-02-16-halleyyoung-a3/">How to train your program verifier</a>  risemsr.github.io / <a href="https://news.ycombinator.com/item?id=47066446">2 comments</a></p>
+
+<p><a href="https://discuss.ai.google.dev/t/account-restricted-without-warning-google-ai-ultra-oauth-via-openclaw/122778">Google restricting Google AI Pro/Ultra subscribers for using OpenClaw</a>  discuss.ai.google.dev / <a href="https://news.ycombinator.com/item?id=47115805">354 comments</a></p>
+
+<p><a href="https://github.com/quailyquaily/aqua">Aqua: A CLI message tool for AI agents</a>  github.com / <a href="https://news.ycombinator.com/item?id=47117169">15 comments</a></p>
+
+<p><a href="https://www.lesswrong.com/posts/8m6AM5qtPMjgTkEeD/my-journey-to-the-microwave-alternate-timeline">My journey to the microwave alternate timeline</a>  lesswrong.com / <a href="https://news.ycombinator.com/item?id=47067031">18 comments</a></p>
+
+<p><a href="https://agenticse-book.github.io/">Agentic Software Engineering Book</a>  agenticse-book.github.io / <a href="https://news.ycombinator.com/item?id=47117408">22 comments</a></p>
+
+<p><em>Last updated: 2026-02-23 05:29:05 UTC</em></p>]]></content><author><name>Syazaril Asyraf</name></author><summary type="html"><![CDATA[I built Timeframe, our family e-paper dashboard hawksley.org / 207 comments]]></summary></entry><entry><title type="html">Hacker News Digest · February 22, 2026</title><link href="http://localhost:4000/2026/02/22/hn.html" rel="alternate" type="text/html" title="Hacker News Digest · February 22, 2026" /><published>2026-02-22T13:00:00+08:00</published><updated>2026-02-22T13:00:00+08:00</updated><id>http://localhost:4000/2026/02/22/hn</id><content type="html" xml:base="http://localhost:4000/2026/02/22/hn.html"><![CDATA[<p><a href="https://boristane.com/blog/how-i-use-claude-code/">How I use Claude Code: Separation of planning and execution</a>  boristane.com / <a href="https://news.ycombinator.com/item?id=47106686">153 comments</a></p>
+
+<p><a href="https://ukiyo-e.org/">Japanese Woodblock Print Search</a>  ukiyo-e.org / <a href="https://news.ycombinator.com/item?id=47107781">8 comments</a></p>
+
+<p><a href="https://www.sambent.com/a-botnet-accidentally-destroyed-i2p-the-full-story/">A Botnet Accidentally Destroyed I2P</a>  sambent.com / <a href="https://news.ycombinator.com/item?id=47106985">22 comments</a></p>
+
+<p><a href="https://github.com/xaskasdf/ntransformer">Show HN: Llama 3.1 70B on a single RTX 3090 via NVMe-to-GPU bypassing the CPU</a>  github.com / <a href="https://news.ycombinator.com/item?id=47104667">38 comments</a></p>
+
+<p><a href="https://floedb.ai/blog/two-bits-are-better-than-one-making-bloom-filters-2x-more-accurate">Two Bits Are Better Than One: making bloom filters 2x more accurate</a>  floedb.ai / <a href="https://news.ycombinator.com/item?id=47046070">5 comments</a></p>
+
+<p><a href="https://www.science.org/doi/10.1126/science.adq7188">Evidence of the bouba-kiki effect in naïve baby chicks</a>  science.org / <a href="https://news.ycombinator.com/item?id=47105198">28 comments</a></p>
+
+<p><a href="https://www.deadlanguagesociety.com/p/how-far-back-in-time-understand-english">How far back in time can you understand English?</a>  deadlanguagesociety.com / <a href="https://news.ycombinator.com/item?id=47061614">246 comments</a></p>
+
+<p><a href="https://phys.org/news/2026-02-scientists-tectonic-moon.html">Scientists discover recent tectonic activity on the moon</a>  phys.org / <a href="https://news.ycombinator.com/item?id=47051709">2 comments</a></p>
+
+<p><a href="https://www.newyorker.com/magazine/2026/02/16/playmakers-the-jewish-entrepreneurs-who-created-the-toy-industry-in-america-michael-kimmel-book-review">“Playmakers,” reviewed: The race to give every child a toy</a>  newyorker.com / <a href="https://news.ycombinator.com/item?id=47088307">0 comments</a></p>
+
+<p><a href="https://github.com/tnm/zclaw">zclaw: personal AI assistant in under 888 KB, running on an ESP32</a>  github.com / <a href="https://news.ycombinator.com/item?id=47100232">76 comments</a></p>
+
+<p><em>Last updated: 2026-02-22 05:23:05 UTC</em></p>]]></content><author><name>Syazaril Asyraf</name></author><summary type="html"><![CDATA[How I use Claude Code: Separation of planning and execution boristane.com / 153 comments]]></summary></entry></feed>

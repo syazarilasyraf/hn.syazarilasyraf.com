@@ -1,0 +1,83 @@
+date: '2025-08-10'
+stories:
+- by: unknown
+  comments: 50
+  domain: wuu73.org
+  hn_url: https://news.ycombinator.com/item?id=44850913
+  id: 44850913
+  score: 0
+  title: How I code with AI on a budget/free
+  url: https://wuu73.org/blog/aiguide1.html
+- by: unknown
+  comments: 34
+  domain: research.eye.security
+  hn_url: https://news.ycombinator.com/item?id=44850681
+  id: 44850681
+  score: 0
+  title: Abusing Entra OAuth for fun and access to internal Microsoft applications
+  url: https://research.eye.security/consent-and-compromise/
+- by: unknown
+  comments: 121
+  domain: sky.dlazaro.ca
+  hn_url: https://news.ycombinator.com/item?id=44846281
+  id: 44846281
+  score: 0
+  title: 'Show HN: The current sky at your approximate location, as a CSS gradient'
+  url: https://sky.dlazaro.ca
+- by: unknown
+  comments: 87
+  domain: simonwillison.net
+  hn_url: https://news.ycombinator.com/item?id=44846922
+  id: 44846922
+  score: 0
+  title: My Lethal Trifecta talk at the Bay Area AI Security Meetup
+  url: https://simonwillison.net/2025/Aug/9/bay-area-ai/
+- by: unknown
+  comments: 12
+  domain: zachdaniel.dev
+  hn_url: https://news.ycombinator.com/item?id=44810890
+  id: 44810890
+  score: 0
+  title: Don't “let it crash”, let it heal
+  url: https://www.zachdaniel.dev/p/elixir-misconceptions-1
+- by: unknown
+  comments: 7
+  domain: twitter.com
+  hn_url: https://news.ycombinator.com/item?id=44850260
+  id: 44850260
+  score: 0
+  title: Curious about the training data of OpenAI's new GPT-OSS models? I was too
+  url: https://twitter.com/jxmnop/status/1953899426075816164
+- by: unknown
+  comments: 0
+  domain: nhm.ac.uk
+  hn_url: https://news.ycombinator.com/item?id=44812613
+  id: 44812613
+  score: 0
+  title: How Potatoes Evolved
+  url: https://www.nhm.ac.uk/discover/news/2025/july/we-finally-solved-the-mystery-of-how-potatoes-evolved.html
+- by: unknown
+  comments: 81
+  domain: blog.hyperknot.com
+  hn_url: https://news.ycombinator.com/item?id=44846318
+  id: 44846318
+  score: 0
+  title: OpenFreeMap survived 100k requests per second
+  url: https://blog.hyperknot.com/p/openfreemap-survived-100000-requests
+- by: unknown
+  comments: 66
+  domain: righto.com
+  hn_url: https://news.ycombinator.com/item?id=44848293
+  id: 44848293
+  score: 0
+  title: A CT scanner reveals surprises inside the 386 processor's ceramic package
+  url: https://www.righto.com/2025/08/intel-386-package-ct-scan.html
+- by: unknown
+  comments: 34
+  domain: ch.at
+  hn_url: https://news.ycombinator.com/item?id=44849129
+  id: 44849129
+  score: 0
+  title: Ch.at – a lightweight LLM chat service accessible through HTTP, SSH, DNS
+    and API
+  url: https://ch.at/

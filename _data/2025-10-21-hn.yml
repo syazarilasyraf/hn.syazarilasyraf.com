@@ -1,0 +1,74 @@
+date: '2025-10-21'
+stories:
+- by: unknown
+  comments: 1831
+  domain: health.aws.amazon.com
+  hn_url: https://news.ycombinator.com/item?id=45640838
+  id: 45640838
+  score: 0
+  title: AWS multiple services outage in us-east-1
+  url: https://health.aws.amazon.com/health/status?ts=20251020
+- by: unknown
+  comments: 31
+  domain: bbc.com
+  hn_url: https://news.ycombinator.com/item?id=45623509
+  id: 45623509
+  score: 0
+  title: Results from blood test for 50 cancers
+  url: https://www.bbc.com/news/articles/c205g21n1zzo
+- by: unknown
+  comments: 100
+  domain: community.intel.com
+  hn_url: https://news.ycombinator.com/item?id=45582958
+  id: 45582958
+  score: 0
+  title: Intel and AMD standardise ChkTag to bring Memory Safety to x86
+  url: https://community.intel.com/t5/Blogs/Tech-Innovation/open-intel/ChkTag-x86-Memory-Safety/post/1721490
+- by: unknown
+  comments: 50
+  domain: leandronsp.com
+  hn_url: https://news.ycombinator.com/item?id=45650178
+  id: 45650178
+  score: 0
+  title: Building a message queue with only two UNIX signals
+  url: https://leandronsp.com/articles/you-dont-need-kafka-building-a-message-queue-with-only-two-unix-signals
+- by: unknown
+  comments: 154
+  domain: status.postman.com
+  hn_url: https://news.ycombinator.com/item?id=45645172
+  id: 45645172
+  score: 0
+  title: Postman which I thought worked locally on my computer, is down
+  url: https://status.postman.com
+- by: unknown
+  comments: 85
+  domain: blog.abdellatif.io
+  hn_url: https://news.ycombinator.com/item?id=45645349
+  id: 45645349
+  score: 0
+  title: 'Production RAG: what I learned from processing 5M+ documents'
+  url: https://blog.abdellatif.io/production-rag-processing-5m-documents
+- by: unknown
+  comments: 245
+  domain: tomshardware.com
+  hn_url: https://news.ycombinator.com/item?id=45643163
+  id: 45643163
+  score: 0
+  title: Alibaba Cloud says it cut Nvidia AI GPU use by 82% with new pooling system
+  url: https://www.tomshardware.com/tech-industry/semiconductors/alibaba-says-new-pooling-system-cut-nvidia-gpu-use-by-82-percent
+- by: unknown
+  comments: 91
+  domain: nathan.rs
+  hn_url: https://news.ycombinator.com/item?id=45644328
+  id: 45644328
+  score: 0
+  title: BERT is just a single text diffusion step
+  url: https://nathan.rs/posts/roberta-diffusion/
+- by: unknown
+  comments: 250
+  domain: anthropic.com
+  hn_url: https://news.ycombinator.com/item?id=45647166
+  id: 45647166
+  score: 0
+  title: Claude Code on the web
+  url: https://www.anthropic.com/news/claude-code-on-the-web

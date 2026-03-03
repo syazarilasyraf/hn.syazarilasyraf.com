@@ -1,0 +1,82 @@
+date: '2025-10-09'
+stories:
+- by: unknown
+  comments: 28
+  domain: therecord.media
+  hn_url: https://news.ycombinator.com/item?id=45523033
+  id: 45523033
+  score: 0
+  title: California enacts law enabling people to universally opt out of data sharing
+  url: https://therecord.media/california-signs-law-opt-out-browsers
+- by: unknown
+  comments: 6
+  domain: ttchisholm.github.io
+  hn_url: https://news.ycombinator.com/item?id=45522406
+  id: 45522406
+  score: 0
+  title: Designing a Low Latency 10G Ethernet Core (2023)
+  url: https://ttchisholm.github.io/ethernet/2023/05/01/designing-10g-eth-1.html
+- by: unknown
+  comments: 99
+  domain: blog.cloudflare.com
+  hn_url: https://news.ycombinator.com/item?id=45516000
+  id: 45516000
+  score: 0
+  title: We found a bug in Go's ARM64 compiler
+  url: https://blog.cloudflare.com/how-we-found-a-bug-in-gos-arm64-compiler/
+- by: unknown
+  comments: 101
+  domain: winboat.app
+  hn_url: https://news.ycombinator.com/item?id=45518813
+  id: 45518813
+  score: 0
+  title: 'WinBoat: Windows apps on Linux with seamless integration'
+  url: https://www.winboat.app/
+- by: unknown
+  comments: 128
+  domain: theverge.com
+  hn_url: https://news.ycombinator.com/item?id=45521738
+  id: 45521738
+  score: 0
+  title: Discord says 70k users may have had their government IDs leaked in breach
+  url: https://www.theverge.com/news/797051/discord-government-ids-leaked-data-breach
+- by: unknown
+  comments: 209
+  domain: larslofgren.com
+  hn_url: https://news.ycombinator.com/item?id=45521920
+  id: 45521920
+  score: 0
+  title: A competitor crippled a $23.5M bootcamp by becoming a Reddit moderator
+  url: https://larslofgren.com/codesmith-reddit-reputation-attack/
+- by: unknown
+  comments: 6
+  domain: catgirl.online
+  hn_url: https://news.ycombinator.com/item?id=45486622
+  id: 45486622
+  score: 0
+  title: Rejected announces from libtorrent clients proxying through SOCKS
+  url: https://catgirl.online/2025/10/01/libtorrent-socks-woes
+- by: unknown
+  comments: 1
+  domain: github.com
+  hn_url: https://news.ycombinator.com/item?id=45521788
+  id: 45521788
+  score: 0
+  title: 'Show HN: HyprMCP – Analytics, logs and auth for MCP servers'
+  url: https://github.com/hyprmcp/jetski
+- by: unknown
+  comments: 380
+  domain: cbsnews.com
+  hn_url: https://news.ycombinator.com/item?id=45474301
+  id: 45474301
+  score: 0
+  title: SEC approves Texas Stock Exchange, first new US integrated exchange in decades
+  url: https://www.cbsnews.com/texas/news/sec-approves-texas-stock-exchange-txse/
+- by: unknown
+  comments: 86
+  domain: bloomberg.com
+  hn_url: https://news.ycombinator.com/item?id=45521629
+  id: 45521629
+  score: 0
+  title: OpenAI, Nvidia fuel $1T AI market with web of circular deals
+  url: https://www.bloomberg.com/news/features/2025-10-07/openai-s-nvidia-amd-deals-boost-1-trillion-ai-boom-with-circular-deals

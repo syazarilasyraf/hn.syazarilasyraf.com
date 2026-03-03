@@ -1,0 +1,82 @@
+date: '2025-07-16'
+stories:
+- by: unknown
+  comments: 9
+  domain: geminiprotocol.net
+  hn_url: https://news.ycombinator.com/item?id=44578143
+  id: 44578143
+  score: 0
+  title: Six Years of Gemini
+  url: https://geminiprotocol.net/news/2025_06_20.gmi
+- by: unknown
+  comments: 8
+  domain: blog.cloudflare.com
+  hn_url: https://news.ycombinator.com/item?id=44578490
+  id: 44578490
+  score: 0
+  title: Cloudflare 1.1.1.1 Incident on July 14, 2025
+  url: https://blog.cloudflare.com/cloudflare-1-1-1-1-incident-on-july-14-2025/
+- by: unknown
+  comments: 1
+  domain: github.com
+  hn_url: https://news.ycombinator.com/item?id=44578510
+  id: 44578510
+  score: 0
+  title: 'Tilck: A Tiny Linux-Compatible Kernel'
+  url: https://github.com/vvaltchev/tilck
+- by: unknown
+  comments: 38
+  domain: gpuhammer.com
+  hn_url: https://news.ycombinator.com/item?id=44577268
+  id: 44577268
+  score: 0
+  title: 'GPUHammer: Rowhammer attacks on GPU memories are practical'
+  url: https://gpuhammer.com/
+- by: unknown
+  comments: 83
+  domain: matthieulc.com
+  hn_url: https://news.ycombinator.com/item?id=44572377
+  id: 44572377
+  score: 0
+  title: 'Show HN: Shoggoth Mini – A soft tentacle robot powered by GPT-4o and RL'
+  url: https://www.matthieulc.com/posts/shoggoth-mini
+- by: unknown
+  comments: 8
+  domain: eieio.games
+  hn_url: https://news.ycombinator.com/item?id=44541088
+  id: 44541088
+  score: 0
+  title: Running a million-board chess MMO in a single process
+  url: https://eieio.games/blog/a-million-realtime-chess-boards-in-a-single-process/
+- by: unknown
+  comments: 243
+  domain: calv.info
+  hn_url: https://news.ycombinator.com/item?id=44573195
+  id: 44573195
+  score: 0
+  title: Reflections on OpenAI
+  url: https://calv.info/openai-reflections
+- by: unknown
+  comments: 98
+  domain: nist.gov
+  hn_url: https://news.ycombinator.com/item?id=44572499
+  id: 44572499
+  score: 0
+  title: NIST ion clock sets new record for most accurate clock
+  url: https://www.nist.gov/news-events/news/2025/07/nist-ion-clock-sets-new-record-most-accurate-clock-world
+- by: unknown
+  comments: 42
+  domain: go.dev
+  hn_url: https://news.ycombinator.com/item?id=44575607
+  id: 44575607
+  score: 0
+  title: The FIPS 140-3 Go Cryptographic Module
+  url: https://go.dev/blog/fips140
+- by: unknown
+  comments: 164
+  domain: connect.mozilla.org
+  hn_url: https://news.ycombinator.com/item?id=44575794
+  id: 44575794
+  score: 0
+  title: Where's Firefox going next?
+  url: https://connect.mozilla.org/t5/discussions/where-s-firefox-going-next-you-tell-us/m-p/100698#M39094

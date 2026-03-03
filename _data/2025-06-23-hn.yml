@@ -1,0 +1,84 @@
+date: '2025-06-23'
+stories:
+- by: unknown
+  comments: 95
+  domain: fellerts.no
+  hn_url: https://news.ycombinator.com/item?id=44347425
+  id: 44347425
+  score: 0
+  title: 'Mechanical Watch: Exploded View'
+  url: https://fellerts.no/projects/epoch.html
+- by: unknown
+  comments: 16
+  domain: koaning.io
+  hn_url: https://news.ycombinator.com/item?id=44331316
+  id: 44331316
+  score: 0
+  title: Python can run Mojo now
+  url: https://koaning.io/posts/giving-mojo-a-spin/
+- by: unknown
+  comments: 109
+  domain: fransskarman.com
+  hn_url: https://news.ycombinator.com/item?id=44350322
+  id: 44350322
+  score: 0
+  title: I wrote my PhD Thesis in Typst
+  url: https://fransskarman.com/phd_thesis_in_typst.html
+- by: unknown
+  comments: 78
+  domain: romanklasen.com
+  hn_url: https://news.ycombinator.com/item?id=44350002
+  id: 44350002
+  score: 0
+  title: Using Home Assistant, adguard home and an $8 smart outlet to avoid brain
+    rot
+  url: https://www.romanklasen.com/blog/beating-brainrot-by-button/
+- by: unknown
+  comments: 1
+  domain: leetsys.dev
+  hn_url: https://news.ycombinator.com/item?id=44352430
+  id: 44352430
+  score: 0
+  title: LeetCode for System Design
+  url: https://leetsys.dev
+- by: unknown
+  comments: 5
+  domain: codeforces.com
+  hn_url: https://news.ycombinator.com/item?id=44351068
+  id: 44351068
+  score: 0
+  title: Finding a billion factorials in 60 ms with SIMD
+  url: https://codeforces.com/blog/entry/143279
+- by: unknown
+  comments: 14
+  domain: github.com
+  hn_url: https://news.ycombinator.com/item?id=44351817
+  id: 44351817
+  score: 0
+  title: 'Polystate: Composable Finite State Machines'
+  url: https://github.com/sdzx-1/polystate
+- by: unknown
+  comments: 1
+  domain: arxiv.org
+  hn_url: https://news.ycombinator.com/item?id=44351798
+  id: 44351798
+  score: 0
+  title: 'Tensor Manipulation Unit (TMU): Reconfigurable, Near-Memory, High-Throughput
+    AI'
+  url: https://arxiv.org/abs/2506.14364
+- by: unknown
+  comments: 67
+  domain: kleinbottle.com
+  hn_url: https://news.ycombinator.com/item?id=44349525
+  id: 44349525
+  score: 0
+  title: Klein Bottle Amazon Brand Hijacking (2021)
+  url: https://www.kleinbottle.com/Amazon_Brand_Hijacking.html
+- by: unknown
+  comments: 1
+  domain: utcc.utoronto.ca
+  hn_url: https://news.ycombinator.com/item?id=44352311
+  id: 44352311
+  score: 0
+  title: The X Window System didn't immediately have X terminals
+  url: https://utcc.utoronto.ca/~cks/space/blog/unix/XTerminalsNotImmediate

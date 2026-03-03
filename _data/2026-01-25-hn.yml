@@ -1,0 +1,83 @@
+date: '2026-01-25'
+stories:
+- by: unknown
+  comments: 8
+  domain: github.com
+  hn_url: https://news.ycombinator.com/item?id=46750425
+  id: 46750425
+  score: 0
+  title: nvidia-smi hangs indefinitely after ~66 days
+  url: https://github.com/NVIDIA/open-gpu-kernel-modules/issues/971
+- by: unknown
+  comments: 166
+  domain: keck.usc.edu
+  hn_url: https://news.ycombinator.com/item?id=46749198
+  id: 46749198
+  score: 0
+  title: 'Adoption of EVs tied to real-world reductions in air pollution: study'
+  url: https://keck.usc.edu/news/adoption-of-electric-vehicles-tied-to-real-world-reductions-in-air-pollution-study-finds/
+- by: unknown
+  comments: 282
+  domain: birdy.chat
+  hn_url: https://news.ycombinator.com/item?id=46746476
+  id: 46746476
+  score: 0
+  title: BirdyChat becomes first European chat app that is interoperable with WhatsApp
+  url: https://www.birdy.chat/blog/first-to-interoperate-with-whatsapp
+- by: unknown
+  comments: 11
+  domain: nybooks.com
+  hn_url: https://news.ycombinator.com/item?id=46750485
+  id: 46750485
+  score: 0
+  title: The Responsibility of Intellectuals (1967)
+  url: https://www.nybooks.com/articles/1967/02/23/a-special-supplement-the-responsibility-of-intelle/
+- by: unknown
+  comments: 1
+  domain: essenceia.github.io
+  hn_url: https://news.ycombinator.com/item?id=46749671
+  id: 46749671
+  score: 0
+  title: Two Weeks Until Tapeout
+  url: https://essenceia.github.io/projects/two_weeks_until_tapeout/
+- by: unknown
+  comments: 0
+  domain: arxiv.org
+  hn_url: https://news.ycombinator.com/item?id=46750214
+  id: 46750214
+  score: 0
+  title: 'David Patterson: Challenges and Research Directions for LLM Inference Hardware'
+  url: https://arxiv.org/abs/2601.05047
+- by: unknown
+  comments: 36
+  domain: eclypsium.com
+  hn_url: https://news.ycombinator.com/item?id=46749053
+  id: 46749053
+  score: 0
+  title: We X-Rayed a Suspicious FTDI USB Cable
+  url: https://eclypsium.com/blog/xray-counterfeit-usb-cable/
+- by: unknown
+  comments: 50
+  domain: albedo.com
+  hn_url: https://news.ycombinator.com/item?id=46747119
+  id: 46747119
+  score: 0
+  title: 'Postmortem: Our first VLEO satellite mission (with imagery and flight data)'
+  url: https://albedo.com/post/clarity-1-what-worked-and-where-we-go-next
+- by: unknown
+  comments: 2
+  domain: github.com
+  hn_url: https://news.ycombinator.com/item?id=46750437
+  id: 46750437
+  score: 0
+  title: 'Show HN: VM-curator – a TUI alternative to libvirt and virt-manager'
+  url: https://github.com/mroboff/vm-curator
+- by: unknown
+  comments: 30
+  domain: cnn.com
+  hn_url: https://news.ycombinator.com/item?id=46750470
+  id: 46750470
+  score: 0
+  title: Alex Honnold completes Taipei 101 skyscraper climb without ropes or safety
+    net
+  url: https://www.cnn.com/sport/live-news/taiwan-alex-honnold-climb-taipei-101-01-25-26-intl-hnk

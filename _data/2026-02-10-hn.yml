@@ -1,0 +1,83 @@
+date: '2026-02-10'
+stories:
+- by: unknown
+  comments: 54
+  domain: arxiv.org
+  hn_url: https://news.ycombinator.com/item?id=46954920
+  id: 46954920
+  score: 0
+  title: Frontier AI agents violate ethical constraints 30–50% of time, pressured
+    by KPIs
+  url: https://arxiv.org/abs/2512.20798
+- by: unknown
+  comments: 1418
+  domain: theverge.com
+  hn_url: https://news.ycombinator.com/item?id=46945663
+  id: 46945663
+  score: 0
+  title: Discord will require a face scan or ID for full access next month
+  url: https://www.theverge.com/tech/875309/discord-age-verification-global-roll-out
+- by: unknown
+  comments: 12
+  domain: github.com
+  hn_url: https://news.ycombinator.com/item?id=46954136
+  id: 46954136
+  score: 0
+  title: Rust implementation of Mistral's Voxtral Mini 4B Realtime runs in your browser
+  url: https://github.com/TrevorS/voxtral-mini-realtime-rs
+- by: unknown
+  comments: 151
+  domain: github.com
+  hn_url: https://news.ycombinator.com/item?id=46947096
+  id: 46947096
+  score: 0
+  title: Converting a $3.88 analog clock from Walmart into a ESP8266-based Wi-Fi clock
+  url: https://github.com/jim11662418/ESP8266_WiFi_Analog_Clock
+- by: unknown
+  comments: 173
+  domain: explainers.blog
+  hn_url: https://news.ycombinator.com/item?id=46946401
+  id: 46946401
+  score: 0
+  title: Why is the sky blue?
+  url: https://explainers.blog/posts/why-is-the-sky-blue/
+- by: unknown
+  comments: 102
+  domain: quantamagazine.org
+  hn_url: https://news.ycombinator.com/item?id=46953136
+  id: 46953136
+  score: 0
+  title: Is particle physics dead, dying, or just hard?
+  url: https://www.quantamagazine.org/is-particle-physics-dead-dying-or-just-hard-20260126/
+- by: unknown
+  comments: 88
+  domain: iankduncan.com
+  hn_url: https://news.ycombinator.com/item?id=46953491
+  id: 46953491
+  score: 0
+  title: What functional programmers get wrong about systems
+  url: https://www.iankduncan.com/engineering/2026-02-09-what-functional-programmers-get-wrong-about-systems/
+- by: unknown
+  comments: 364
+  domain: research.google
+  hn_url: https://news.ycombinator.com/item?id=46947777
+  id: 46947777
+  score: 0
+  title: Hard-braking events as indicators of road segment crash risk
+  url: https://research.google/blog/hard-braking-events-as-indicators-of-road-segment-crash-risk/
+- by: unknown
+  comments: 69
+  domain: chainlift.io
+  hn_url: https://news.ycombinator.com/item?id=46952118
+  id: 46952118
+  score: 0
+  title: LiftKit – UI where "everything derives from the golden ratio"
+  url: https://www.chainlift.io/liftkit
+- by: unknown
+  comments: 144
+  domain: noleary.com
+  hn_url: https://news.ycombinator.com/item?id=46951057
+  id: 46951057
+  score: 0
+  title: America has a tungsten problem
+  url: https://www.noleary.com/blog/posts/1

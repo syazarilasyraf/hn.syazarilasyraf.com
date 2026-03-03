@@ -1,0 +1,39 @@
+---
+layout: none
+title: Archive | Hacker News
+permalink: /archive/
+---
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Archive | Hacker News</title>
+  <link rel="stylesheet" href="{{ site.baseurl }}/css/main.css">
+</head>
+<body>
+  <header class="site-header">
+    <h1 class="site-title"><a href="/">{{ site.title }}</a></h1>
+    <nav class="site-nav">
+      <a href="/">&larr; back to live feed</a> &middot; 
+      <a href="/digest/">daily digest</a>
+    </nav>
+  </header>
+
+  <h2 class="archive-title" style="font-size: 1.125rem; font-weight: 600; margin-bottom: 1.5rem;">Archive</h2>
+
+  <ul class="archive-list">
+    {% for post in site.posts %}
+      <li class="archive-item">
+        <a href="{{ post.url }}">{{ post.title }}</a>
+        <span class="archive-date">{{ post.date | date: "%B %d, %Y" }}</span>
+      </li>
+    {% endfor %}
+  </ul>
+
+  <footer class="site-footer">
+    <p>Daily Hacker News digest &middot; <a href="https://news.ycombinator.com">news.ycombinator.com</a></p>
+  </footer>
+</body>
+</html>

@@ -1,0 +1,83 @@
+date: '2025-06-16'
+stories:
+- by: unknown
+  comments: 10
+  domain: arxiv.org
+  hn_url: https://news.ycombinator.com/item?id=44286277
+  id: 44286277
+  score: 0
+  title: Accumulation of Cognitive Debt When Using an AI Assistant for Essay Writing
+    Task
+  url: https://arxiv.org/abs/2506.08872
+- by: unknown
+  comments: 6
+  domain: lisp-stat.dev
+  hn_url: https://news.ycombinator.com/item?id=44275679
+  id: 44275679
+  score: 0
+  title: 'Lisp-stat: Lisp environment for statistical computing'
+  url: https://lisp-stat.dev/about/
+- by: unknown
+  comments: 36
+  domain: default.blog
+  hn_url: https://news.ycombinator.com/item?id=44285426
+  id: 44285426
+  score: 0
+  title: Let's Talk About ChatGPT-Induced Spiritual Psychosis
+  url: https://default.blog/p/lets-talk-about-chatgpt-induced-spiritual
+- by: unknown
+  comments: 56
+  domain: downtowndougbrown.com
+  hn_url: https://news.ycombinator.com/item?id=44282998
+  id: 44282998
+  score: 0
+  title: Modifying an HDMI dummy plug's EDID using a Raspberry Pi
+  url: https://www.downtowndougbrown.com/2025/06/modifying-an-hdmi-dummy-plugs-edid-using-a-raspberry-pi/
+- by: unknown
+  comments: 11
+  domain: github.com
+  hn_url: https://news.ycombinator.com/item?id=44284657
+  id: 44284657
+  score: 0
+  title: Twin – A Textmode WINdow Environment
+  url: https://github.com/cosmos72/twin
+- by: unknown
+  comments: 8
+  domain: nature.com
+  hn_url: https://news.ycombinator.com/item?id=44275471
+  id: 44275471
+  score: 0
+  title: Chemical knowledge and reasoning of large language models vs. chemist expertise
+  url: https://www.nature.com/articles/s41557-025-01815-x
+- by: unknown
+  comments: 109
+  domain: tim.dierks.org
+  hn_url: https://news.ycombinator.com/item?id=44282378
+  id: 44282378
+  score: 0
+  title: Why SSL was renamed to TLS in late 90s (2014)
+  url: https://tim.dierks.org/2014/05/security-standards-and-name-changes-in.html
+- by: unknown
+  comments: 150
+  domain: canyonmid.com
+  hn_url: https://news.ycombinator.com/item?id=44282177
+  id: 44282177
+  score: 0
+  title: Canyon.mid
+  url: https://canyonmid.com/
+- by: unknown
+  comments: 35
+  domain: telephone-exchanges.org.uk
+  hn_url: https://news.ycombinator.com/item?id=44284466
+  id: 44284466
+  score: 0
+  title: Telephone Exchanges in the UK
+  url: https://telephone-exchanges.org.uk/
+- by: unknown
+  comments: 47
+  domain: ourworldindata.org
+  hn_url: https://news.ycombinator.com/item?id=44282143
+  id: 44282143
+  score: 0
+  title: 'Childhood leukemia: how a deadly cancer became treatable'
+  url: https://ourworldindata.org/childhood-leukemia-treatment-history

@@ -1,0 +1,82 @@
+date: '2025-11-20'
+stories:
+- by: unknown
+  comments: 72
+  domain: element.io
+  hn_url: https://news.ycombinator.com/item?id=45987179
+  id: 45987179
+  score: 0
+  title: Verifying your Matrix devices is becoming mandatory
+  url: https://element.io/blog/verifying-your-devices-is-becoming-mandatory-2/
+- by: unknown
+  comments: 114
+  domain: ntsb.gov:443
+  hn_url: https://news.ycombinator.com/item?id=45984659
+  id: 45984659
+  score: 0
+  title: Loose wire leads to blackout, contact with Francis Scott Key bridge
+  url: https://www.ntsb.gov:443/news/press-releases/Pages/NR20251118.aspx
+- by: unknown
+  comments: 15
+  domain: utcc.utoronto.ca
+  hn_url: https://news.ycombinator.com/item?id=45970885
+  id: 45970885
+  score: 0
+  title: A surprise with how '#!' handles its program argument in practice
+  url: https://utcc.utoronto.ca/~cks/space/blog/unix/ShebangRelativePathSurprise
+- by: unknown
+  comments: 617
+  domain: theverge.com
+  hn_url: https://news.ycombinator.com/item?id=45980117
+  id: 45980117
+  score: 0
+  title: Europe is scaling back GDPR and relaxing AI laws
+  url: https://www.theverge.com/news/823750/european-union-ai-act-gdpr-changes
+- by: unknown
+  comments: 53
+  domain: univie.ac.at
+  hn_url: https://news.ycombinator.com/item?id=45985036
+  id: 45985036
+  score: 0
+  title: Researchers discover security vulnerability in WhatsApp
+  url: https://www.univie.ac.at/en/news/detail/forscherinnen-entdecken-grosse-sicherheitsluecke-in-whatsapp
+- by: unknown
+  comments: 70
+  domain: ai.meta.com
+  hn_url: https://news.ycombinator.com/item?id=45982073
+  id: 45982073
+  score: 0
+  title: Meta Segment Anything Model 3
+  url: https://ai.meta.com/sam3/
+- by: unknown
+  comments: 2
+  domain: historytoday.com
+  hn_url: https://news.ycombinator.com/item?id=45958596
+  id: 45958596
+  score: 0
+  title: What Influence Has the BBC Had on History?
+  url: https://www.historytoday.com/archive/head-head/what-influence-has-bbc-had-history
+- by: unknown
+  comments: 0
+  domain: darwin-online.org.uk
+  hn_url: https://news.ycombinator.com/item?id=45915068
+  id: 45915068
+  score: 0
+  title: The Complete Work of Charles Darwin Online
+  url: https://darwin-online.org.uk/
+- by: unknown
+  comments: 207
+  domain: openai.com
+  hn_url: https://news.ycombinator.com/item?id=45982649
+  id: 45982649
+  score: 0
+  title: Building more with GPT-5.1-Codex-Max
+  url: https://openai.com/index/gpt-5-1-codex-max/
+- by: unknown
+  comments: 64
+  domain: amoses.dev
+  hn_url: https://news.ycombinator.com/item?id=45985867
+  id: 45985867
+  score: 0
+  title: Precise geolocation via Wi-Fi Positioning System
+  url: https://www.amoses.dev/blog/wifi-location/

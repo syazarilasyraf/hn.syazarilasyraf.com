@@ -1,0 +1,74 @@
+date: '2025-06-14'
+stories:
+- by: unknown
+  comments: 2
+  domain: github.com
+  hn_url: https://news.ycombinator.com/item?id=44273857
+  id: 44273857
+  score: 0
+  title: 'Filedb: Disk Based Key-Value Store Inspired by Bitcask'
+  url: https://github.com/rajivharlalka/filedb
+- by: unknown
+  comments: 0
+  domain: 0x80.pl
+  hn_url: https://news.ycombinator.com/item?id=44274001
+  id: 44274001
+  score: 0
+  title: SIMD-friendly algorithms for substring searching
+  url: http://0x80.pl/notesen/2016-11-28-simd-strfind.html
+- by: unknown
+  comments: 24
+  domain: btmc.substack.com
+  hn_url: https://news.ycombinator.com/item?id=44272467
+  id: 44272467
+  score: 0
+  title: Implementing Logic Programming
+  url: https://btmc.substack.com/p/implementing-logic-programming
+- by: unknown
+  comments: 18
+  domain: owlposting.com
+  hn_url: https://news.ycombinator.com/item?id=44272933
+  id: 44272933
+  score: 0
+  title: Endometriosis is an interesting disease
+  url: https://www.owlposting.com/p/endometriosis-is-an-incredibly-interesting
+- by: unknown
+  comments: 35
+  domain: arxiv.org
+  hn_url: https://news.ycombinator.com/item?id=44271284
+  id: 44271284
+  score: 0
+  title: Self-Adapting Language Models
+  url: https://arxiv.org/abs/2506.10943
+- by: unknown
+  comments: 81
+  domain: oxcaml.org
+  hn_url: https://news.ycombinator.com/item?id=44268782
+  id: 44268782
+  score: 0
+  title: OxCaml - a set of extensions to the OCaml programming language.
+  url: https://oxcaml.org/
+- by: unknown
+  comments: 3
+  domain: akpain.net
+  hn_url: https://news.ycombinator.com/item?id=44258633
+  id: 44258633
+  score: 0
+  title: The international standard for identifying postal items
+  url: https://www.akpain.net/blog/s10-upu/
+- by: unknown
+  comments: 0
+  domain: en.wikipedia.org
+  hn_url: https://news.ycombinator.com/item?id=44274031
+  id: 44274031
+  score: 0
+  title: $100 Hamburger
+  url: https://en.wikipedia.org/wiki/$100_hamburger
+- by: unknown
+  comments: 0
+  domain: github.com
+  hn_url: https://news.ycombinator.com/item?id=44274133
+  id: 44274133
+  score: 0
+  title: Green Tea Garbage Collector
+  url: https://github.com/golang/go/issues/73581

@@ -1,0 +1,74 @@
+date: '2025-08-12'
+stories:
+- by: unknown
+  comments: 2
+  domain: apple1registry.com
+  hn_url: https://news.ycombinator.com/item?id=44839575
+  id: 44839575
+  score: 0
+  title: All known 49-year-old Apple-1 computer
+  url: https://www.apple1registry.com/en/list.html
+- by: unknown
+  comments: 523
+  domain: bbc.com
+  hn_url: https://news.ycombinator.com/item?id=44866208
+  id: 44866208
+  score: 0
+  title: Wikipedia loses challenge against Online Safety Act
+  url: https://www.bbc.com/news/articles/cjr11qqvvwlo
+- by: unknown
+  comments: 552
+  domain: al3rez.com
+  hn_url: https://news.ycombinator.com/item?id=44864134
+  id: 44864134
+  score: 0
+  title: I tried every todo app and ended up with a .txt file
+  url: https://www.al3rez.com/todo-txt-journey
+- by: unknown
+  comments: 7
+  domain: 100r.co
+  hn_url: https://news.ycombinator.com/item?id=44871901
+  id: 44871901
+  score: 0
+  title: Weathering Software Winter
+  url: https://100r.co/site/weathering_software_winter.html
+- by: unknown
+  comments: 1
+  domain: lwn.net
+  hn_url: https://news.ycombinator.com/item?id=44872313
+  id: 44872313
+  score: 0
+  title: StarDict sends X11 clipboard to remote servers
+  url: https://lwn.net/SubscriberLink/1032732/3334850da49689e1/
+- by: unknown
+  comments: 12
+  domain: github.com
+  hn_url: https://news.ycombinator.com/item?id=44870137
+  id: 44870137
+  score: 0
+  title: 'Show HN: I built an offline, open‑source desktop Pixel Art Editor in Python'
+  url: https://github.com/danterolle/tilf
+- by: unknown
+  comments: 764
+  domain: theverge.com
+  hn_url: https://news.ycombinator.com/item?id=44865560
+  id: 44865560
+  score: 0
+  title: GitHub is no longer independent at Microsoft after CEO resignation
+  url: https://www.theverge.com/news/757461/microsoft-github-thomas-dohmke-resignation-coreai-team-transition
+- by: unknown
+  comments: 14
+  domain: wiki.freebsd.org
+  hn_url: https://news.ycombinator.com/item?id=44833869
+  id: 44833869
+  score: 0
+  title: FreeBSD Scheduling on Hybrid CPUs
+  url: https://wiki.freebsd.org/Scheduler/Hybrid
+- by: unknown
+  comments: 303
+  domain: dwyer.co.za
+  hn_url: https://news.ycombinator.com/item?id=44864185
+  id: 44864185
+  score: 0
+  title: Claude Code is all you need
+  url: https://dwyer.co.za/static/claude-code-is-all-you-need.html

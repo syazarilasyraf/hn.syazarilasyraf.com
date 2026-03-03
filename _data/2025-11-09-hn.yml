@@ -1,0 +1,83 @@
+date: '2025-11-09'
+stories:
+- by: unknown
+  comments: 13
+  domain: docs.x.ai
+  hn_url: https://news.ycombinator.com/item?id=45862833
+  id: 45862833
+  score: 0
+  title: Grok 4 Fast now has 2M context window
+  url: https://docs.x.ai/docs/models
+- by: unknown
+  comments: 12
+  domain: tabloid.vercel.app
+  hn_url: https://news.ycombinator.com/item?id=45862470
+  id: 45862470
+  score: 0
+  title: 'Tabloid: The Clickbait Headline Programming Language'
+  url: https://tabloid.vercel.app/
+- by: unknown
+  comments: 36
+  domain: ironclad-os.org
+  hn_url: https://news.ycombinator.com/item?id=45860843
+  id: 45860843
+  score: 0
+  title: Ironclad – formally verified, real-time capable, Unix-like OS kernel
+  url: https://ironclad-os.org/
+- by: unknown
+  comments: 14
+  domain: yahoo.com
+  hn_url: https://news.ycombinator.com/item?id=45862674
+  id: 45862674
+  score: 0
+  title: Boring Company fined nearly $500K after it dumped drilling fluids into manholes
+  url: https://www.yahoo.com/news/articles/elon-musk-boring-company-fined-150000426.html
+- by: unknown
+  comments: 115
+  domain: markojs.com
+  hn_url: https://news.ycombinator.com/item?id=45858905
+  id: 45858905
+  score: 0
+  title: Marko – A declarative, HTML‑based language
+  url: https://markojs.com/
+- by: unknown
+  comments: 102
+  domain: marineinsight.com
+  hn_url: https://news.ycombinator.com/item?id=45859471
+  id: 45859471
+  score: 0
+  title: Largest cargo sailboat completes first Atlantic crossing
+  url: https://www.marineinsight.com/shipping-news/worlds-largest-cargo-sailboat-completes-historic-first-atlantic-crossing/
+- by: unknown
+  comments: 163
+  domain: oii.ox.ac.uk
+  hn_url: https://news.ycombinator.com/item?id=45856804
+  id: 45856804
+  score: 0
+  title: Study identifies weaknesses in how AI systems are evaluated
+  url: https://www.oii.ox.ac.uk/news-events/study-identifies-weaknesses-in-how-ai-systems-are-evaluated/
+- by: unknown
+  comments: 12
+  domain: homepage.cs.uiowa.edu
+  hn_url: https://news.ycombinator.com/item?id=45862591
+  id: 45862591
+  score: 0
+  title: Syntax and Semantics of Programming Languages (1995)
+  url: https://homepage.cs.uiowa.edu/~slonnegr/plf/Book/
+- by: unknown
+  comments: 0
+  domain: downtowndougbrown.com
+  hn_url: https://news.ycombinator.com/item?id=45860638
+  id: 45860638
+  score: 0
+  title: 'Debugging BeagleBoard USB boot with a sniffer: fixing omap_loader on modern
+    PCs'
+  url: https://www.downtowndougbrown.com/2025/11/debugging-beagleboard-usb-boot-with-a-sniffer-fixing-omap_loader-on-modern-pcs/
+- by: unknown
+  comments: 8
+  domain: xavierleroy.org
+  hn_url: https://news.ycombinator.com/item?id=45798068
+  id: 45798068
+  score: 0
+  title: 'Control structures in programming languages: from goto to algebraic effects'
+  url: http://xavierleroy.org/control-structures/

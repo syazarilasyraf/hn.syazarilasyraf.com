@@ -1,0 +1,74 @@
+date: '2025-08-28'
+stories:
+- by: unknown
+  comments: 54
+  domain: journals.plos.org
+  hn_url: https://news.ycombinator.com/item?id=45046916
+  id: 45046916
+  score: 0
+  title: Altered states of consciousness induced by breathwork accompanied by music
+  url: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0329411
+- by: unknown
+  comments: 1
+  domain: community.broadcom.com
+  hn_url: https://news.ycombinator.com/item?id=45048419
+  id: 45048419
+  score: 0
+  title: The Deletion of Docker.io/Bitnami
+  url: https://community.broadcom.com/tanzu/blogs/beltran-rueda-borrego/2025/08/18/how-to-prepare-for-the-bitnami-changes-coming-soon
+- by: unknown
+  comments: 49
+  domain: yamanot.es
+  hn_url: https://news.ycombinator.com/item?id=45045307
+  id: 45045307
+  score: 0
+  title: 'Yamanot.es: A music box of train station melodies from the JR Yamanote Line'
+  url: https://yamanot.es/
+- by: unknown
+  comments: 380
+  domain: github.com
+  hn_url: https://news.ycombinator.com/item?id=45034496
+  id: 45034496
+  score: 0
+  title: Malicious versions of Nx and some supporting plugins were published
+  url: https://github.com/nrwl/nx/security/advisories/GHSA-cxm3-wv7p-598c
+- by: unknown
+  comments: 103
+  domain: thedrive.com
+  hn_url: https://news.ycombinator.com/item?id=44998010
+  id: 44998010
+  score: 0
+  title: Toyota is recycling old EV batteries to help power Mazda's production line
+  url: https://www.thedrive.com/news/toyota-is-recycling-old-ev-batteries-to-help-power-mazdas-production-line
+- by: unknown
+  comments: 18
+  domain: github.com
+  hn_url: https://news.ycombinator.com/item?id=45047572
+  id: 45047572
+  score: 0
+  title: Bookmarks.txt is a concept of keeping URLs in plain text files
+  url: https://github.com/soulim/bookmarks.txt
+- by: unknown
+  comments: 82
+  domain: nvidia.com
+  hn_url: https://news.ycombinator.com/item?id=45008434
+  id: 45008434
+  score: 0
+  title: Nvidia DGX Spark
+  url: https://www.nvidia.com/en-us/products/workstations/dgx-spark/
+- by: unknown
+  comments: 0
+  domain: lithub.com
+  hn_url: https://news.ycombinator.com/item?id=45016579
+  id: 45016579
+  score: 0
+  title: Will Bardenwerper on Baseball's Betrayal of Its Minor League Roots
+  url: https://lithub.com/will-bardenwerper-on-baseballs-betrayal-of-its-minor-league-roots/
+- by: unknown
+  comments: 35
+  domain: linuxcontainers.org
+  hn_url: https://news.ycombinator.com/item?id=45011404
+  id: 45011404
+  score: 0
+  title: About Containers and VMs
+  url: https://linuxcontainers.org/incus/docs/main/explanation/containers_and_vms/

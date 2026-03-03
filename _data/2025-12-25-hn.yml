@@ -1,0 +1,68 @@
+date: '2025-12-25'
+stories:
+- by: unknown
+  comments: 138
+  domain: git.dec05eba.com
+  hn_url: https://news.ycombinator.com/item?id=46380075
+  id: 46380075
+  score: 0
+  title: 'Phoenix: A modern X server written from scratch in Zig'
+  url: https://git.dec05eba.com/phoenix/about/
+- by: unknown
+  comments: 2
+  domain: labs.acme.byu.edu
+  hn_url: https://news.ycombinator.com/item?id=46381839
+  id: 46381839
+  score: 0
+  title: Python Applied Mathematics Labs
+  url: https://labs.acme.byu.edu/Pages/intro.html
+- by: unknown
+  comments: 7
+  domain: windowslatest.com
+  hn_url: https://news.ycombinator.com/item?id=46381813
+  id: 46381813
+  score: 0
+  title: Microsoft denies rewriting Windows 11 in Rust using AI
+  url: https://www.windowslatest.com/2025/12/24/microsoft-denies-rewriting-windows-11-using-ai-after-an-employees-one-engineer-one-month-one-million-code-post-on-linkedin-causes-outrage/
+- by: unknown
+  comments: 32
+  domain: github.com
+  hn_url: https://news.ycombinator.com/item?id=46380399
+  id: 46380399
+  score: 0
+  title: Asterisk AI Voice Agent
+  url: https://github.com/hkjarral/Asterisk-AI-Voice-Agent
+- by: unknown
+  comments: 89
+  domain: github.com
+  hn_url: https://news.ycombinator.com/item?id=46378554
+  id: 46378554
+  score: 0
+  title: 'Show HN: Minimalist editor that lives in browser, stores everything in the
+    URL'
+  url: https://github.com/antonmedv/textarea
+- by: unknown
+  comments: 28
+  domain: blog.miguelgrinberg.com
+  hn_url: https://news.ycombinator.com/item?id=46351666
+  id: 46351666
+  score: 0
+  title: CSRF protection without tokens or hidden form fields
+  url: https://blog.miguelgrinberg.com/post/csrf-protection-without-tokens-or-hidden-form-fields
+- by: unknown
+  comments: 5
+  domain: news.mcmaster.ca
+  hn_url: https://news.ycombinator.com/item?id=46322815
+  id: 46322815
+  score: 0
+  title: Research team digitizes more than 100 years of Canadian infectious disease
+    data
+  url: https://news.mcmaster.ca/mcmaster-research-team-digitizes-more-than-100-years-of-canadian-infectious-disease-data/
+- by: unknown
+  comments: 3
+  domain: coe.psu.ac.th
+  hn_url: https://news.ycombinator.com/item?id=46327191
+  id: 46327191
+  score: 0
+  title: 'Show HN: Exploring Mathematics with Python'
+  url: https://coe.psu.ac.th/ad/explore/

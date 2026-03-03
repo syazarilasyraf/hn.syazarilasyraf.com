@@ -1,0 +1,82 @@
+date: '2025-09-03'
+stories:
+- by: unknown
+  comments: 370
+  domain: cnbc.com
+  hn_url: https://news.ycombinator.com/item?id=45108548
+  id: 45108548
+  score: 0
+  title: Google can keep its Chrome browser but will be barred from exclusive contracts
+  url: https://www.cnbc.com/2025/09/02/google-antitrust-search-ruling.html
+- by: unknown
+  comments: 71
+  domain: brendanlong.com
+  hn_url: https://news.ycombinator.com/item?id=45110688
+  id: 45110688
+  score: 0
+  title: '%CPU utilization is a lie'
+  url: https://www.brendanlong.com/cpu-utilization-is-a-lie.html
+- by: unknown
+  comments: 59
+  domain: blog.ctms.me
+  hn_url: https://news.ycombinator.com/item?id=45110209
+  id: 45110209
+  score: 0
+  title: This blog is running on a recycled Google Pixel 5 (2024)
+  url: https://blog.ctms.me/posts/2024-08-29-running-this-blog-on-a-pixel-5/
+- by: unknown
+  comments: 1
+  domain: discourse.llvm.org
+  hn_url: https://news.ycombinator.com/item?id=45072481
+  id: 45072481
+  score: 0
+  title: 10-20x Faster LLVM -O0 Back-End – Code Generation
+  url: https://discourse.llvm.org/t/tpde-llvm-10-20x-faster-llvm-o0-back-end/86664
+- by: unknown
+  comments: 1
+  domain: github.com
+  hn_url: https://news.ycombinator.com/item?id=45078962
+  id: 45078962
+  score: 0
+  title: Lisp interpreter with GC in <750 lines of Odin (and <500 lines of C)
+  url: https://github.com/krig/LISP
+- by: unknown
+  comments: 60
+  domain: dgross.ca
+  hn_url: https://news.ycombinator.com/item?id=45108066
+  id: 45108066
+  score: 0
+  title: Making a Linux home server sleep on idle and wake on demand (2023)
+  url: https://dgross.ca/blog/linux-home-server-auto-sleep
+- by: unknown
+  comments: 187
+  domain: sanity.io
+  hn_url: https://news.ycombinator.com/item?id=45107962
+  id: 45107962
+  score: 0
+  title: A staff engineer's journey with Claude Code
+  url: https://www.sanity.io/blog/first-attempt-will-be-95-garbage
+- by: unknown
+  comments: 38
+  domain: blog.adacore.com
+  hn_url: https://news.ycombinator.com/item?id=45106314
+  id: 45106314
+  score: 0
+  title: 'Introduction to Ada: a project-based exploration with rosettas'
+  url: https://blog.adacore.com/introduction-to-ada-a-project-based-exploration-with-rosettas
+- by: unknown
+  comments: 41
+  domain: imadr.me
+  hn_url: https://news.ycombinator.com/item?id=45106846
+  id: 45106846
+  score: 0
+  title: Physically based rendering from first principles
+  url: https://imadr.me/pbr/
+- by: unknown
+  comments: 89
+  domain: github.com
+  hn_url: https://news.ycombinator.com/item?id=45103436
+  id: 45103436
+  score: 0
+  title: The Little Book of Linear Algebra
+  url: https://github.com/the-litte-book-of/linear-algebra

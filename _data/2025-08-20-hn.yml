@@ -1,0 +1,83 @@
+date: '2025-08-20'
+stories:
+- by: unknown
+  comments: 132
+  domain: agents.md
+  hn_url: https://news.ycombinator.com/item?id=44957443
+  id: 44957443
+  score: 0
+  title: AGENTS.md – Open format for guiding coding agents
+  url: https://agents.md/
+- by: unknown
+  comments: 99
+  domain: pistachioapp.com
+  hn_url: https://news.ycombinator.com/item?id=44957454
+  id: 44957454
+  score: 0
+  title: Copilot broke audit logs, but Microsoft won't tell customers
+  url: https://pistachioapp.com/blog/copilot-broke-your-audit-log
+- by: unknown
+  comments: 13
+  domain: muffinman.io
+  hn_url: https://news.ycombinator.com/item?id=44956915
+  id: 44956915
+  score: 0
+  title: How to Draw a Space Invader
+  url: https://muffinman.io/blog/invaders/
+- by: unknown
+  comments: 173
+  domain: research.kudelskisecurity.com
+  hn_url: https://news.ycombinator.com/item?id=44953032
+  id: 44953032
+  score: 0
+  title: 'How we exploited CodeRabbit: From simple PR to RCE and write access on 1M
+    repos'
+  url: https://research.kudelskisecurity.com/2025/08/19/how-we-exploited-coderabbit-from-a-simple-pr-to-rce-and-write-access-on-1m-repositories/
+- by: unknown
+  comments: 5
+  domain: nautil.us
+  hn_url: https://news.ycombinator.com/item?id=44957157
+  id: 44957157
+  score: 0
+  title: Tiny microbe challenges the definition of cellular life
+  url: https://nautil.us/a-rogue-new-life-form-1232095/
+- by: unknown
+  comments: 6
+  domain: overcomingbias.com
+  hn_url: https://news.ycombinator.com/item?id=44958506
+  id: 44958506
+  score: 0
+  title: Pre-Sputnik Earth-Orbit Glints
+  url: https://www.overcomingbias.com/p/many-big-pre-sputnik-earth-orbit
+- by: unknown
+  comments: 15
+  domain: wired.com
+  hn_url: https://news.ycombinator.com/item?id=44939165
+  id: 44939165
+  score: 0
+  title: The End of Handwriting
+  url: https://www.wired.com/story/the-end-of-handwriting/
+- by: unknown
+  comments: 41
+  domain: d2lang.com
+  hn_url: https://news.ycombinator.com/item?id=44954524
+  id: 44954524
+  score: 0
+  title: D2 (text to diagram tool) now supports ASCII renders
+  url: https://d2lang.com/blog/ascii/
+- by: unknown
+  comments: 8
+  domain: re.factorcode.org
+  hn_url: https://news.ycombinator.com/item?id=44956581
+  id: 44956581
+  score: 0
+  title: Drunken Bishop (2023)
+  url: https://re.factorcode.org/2023/08/drunken-bishop.html
+- by: unknown
+  comments: 1
+  domain: pvk.ca
+  hn_url: https://news.ycombinator.com/item?id=44958421
+  id: 44958421
+  score: 0
+  title: Monoid-Augmented FIFOs, Deamortised
+  url: https://pvk.ca/Blog/2025/08/19/monoid-augmented-fifos/

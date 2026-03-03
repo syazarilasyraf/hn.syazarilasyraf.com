@@ -1,0 +1,83 @@
+date: '2026-01-05'
+stories:
+- by: unknown
+  comments: 115
+  domain: github.com
+  hn_url: https://news.ycombinator.com/item?id=46491749
+  id: 46491749
+  score: 0
+  title: 'Show HN: Terminal UI for AWS'
+  url: https://github.com/huseyinbabal/taws
+- by: unknown
+  comments: 441
+  domain: addyosmani.com
+  hn_url: https://news.ycombinator.com/item?id=46488819
+  id: 46488819
+  score: 0
+  title: Lessons from 14 years at Google
+  url: https://addyosmani.com/blog/21-lessons/
+- by: unknown
+  comments: 47
+  domain: stats.stackexchange.com
+  hn_url: https://news.ycombinator.com/item?id=46491821
+  id: 46491821
+  score: 0
+  title: Why does a least squares fit appear to have a bias when applied to simple
+    data?
+  url: https://stats.stackexchange.com/questions/674129/why-does-a-linear-least-squares-fit-appear-to-have-a-bias-when-applied-to-simple
+- by: unknown
+  comments: 303
+  domain: candost.blog
+  hn_url: https://news.ycombinator.com/item?id=46488355
+  id: 46488355
+  score: 0
+  title: The unbearable joy of sitting alone in a café
+  url: https://candost.blog/the-unbearable-joy-of-sitting-alone-in-a-cafe/
+- by: unknown
+  comments: 9
+  domain: bbc.com
+  hn_url: https://news.ycombinator.com/item?id=46448356
+  id: 46448356
+  score: 0
+  title: The baffling purple honey found only in North Carolina
+  url: https://www.bbc.com/travel/article/20250417-the-baffling-purple-honey-found-only-in-north-carolina
+- by: unknown
+  comments: 47
+  domain: sparkbox.com
+  hn_url: https://news.ycombinator.com/item?id=46494734
+  id: 46494734
+  score: 0
+  title: During Helene, I just wanted a plain text website
+  url: https://sparkbox.com/foundry/helene_and_mobile_web_performance
+- by: unknown
+  comments: 57
+  domain: fabiensanglard.net
+  hn_url: https://news.ycombinator.com/item?id=46488278
+  id: 46488278
+  score: 0
+  title: Street Fighter II, the World Warrier (2021)
+  url: https://fabiensanglard.net/sf2_warrier/
+- by: unknown
+  comments: 21
+  domain: consumer.drop.privacy.ca.gov
+  hn_url: https://news.ycombinator.com/item?id=46495220
+  id: 46495220
+  score: 0
+  title: California residents can now request all data brokers delete personal info
+  url: https://consumer.drop.privacy.ca.gov/
+- by: unknown
+  comments: 86
+  domain: matduggan.com
+  hn_url: https://news.ycombinator.com/item?id=46422574
+  id: 46422574
+  score: 0
+  title: The year of the 3D printed miniature and other lies we tell ourselves
+  url: https://matduggan.com/the-year-of-the-3d-printed-miniature-and-other-lies-we-tell-ourselves/
+- by: unknown
+  comments: 90
+  domain: queue.acm.org
+  hn_url: https://news.ycombinator.com/item?id=46442282
+  id: 46442282
+  score: 0
+  title: 'Linear Address Spaces: Unsafe at any speed (2022)'
+  url: https://queue.acm.org/detail.cfm?id=3534854

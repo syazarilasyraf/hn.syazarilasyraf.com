@@ -1,0 +1,74 @@
+date: '2025-08-30'
+stories:
+- by: unknown
+  comments: 199
+  domain: seangoedecke.com
+  hn_url: https://news.ycombinator.com/item?id=45068091
+  id: 45068091
+  score: 0
+  title: Do the simplest thing that could possibly work
+  url: https://www.seangoedecke.com/the-simplest-thing-that-could-possibly-work/
+- by: unknown
+  comments: 12
+  domain: nature.com
+  hn_url: https://news.ycombinator.com/item?id=45030038
+  id: 45030038
+  score: 0
+  title: 15-Fold increase in solar thermoelectric generator performance
+  url: https://www.nature.com/articles/s41377-025-01916-9
+- by: unknown
+  comments: 317
+  domain: twitter.com
+  hn_url: https://news.ycombinator.com/item?id=45066395
+  id: 45066395
+  score: 0
+  title: John Carmack's arguments against building a custom XR OS at Meta
+  url: https://twitter.com/ID_AA_Carmack/status/1961172409920491849
+- by: unknown
+  comments: 24
+  domain: andre.arko.net
+  hn_url: https://news.ycombinator.com/item?id=45038074
+  id: 45038074
+  score: 0
+  title: Delete Tests
+  url: https://andre.arko.net/2025/06/30/you-should-delete-tests/
+- by: unknown
+  comments: 47
+  domain: t3x.org
+  hn_url: https://news.ycombinator.com/item?id=45037419
+  id: 45037419
+  score: 0
+  title: Lisp from Nothing, Second Edition
+  url: http://t3x.org/lfn/index.html
+- by: unknown
+  comments: 12
+  domain: arxiv.org
+  hn_url: https://news.ycombinator.com/item?id=45068986
+  id: 45068986
+  score: 0
+  title: The Theoretical Limitations of Embedding-Based Retrieval
+  url: https://arxiv.org/abs/2508.21038
+- by: unknown
+  comments: 1
+  domain: openai.com
+  hn_url: https://news.ycombinator.com/item?id=45071703
+  id: 45071703
+  score: 0
+  title: OpenAI tackling life extension with LLMs
+  url: https://openai.com/index/accelerating-life-sciences-research-with-retro-biosciences/
+- by: unknown
+  comments: 385
+  domain: x.ai
+  hn_url: https://news.ycombinator.com/item?id=45063559
+  id: 45063559
+  score: 0
+  title: Grok Code Fast 1
+  url: https://x.ai/news/grok-code-fast-1
+- by: unknown
+  comments: 27
+  domain: gally.net
+  hn_url: https://news.ycombinator.com/item?id=45071722
+  id: 45071722
+  score: 0
+  title: 'Show HN: Hacker News em dash user leaderboard pre-ChatGPT'
+  url: https://www.gally.net/miscellaneous/hn-em-dash-user-leaderboard.html

@@ -1,0 +1,83 @@
+date: '2026-02-06'
+stories:
+- by: unknown
+  comments: 742
+  domain: anthropic.com
+  hn_url: https://news.ycombinator.com/item?id=46902223
+  id: 46902223
+  score: 0
+  title: Claude Opus 4.6
+  url: https://www.anthropic.com/news/claude-opus-4-6
+- by: unknown
+  comments: 448
+  domain: openai.com
+  hn_url: https://news.ycombinator.com/item?id=46902638
+  id: 46902638
+  score: 0
+  title: GPT-5.3-Codex
+  url: https://openai.com/index/introducing-gpt-5-3-codex/
+- by: unknown
+  comments: 126
+  domain: mitchellh.com
+  hn_url: https://news.ycombinator.com/item?id=46903558
+  id: 46903558
+  score: 0
+  title: My AI Adoption Journey
+  url: https://mitchellh.com/writing/my-ai-adoption-journey
+- by: unknown
+  comments: 417
+  domain: anthropic.com
+  hn_url: https://news.ycombinator.com/item?id=46903616
+  id: 46903616
+  score: 0
+  title: We tasked Opus 4.6 using agent teams to build a C Compiler
+  url: https://www.anthropic.com/engineering/building-c-compiler
+- by: unknown
+  comments: 0
+  domain: stormatics.tech
+  hn_url: https://news.ycombinator.com/item?id=46853261
+  id: 46853261
+  score: 0
+  title: Unlocking high-performance PostgreSQL with key memory optimizations
+  url: https://stormatics.tech/blogs/unlocking-high-performance-postgresql-key-memory-optimizations
+- by: unknown
+  comments: 83
+  domain: neosmart.net
+  hn_url: https://news.ycombinator.com/item?id=46890335
+  id: 46890335
+  score: 0
+  title: Recreating Epstein PDFs from raw encoded attachments
+  url: https://neosmart.net/blog/recreating-epstein-pdfs-from-raw-encoded-attachments/
+- by: unknown
+  comments: 1
+  domain: atomic14.com
+  hn_url: https://news.ycombinator.com/item?id=46845135
+  id: 46845135
+  score: 0
+  title: Pong Cam – My ESP32S3 Thinks It's a WebCam
+  url: https://www.atomic14.com/2026/02/01/pong-cam
+- by: unknown
+  comments: 16
+  domain: animatedknots.com
+  hn_url: https://news.ycombinator.com/item?id=46855697
+  id: 46855697
+  score: 0
+  title: Animated Knots
+  url: https://www.animatedknots.com/
+- by: unknown
+  comments: 41
+  domain: iankduncan.com
+  hn_url: https://news.ycombinator.com/item?id=46908491
+  id: 46908491
+  score: 0
+  title: GitHub Actions is slowly killing engineering teams
+  url: https://www.iankduncan.com/engineering/2026-02-05-github-actions-killing-your-team/
+- by: unknown
+  comments: 5
+  domain: vespalec.com
+  hn_url: https://news.ycombinator.com/item?id=46908671
+  id: 46908671
+  score: 0
+  title: 'I reversed Tower of Fantasy''s anti-cheat driver: a BYOVD toolkit never
+    loaded'
+  url: https://vespalec.com/blog/tower-of-flaws/

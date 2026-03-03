@@ -1,0 +1,66 @@
+date: '2025-10-18'
+stories:
+- by: unknown
+  comments: 596
+  domain: dwarkesh.com
+  hn_url: https://news.ycombinator.com/item?id=45619329
+  id: 45619329
+  score: 0
+  title: Andrej Karpathy – It will take a decade to work through the issues with agents
+  url: https://www.dwarkesh.com/p/andrej-karpathy
+- by: unknown
+  comments: 18
+  domain: thefarside.com
+  hn_url: https://news.ycombinator.com/item?id=45622365
+  id: 45622365
+  score: 0
+  title: New Work by Gary Larson
+  url: https://www.thefarside.com/new-stuff
+- by: unknown
+  comments: 100
+  domain: antipope.org
+  hn_url: https://news.ycombinator.com/item?id=45621074
+  id: 45621074
+  score: 0
+  title: The pivot
+  url: https://www.antipope.org/charlie/blog-static/2025/10/the-pivot-1.html
+- by: unknown
+  comments: 136
+  domain: aiven.io
+  hn_url: https://news.ycombinator.com/item?id=45593358
+  id: 45593358
+  score: 0
+  title: Exploring PostgreSQL 18's new UUIDv7 support
+  url: https://aiven.io/blog/exploring-postgresql-18-new-uuidv7-support
+- by: unknown
+  comments: 21
+  domain: copetti.org
+  hn_url: https://news.ycombinator.com/item?id=45576536
+  id: 45576536
+  score: 0
+  title: PlayStation 3 Architecture (2021)
+  url: https://www.copetti.org/writings/consoles/playstation-3
+- by: unknown
+  comments: 82
+  domain: bookofjoe2.blogspot.com
+  hn_url: https://news.ycombinator.com/item?id=45615931
+  id: 45615931
+  score: 0
+  title: Live Stream from the Namib Desert
+  url: https://bookofjoe2.blogspot.com/2025/10/live-stream-from-namib-desert.html
+- by: unknown
+  comments: 267
+  domain: simonwillison.net
+  hn_url: https://news.ycombinator.com/item?id=45619537
+  id: 45619537
+  score: 0
+  title: Claude Skills are awesome, maybe a bigger deal than MCP
+  url: https://simonwillison.net/2025/Oct/16/claude-skills/
+- by: unknown
+  comments: 1
+  domain: github.com
+  hn_url: https://news.ycombinator.com/item?id=45624186
+  id: 45624186
+  score: 0
+  title: 'Show HN: ServiceRadar – open-source Network Observability Platform'
+  url: https://github.com/carverauto/serviceradar

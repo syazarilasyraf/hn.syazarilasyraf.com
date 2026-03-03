@@ -1,0 +1,83 @@
+date: '2026-02-22'
+stories:
+- by: unknown
+  comments: 153
+  domain: boristane.com
+  hn_url: https://news.ycombinator.com/item?id=47106686
+  id: 47106686
+  score: 0
+  title: 'How I use Claude Code: Separation of planning and execution'
+  url: https://boristane.com/blog/how-i-use-claude-code/
+- by: unknown
+  comments: 8
+  domain: ukiyo-e.org
+  hn_url: https://news.ycombinator.com/item?id=47107781
+  id: 47107781
+  score: 0
+  title: Japanese Woodblock Print Search
+  url: https://ukiyo-e.org/
+- by: unknown
+  comments: 22
+  domain: sambent.com
+  hn_url: https://news.ycombinator.com/item?id=47106985
+  id: 47106985
+  score: 0
+  title: A Botnet Accidentally Destroyed I2P
+  url: https://www.sambent.com/a-botnet-accidentally-destroyed-i2p-the-full-story/
+- by: unknown
+  comments: 38
+  domain: github.com
+  hn_url: https://news.ycombinator.com/item?id=47104667
+  id: 47104667
+  score: 0
+  title: 'Show HN: Llama 3.1 70B on a single RTX 3090 via NVMe-to-GPU bypassing the
+    CPU'
+  url: https://github.com/xaskasdf/ntransformer
+- by: unknown
+  comments: 5
+  domain: floedb.ai
+  hn_url: https://news.ycombinator.com/item?id=47046070
+  id: 47046070
+  score: 0
+  title: 'Two Bits Are Better Than One: making bloom filters 2x more accurate'
+  url: https://floedb.ai/blog/two-bits-are-better-than-one-making-bloom-filters-2x-more-accurate
+- by: unknown
+  comments: 28
+  domain: science.org
+  hn_url: https://news.ycombinator.com/item?id=47105198
+  id: 47105198
+  score: 0
+  title: Evidence of the bouba-kiki effect in naïve baby chicks
+  url: https://www.science.org/doi/10.1126/science.adq7188
+- by: unknown
+  comments: 246
+  domain: deadlanguagesociety.com
+  hn_url: https://news.ycombinator.com/item?id=47061614
+  id: 47061614
+  score: 0
+  title: How far back in time can you understand English?
+  url: https://www.deadlanguagesociety.com/p/how-far-back-in-time-understand-english
+- by: unknown
+  comments: 2
+  domain: phys.org
+  hn_url: https://news.ycombinator.com/item?id=47051709
+  id: 47051709
+  score: 0
+  title: Scientists discover recent tectonic activity on the moon
+  url: https://phys.org/news/2026-02-scientists-tectonic-moon.html
+- by: unknown
+  comments: 0
+  domain: newyorker.com
+  hn_url: https://news.ycombinator.com/item?id=47088307
+  id: 47088307
+  score: 0
+  title: '“Playmakers,” reviewed: The race to give every child a toy'
+  url: https://www.newyorker.com/magazine/2026/02/16/playmakers-the-jewish-entrepreneurs-who-created-the-toy-industry-in-america-michael-kimmel-book-review
+- by: unknown
+  comments: 76
+  domain: github.com
+  hn_url: https://news.ycombinator.com/item?id=47100232
+  id: 47100232
+  score: 0
+  title: 'zclaw: personal AI assistant in under 888 KB, running on an ESP32'
+  url: https://github.com/tnm/zclaw

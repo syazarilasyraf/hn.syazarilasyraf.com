@@ -1,0 +1,82 @@
+date: '2025-12-03'
+stories:
+- by: unknown
+  comments: 761
+  domain: bun.com
+  hn_url: https://news.ycombinator.com/item?id=46124267
+  id: 46124267
+  score: 0
+  title: Anthropic acquires Bun
+  url: https://bun.com/blog/bun-joins-anthropic
+- by: unknown
+  comments: 9
+  domain: gamesindustry.biz
+  hn_url: https://news.ycombinator.com/item?id=46130187
+  id: 46130187
+  score: 0
+  title: Japanese game devs face font dilemma as license increases from $380 to $20k
+  url: https://www.gamesindustry.biz/japanese-devs-face-font-licensing-dilemma-as-leading-provider-increases-annual-plan-price-from-380-to-20000
+- by: unknown
+  comments: 434
+  domain: businessinsider.com
+  hn_url: https://news.ycombinator.com/item?id=46124324
+  id: 46124324
+  score: 0
+  title: IBM CEO says there is 'no way' spending on AI data centers will pay off
+  url: https://www.businessinsider.com/ibm-ceo-big-tech-ai-capex-data-center-spending-2025-12
+- by: unknown
+  comments: 32
+  domain: pagedout.institute
+  hn_url: https://news.ycombinator.com/item?id=46126217
+  id: 46126217
+  score: 0
+  title: Paged Out
+  url: https://pagedout.institute
+- by: unknown
+  comments: 1
+  domain: avidthinker.github.io
+  hn_url: https://news.ycombinator.com/item?id=46130233
+  id: 46130233
+  score: 0
+  title: Understanding ECDSA
+  url: https://avidthinker.github.io/2025/11/28/understanding-ecdsa/
+- by: unknown
+  comments: 55
+  domain: snoutcover.com
+  hn_url: https://news.ycombinator.com/item?id=46094460
+  id: 46094460
+  score: 0
+  title: I designed and printed a custom nose guard to help my dog with DLE
+  url: https://snoutcover.com/billie-story
+- by: unknown
+  comments: 615
+  domain: theverge.com
+  hn_url: https://news.ycombinator.com/item?id=46121870
+  id: 46121870
+  score: 0
+  title: OpenAI declares 'code red' as Google catches up in AI race
+  url: https://www.theverge.com/news/836212/openai-code-red-chatgpt
+- by: unknown
+  comments: 3
+  domain: blog.torproject.org
+  hn_url: https://news.ycombinator.com/item?id=46050624
+  id: 46050624
+  score: 0
+  title: 'Counter Galois Onion: Improved encryption for Tor circuit traffic'
+  url: https://blog.torproject.org/introducing-cgo/
+- by: unknown
+  comments: 60
+  domain: techcrunch.com
+  hn_url: https://news.ycombinator.com/item?id=46125155
+  id: 46125155
+  score: 0
+  title: Amazon launches Trainium3
+  url: https://techcrunch.com/2025/12/02/amazon-releases-an-impressive-new-ai-chip-and-teases-a-nvidia-friendly-roadmap/
+- by: unknown
+  comments: 44
+  domain: the-decoder.com
+  hn_url: https://news.ycombinator.com/item?id=46094606
+  id: 46094606
+  score: 0
+  title: Qwen3-VL can scan two-hour videos and pinpoint nearly every detail
+  url: https://the-decoder.com/qwen3-vl-can-scan-two-hour-videos-and-pinpoint-nearly-every-detail/

@@ -1,0 +1,82 @@
+date: '2025-08-26'
+stories:
+- by: unknown
+  comments: 975
+  domain: 9to5google.com
+  hn_url: https://news.ycombinator.com/item?id=45017028
+  id: 45017028
+  score: 0
+  title: Google will allow only apps from verified developers to be installed on Android
+  url: https://9to5google.com/2025/08/25/android-apps-developer-verification/
+- by: unknown
+  comments: 0
+  domain: becca.ooo
+  hn_url: https://news.ycombinator.com/item?id=45022383
+  id: 45022383
+  score: 0
+  title: macOS dotfiles should not go in –/Library/Application Support
+  url: https://becca.ooo/blog/macos-dotfiles/
+- by: unknown
+  comments: 3
+  domain: nongnu.org
+  hn_url: https://news.ycombinator.com/item?id=45022172
+  id: 45022172
+  score: 0
+  title: Xz format inadequate for general use
+  url: https://www.nongnu.org/lzip/xz_inadequate.html
+- by: unknown
+  comments: 119
+  domain: chipsandcheese.com
+  hn_url: https://news.ycombinator.com/item?id=45016720
+  id: 45016720
+  score: 0
+  title: Google's Liquid Cooling
+  url: https://chipsandcheese.com/p/googles-liquid-cooling-at-hot-chips
+- by: unknown
+  comments: 7
+  domain: scottstuff.net
+  hn_url: https://news.ycombinator.com/item?id=45021078
+  id: 45021078
+  score: 0
+  title: The Limits of NTP Accuracy on Linux
+  url: https://scottstuff.net/posts/2025/05/19/ntp-limits/
+- by: unknown
+  comments: 10
+  domain: nlp.seas.harvard.edu
+  hn_url: https://news.ycombinator.com/item?id=45002896
+  id: 45002896
+  score: 0
+  title: The Annotated Transformer (2022)
+  url: https://nlp.seas.harvard.edu/annotated-transformer/
+- by: unknown
+  comments: 0
+  domain: nrinaudo.github.io
+  hn_url: https://news.ycombinator.com/item?id=45010484
+  id: 45010484
+  score: 0
+  title: Capture Checking in Scala
+  url: https://nrinaudo.github.io/articles/capture_checking.html
+- by: unknown
+  comments: 140
+  domain: menial.co.uk
+  hn_url: https://news.ycombinator.com/item?id=45014131
+  id: 45014131
+  score: 0
+  title: 'Show HN: Base, an SQLite database editor for macOS'
+  url: https://menial.co.uk/base/
+- by: unknown
+  comments: 129
+  domain: samwho.dev
+  hn_url: https://news.ycombinator.com/item?id=45002182
+  id: 45002182
+  score: 0
+  title: A visual introduction to big O notation
+  url: https://samwho.dev/big-o/
+- by: unknown
+  comments: 19
+  domain: github.com
+  hn_url: https://news.ycombinator.com/item?id=45020457
+  id: 45020457
+  score: 0
+  title: WiFi-3D-Fusion – Real-time 3D motion sensing with Wi-Fi
+  url: https://github.com/MaliosDark/wifi-3d-fusion

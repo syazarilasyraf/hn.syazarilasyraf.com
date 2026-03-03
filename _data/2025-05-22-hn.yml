@@ -1,0 +1,82 @@
+date: '2025-05-22'
+stories:
+- by: unknown
+  comments: 123
+  domain: simonwillison.net
+  hn_url: https://news.ycombinator.com/item?id=44057820
+  id: 44057820
+  score: 0
+  title: Gemini Diffusion
+  url: https://simonwillison.net/2025/May/21/gemini-diffusion/
+- by: unknown
+  comments: 110
+  domain: lcamtuf.substack.com
+  hn_url: https://news.ycombinator.com/item?id=44058778
+  id: 44058778
+  score: 0
+  title: Decibels Are Ridiculous
+  url: https://lcamtuf.substack.com/p/decibels-are-ridiculous
+- by: unknown
+  comments: 2
+  domain: openjdk.org
+  hn_url: https://news.ycombinator.com/item?id=44059953
+  id: 44059953
+  score: 0
+  title: 'JEP 519: Compact Object Headers'
+  url: https://openjdk.org/jeps/519
+- by: unknown
+  comments: 48
+  domain: github.com
+  hn_url: https://news.ycombinator.com/item?id=44058299
+  id: 44058299
+  score: 0
+  title: 'Kotlin-Lsp: Kotlin Language Server and Plugin for Visual Studio Code'
+  url: https://github.com/Kotlin/kotlin-lsp
+- by: unknown
+  comments: 14
+  domain: iquilezles.org
+  hn_url: https://news.ycombinator.com/item?id=44020107
+  id: 44020107
+  score: 0
+  title: 'Inigo Quilez: computer graphics, mathematics, shaders, fractals, demoscene'
+  url: https://iquilezles.org/articles/
+- by: unknown
+  comments: 40
+  domain: blog.liw.fi
+  hn_url: https://news.ycombinator.com/item?id=44059411
+  id: 44059411
+  score: 0
+  title: Why does Debian change software?
+  url: https://blog.liw.fi/posts/2025/why-debian-changes/
+- by: unknown
+  comments: 9
+  domain: marc-bowes.com
+  hn_url: https://news.ycombinator.com/item?id=44059122
+  id: 44059122
+  score: 0
+  title: Direct TLS can speed up your connections
+  url: https://marc-bowes.com/postgres-direct-tls.html
+- by: unknown
+  comments: 54
+  domain: maxwellforbes.com
+  hn_url: https://news.ycombinator.com/item?id=44057841
+  id: 44057841
+  score: 0
+  title: Getting a paper accepted
+  url: https://maxwellforbes.com/posts/how-to-get-a-paper-accepted/
+- by: unknown
+  comments: 28
+  domain: duckdb.org
+  hn_url: https://news.ycombinator.com/item?id=44027690
+  id: 44027690
+  score: 0
+  title: A lost decade chasing distributed architectures for data analytics?
+  url: https://duckdb.org/2025/05/19/the-lost-decade-of-small-data.html
+- by: unknown
+  comments: 71
+  domain: quantamagazine.org
+  hn_url: https://news.ycombinator.com/item?id=44055347
+  id: 44055347
+  score: 0
+  title: For algorithms, a little memory outweighs a lot of time
+  url: https://www.quantamagazine.org/for-algorithms-a-little-memory-outweighs-a-lot-of-time-20250521/

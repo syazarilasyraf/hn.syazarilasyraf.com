@@ -1,0 +1,82 @@
+date: '2025-09-30'
+stories:
+- by: unknown
+  comments: 612
+  domain: anthropic.com
+  hn_url: https://news.ycombinator.com/item?id=45415962
+  id: 45415962
+  score: 0
+  title: Claude Sonnet 4.5
+  url: https://www.anthropic.com/news/claude-sonnet-4-5
+- by: unknown
+  comments: 104
+  domain: workweave.dev
+  hn_url: https://news.ycombinator.com/item?id=45421564
+  id: 45421564
+  score: 0
+  title: Hiring only senior engineers is killing companies
+  url: https://workweave.dev/blog/hiring-only-senior-engineers-is-killing-companies
+- by: unknown
+  comments: 233
+  domain: npmjs.com
+  hn_url: https://news.ycombinator.com/item?id=45416228
+  id: 45416228
+  score: 0
+  title: Claude Code 2.0
+  url: https://www.npmjs.com/package/@anthropic-ai/claude-code
+- by: unknown
+  comments: 0
+  domain: sharif.io
+  hn_url: https://news.ycombinator.com/item?id=45421812
+  id: 45421812
+  score: 0
+  title: AI tools I wish existed
+  url: https://sharif.io/28-ideas-2025
+- by: unknown
+  comments: 30
+  domain: github.com
+  hn_url: https://news.ycombinator.com/item?id=45420173
+  id: 45420173
+  score: 0
+  title: How to create an OS from scratch
+  url: https://github.com/cfenollosa/os-tutorial
+- by: unknown
+  comments: 8
+  domain: ssg.dev
+  hn_url: https://news.ycombinator.com/item?id=45420001
+  id: 45420001
+  score: 0
+  title: Safe zero-copy operations in C#
+  url: https://ssg.dev/safe-zero-copy-operations-in-c/
+- by: unknown
+  comments: 41
+  domain: loadmo.re
+  hn_url: https://news.ycombinator.com/item?id=45415207
+  id: 45415207
+  score: 0
+  title: 'Loadmo.re: design inspiration for unconventional web'
+  url: https://loadmo.re
+- by: unknown
+  comments: 8
+  domain: tasvideos.org
+  hn_url: https://news.ycombinator.com/item?id=45411831
+  id: 45411831
+  score: 0
+  title: Bad Apple but it's played inside Super Mario Bros
+  url: https://tasvideos.org/8991S
+- by: unknown
+  comments: 9
+  domain: civilization.2k.com
+  hn_url: https://news.ycombinator.com/item?id=45382300
+  id: 45382300
+  score: 0
+  title: Voronoi map generation in Civilization VII
+  url: https://civilization.2k.com/civ-vii/from-the-devs/map-generation/
+- by: unknown
+  comments: 283
+  domain: openai.com
+  hn_url: https://news.ycombinator.com/item?id=45416080
+  id: 45416080
+  score: 0
+  title: Instant Checkout and the Agentic Commerce Protocol
+  url: https://openai.com/index/buy-it-in-chatgpt/

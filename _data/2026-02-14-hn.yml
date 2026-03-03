@@ -1,0 +1,82 @@
+date: '2026-02-14'
+stories:
+- by: unknown
+  comments: 23
+  domain: npmx.dev
+  hn_url: https://news.ycombinator.com/item?id=47010823
+  id: 47010823
+  score: 0
+  title: NPMX – a fast, modern browser for the NPM registry
+  url: https://npmx.dev
+- by: unknown
+  comments: 11
+  domain: github.com
+  hn_url: https://news.ycombinator.com/item?id=47008163
+  id: 47008163
+  score: 0
+  title: 'Show HN: Data Engineering Book – An open source, community-driven guide'
+  url: https://github.com/datascale-ai/data_engineering_book/blob/main/README_en.md
+- by: unknown
+  comments: 279
+  domain: openai.com
+  hn_url: https://news.ycombinator.com/item?id=47006594
+  id: 47006594
+  score: 0
+  title: GPT-5.2 derives a new result in theoretical physics
+  url: https://openai.com/index/new-result-theoretical-physics/
+- by: unknown
+  comments: 121
+  domain: hatchet.run
+  hn_url: https://news.ycombinator.com/item?id=47005509
+  id: 47005509
+  score: 0
+  title: Building a TUI is easy now
+  url: https://hatchet.run/blog/tuis-are-easy-now
+- by: unknown
+  comments: 14
+  domain: lisp-screenshots.org
+  hn_url: https://news.ycombinator.com/item?id=46983873
+  id: 46983873
+  score: 0
+  title: 'Common Lisp Screenshots: today''s CL applications in action'
+  url: http://www.lisp-screenshots.org
+- by: unknown
+  comments: 0
+  domain: github.com
+  hn_url: https://news.ycombinator.com/item?id=47011567
+  id: 47011567
+  score: 0
+  title: 'Show HN: SQL-tap – Real-time SQL traffic viewer for PostgreSQL and MySQL'
+  url: https://github.com/mickamy/sql-tap
+- by: unknown
+  comments: 16
+  domain: mccloskeybr.com
+  hn_url: https://news.ycombinator.com/item?id=46930181
+  id: 46930181
+  score: 0
+  title: Font Rendering from First Principles
+  url: https://mccloskeybr.com/articles/font_rendering.html
+- by: unknown
+  comments: 38
+  domain: gradient.horse
+  hn_url: https://news.ycombinator.com/item?id=46955311
+  id: 46955311
+  score: 0
+  title: Gradient.horse
+  url: https://gradient.horse
+- by: unknown
+  comments: 1
+  domain: interplayoflight.wordpress.com
+  hn_url: https://news.ycombinator.com/item?id=46967147
+  id: 46967147
+  score: 0
+  title: Adventures in Neural Rendering
+  url: https://interplayoflight.wordpress.com/2026/02/10/adventures-in-neural-rendering/
+- by: unknown
+  comments: 443
+  domain: politico.eu
+  hn_url: https://news.ycombinator.com/item?id=47007656
+  id: 47007656
+  score: 0
+  title: The EU moves to kill infinite scrolling
+  url: https://www.politico.eu/article/tiktok-meta-facebook-instagram-brussels-kill-infinite-scrolling/

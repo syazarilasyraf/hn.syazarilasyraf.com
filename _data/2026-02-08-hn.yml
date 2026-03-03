@@ -1,0 +1,82 @@
+date: '2026-02-08'
+stories:
+- by: unknown
+  comments: 31
+  domain: github.com
+  hn_url: https://news.ycombinator.com/item?id=46930391
+  id: 46930391
+  score: 0
+  title: 'Show HN: LocalGPT – A local-first AI assistant in Rust with persistent memory'
+  url: https://github.com/localgpt-app/localgpt
+- by: unknown
+  comments: 17
+  domain: thatjoescott.com
+  hn_url: https://news.ycombinator.com/item?id=46931026
+  id: 46931026
+  score: 0
+  title: 'Bye Bye Humanity: The Potential AMOC Collapse'
+  url: https://thatjoescott.com/2026/02/03/bye-bye-humanity-the-potential-amoc-collapse/
+- by: unknown
+  comments: 47
+  domain: xorvoid.com
+  hn_url: https://news.ycombinator.com/item?id=46925741
+  id: 46925741
+  score: 0
+  title: 'SectorC: A C Compiler in 512 bytes (2023)'
+  url: https://xorvoid.com/sectorc.html
+- by: unknown
+  comments: 9
+  domain: haskellforall.com
+  hn_url: https://news.ycombinator.com/item?id=46930565
+  id: 46930565
+  score: 0
+  title: 'Haskell for all: Beyond agentic coding'
+  url: https://haskellforall.com/2026/02/beyond-agentic-coding
+- by: unknown
+  comments: 152
+  domain: code.claude.com
+  hn_url: https://news.ycombinator.com/item?id=46926043
+  id: 46926043
+  score: 0
+  title: Speed up responses with fast mode
+  url: https://code.claude.com/docs/en/fast-mode
+- by: unknown
+  comments: 344
+  domain: factory.strongdm.ai
+  hn_url: https://news.ycombinator.com/item?id=46924426
+  id: 46924426
+  score: 0
+  title: Software factories and the agentic moment
+  url: https://factory.strongdm.ai/
+- by: unknown
+  comments: 58
+  domain: hpcwire.com
+  hn_url: https://news.ycombinator.com/item?id=46926576
+  id: 46926576
+  score: 0
+  title: Brookhaven Lab's RHIC concludes 25-year run with final collisions
+  url: https://www.hpcwire.com/off-the-wire/brookhaven-labs-rhic-concludes-25-year-run-with-final-collisions/
+- by: unknown
+  comments: 13
+  domain: kenklippenstein.com
+  hn_url: https://news.ycombinator.com/item?id=46931213
+  id: 46931213
+  score: 0
+  title: Homeland Security Spying on Reddit Users
+  url: https://www.kenklippenstein.com/p/homeland-security-spies-on-reddit
+- by: unknown
+  comments: 110
+  domain: federicopereiro.com
+  hn_url: https://news.ycombinator.com/item?id=46868928
+  id: 46868928
+  score: 0
+  title: LLMs as the new high level language
+  url: https://federicopereiro.com/llm-high/
+- by: unknown
+  comments: 34
+  domain: spritely.institute
+  hn_url: https://news.ycombinator.com/item?id=46923254
+  id: 46923254
+  score: 0
+  title: 'Hoot: Scheme on WebAssembly'
+  url: https://www.spritely.institute/hoot/

@@ -1,0 +1,82 @@
+date: '2026-02-21'
+stories:
+- by: unknown
+  comments: 480
+  domain: f-droid.org
+  hn_url: https://news.ycombinator.com/item?id=47091419
+  id: 47091419
+  score: 0
+  title: Keep Android Open
+  url: https://f-droid.org/2026/02/20/twif.html
+- by: unknown
+  comments: 91
+  domain: words.filippo.io
+  hn_url: https://news.ycombinator.com/item?id=47094192
+  id: 47094192
+  score: 0
+  title: Turn Dependabot Off
+  url: https://words.filippo.io/dependabot/
+- by: unknown
+  comments: 191
+  domain: dixken.de
+  hn_url: https://news.ycombinator.com/item?id=47092578
+  id: 47092578
+  score: 0
+  title: I found a Vulnerability. They found a Lawyer
+  url: https://dixken.de/blog/i-found-a-vulnerability-they-found-a-lawyer
+- by: unknown
+  comments: 43
+  domain: worldwideweb.cern.ch
+  hn_url: https://news.ycombinator.com/item?id=47095429
+  id: 47095429
+  score: 0
+  title: CERN rebuilt the original browser from 1989 (2019)
+  url: https://worldwideweb.cern.ch
+- by: unknown
+  comments: 509
+  domain: pilk.website
+  hn_url: https://news.ycombinator.com/item?id=47091748
+  id: 47091748
+  score: 0
+  title: Facebook is cooked
+  url: https://pilk.website/3/facebook-is-absolutely-cooked
+- by: unknown
+  comments: 175
+  domain: github.com
+  hn_url: https://news.ycombinator.com/item?id=47088037
+  id: 47088037
+  score: 0
+  title: Ggml.ai joins Hugging Face to ensure the long-term progress of Local AI
+  url: https://github.com/ggml-org/llama.cpp/discussions/19759
+- by: unknown
+  comments: 210
+  domain: arstechnica.com
+  hn_url: https://news.ycombinator.com/item?id=47092006
+  id: 47092006
+  score: 0
+  title: Wikipedia deprecates Archive.today, starts removing archive links
+  url: https://arstechnica.com/tech-policy/2026/02/wikipedia-bans-archive-today-after-site-executed-ddos-and-altered-web-captures/
+- by: unknown
+  comments: 16
+  domain: leaflet.pub
+  hn_url: https://news.ycombinator.com/item?id=47096520
+  id: 47096520
+  score: 0
+  title: What Is OAuth?
+  url: https://leaflet.pub/p/did:plc:3vdrgzr2zybocs45yfhcr6ur/3mfd2oxx5v22b
+- by: unknown
+  comments: 16
+  domain: june.kim
+  hn_url: https://news.ycombinator.com/item?id=47096466
+  id: 47096466
+  score: 0
+  title: 'Cord: Coordinating Trees of AI Agents'
+  url: https://www.june.kim/cord
+- by: unknown
+  comments: 9
+  domain: github.com
+  hn_url: https://news.ycombinator.com/item?id=47047559
+  id: 47047559
+  score: 0
+  title: 'Show HN: PIrateRF – Turn a $20 Raspberry Pi Zero into a 12-mode RF transmitter'
+  url: https://github.com/psyb0t/piraterf

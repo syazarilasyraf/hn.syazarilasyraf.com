@@ -1,0 +1,82 @@
+date: '2025-12-14'
+stories:
+- by: unknown
+  comments: 32
+  domain: fil-c.org
+  hn_url: https://news.ycombinator.com/item?id=46259064
+  id: 46259064
+  score: 0
+  title: Linux Sandboxes and Fil-C
+  url: https://fil-c.org/seccomp
+- by: unknown
+  comments: 47
+  domain: sandyuraz.com
+  hn_url: https://news.ycombinator.com/item?id=46258163
+  id: 46258163
+  score: 0
+  title: Recovering Anthony Bourdain's (really) lost Li.st's
+  url: https://sandyuraz.com/blogs/bourdain/
+- by: unknown
+  comments: 14
+  domain: jsoftware.com
+  hn_url: https://news.ycombinator.com/item?id=46259702
+  id: 46259702
+  score: 0
+  title: An Implementation of J
+  url: https://www.jsoftware.com/ioj/ioj.htm
+- by: unknown
+  comments: 4
+  domain: nullprogram.com
+  hn_url: https://news.ycombinator.com/item?id=46259334
+  id: 46259334
+  score: 0
+  title: Closures as Win32 Window Procedures
+  url: https://nullprogram.com/blog/2025/12/12/
+- by: unknown
+  comments: 19
+  domain: alavi.me
+  hn_url: https://news.ycombinator.com/item?id=46205089
+  id: 46205089
+  score: 0
+  title: Using E-Ink tablet as monitor for Linux
+  url: https://alavi.me/blog/e-ink-tablet-as-monitor-linux/
+- by: unknown
+  comments: 54
+  domain: susam.net
+  hn_url: https://news.ycombinator.com/item?id=46257607
+  id: 46257607
+  score: 0
+  title: I fed 24 years of my blog posts to a Markov model
+  url: https://susam.net/fed-24-years-of-posts-to-markov-model.html
+- by: unknown
+  comments: 138
+  domain: blog.tymscar.com
+  hn_url: https://news.ycombinator.com/item?id=46255991
+  id: 46255991
+  score: 0
+  title: I tried Gleam for Advent of Code
+  url: https://blog.tymscar.com/posts/gleamaoc2025/
+- by: unknown
+  comments: 174
+  domain: ipinfo.io
+  hn_url: https://news.ycombinator.com/item?id=46257339
+  id: 46257339
+  score: 0
+  title: VPN location claims don't match real traffic exits
+  url: https://ipinfo.io/blog/vpn-location-mismatch-report
+- by: unknown
+  comments: 8
+  domain: en.wikipedia.org
+  hn_url: https://news.ycombinator.com/item?id=46213985
+  id: 46213985
+  score: 0
+  title: Cat Gap
+  url: https://en.wikipedia.org/wiki/Cat_gap
+- by: unknown
+  comments: 0
+  domain: github.com
+  hn_url: https://news.ycombinator.com/item?id=46260128
+  id: 46260128
+  score: 0
+  title: Lean Theorem Prover Mathlib
+  url: https://github.com/leanprover-community/mathlib4

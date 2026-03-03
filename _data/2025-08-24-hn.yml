@@ -1,0 +1,82 @@
+date: '2025-08-24'
+stories:
+- by: unknown
+  comments: 5
+  domain: ghuntley.com
+  hn_url: https://news.ycombinator.com/item?id=45001051
+  id: 45001051
+  score: 0
+  title: 'Show HN: How to Build a Coding Agent (free workshop)'
+  url: https://ghuntley.com/agent/
+- by: unknown
+  comments: 0
+  domain: webkit.org
+  hn_url: https://news.ycombinator.com/item?id=44977833
+  id: 44977833
+  score: 0
+  title: Rolling the dice with CSS random()
+  url: https://webkit.org/blog/17285/rolling-the-dice-with-css-random/
+- by: unknown
+  comments: 78
+  domain: blog.oberien.de
+  hn_url: https://news.ycombinator.com/item?id=44999373
+  id: 44999373
+  score: 0
+  title: The cost of interrupted work (2023)
+  url: https://blog.oberien.de/2023/11/05/23-minutes-15-seconds.html
+- by: unknown
+  comments: 3
+  domain: github.com
+  hn_url: https://news.ycombinator.com/item?id=45000982
+  id: 45000982
+  score: 0
+  title: I built a tiny mac app to monitor and manage my development processes
+  url: https://github.com/kagehq/port-kill
+- by: unknown
+  comments: 46
+  domain: daniel.lawrence.lu
+  hn_url: https://news.ycombinator.com/item?id=44996938
+  id: 44996938
+  score: 0
+  title: Line scan camera image processing for train photography
+  url: https://daniel.lawrence.lu/blog/y2025m09d21/
+- by: unknown
+  comments: 32
+  domain: quantamagazine.org
+  hn_url: https://news.ycombinator.com/item?id=44964800
+  id: 44964800
+  score: 0
+  title: How can AI ID a cat?
+  url: https://www.quantamagazine.org/how-can-ai-id-a-cat-an-illustrated-guide-20250430/
+- by: unknown
+  comments: 2
+  domain: darkcoding.net
+  hn_url: https://news.ycombinator.com/item?id=45000270
+  id: 45000270
+  score: 0
+  title: Evaluating LLMs for my personal use case
+  url: https://darkcoding.net/software/personal-ai-evals-aug-2025/
+- by: unknown
+  comments: 188
+  domain: minusx.ai
+  hn_url: https://news.ycombinator.com/item?id=44998295
+  id: 44998295
+  score: 0
+  title: What makes Claude Code so damn good
+  url: https://minusx.ai/blog/decoding-claude-code/
+- by: unknown
+  comments: 16
+  domain: smithsonianmag.com
+  hn_url: https://news.ycombinator.com/item?id=44998514
+  id: 44998514
+  score: 0
+  title: A 2k-year-old sun hat worn by a Roman soldier in Egypt
+  url: https://www.smithsonianmag.com/smart-news/a-2000-year-old-sun-hat-worn-by-a-roman-soldier-in-egypt-goes-on-view-after-a-century-in-storage-180987192/
+- by: unknown
+  comments: 4
+  domain: arstechnica.com
+  hn_url: https://news.ycombinator.com/item?id=44961155
+  id: 44961155
+  score: 0
+  title: Physics of badminton's new killer spin serve
+  url: https://arstechnica.com/science/2025/08/physics-of-badmintons-new-killer-spin-serve/

@@ -1,0 +1,82 @@
+date: '2025-10-03'
+stories:
+- by: unknown
+  comments: 6
+  domain: github.com
+  hn_url: https://news.ycombinator.com/item?id=45458122
+  id: 45458122
+  score: 0
+  title: 'FyneDesk: A full desktop environment for Linux written in Go'
+  url: https://github.com/FyshOS/fynedesk
+- by: unknown
+  comments: 73
+  domain: forums.macrumors.com
+  hn_url: https://news.ycombinator.com/item?id=45457670
+  id: 45457670
+  score: 0
+  title: I spent the day teaching seniors how to use an iPhone
+  url: https://forums.macrumors.com/threads/i-spent-the-day-trying-to-teach-seniors-how-to-use-an-iphone-and-it-was-a-nightmare.2468117/
+- by: unknown
+  comments: 0
+  domain: entropicthoughts.com
+  hn_url: https://news.ycombinator.com/item?id=45458550
+  id: 45458550
+  score: 0
+  title: You Want Technology with Warts
+  url: https://entropicthoughts.com/you-want-technology-with-warts
+- by: unknown
+  comments: 213
+  domain: signal.org
+  hn_url: https://news.ycombinator.com/item?id=45451527
+  id: 45451527
+  score: 0
+  title: Signal Protocol and Post-Quantum Ratchets
+  url: https://signal.org/blog/spqr/
+- by: unknown
+  comments: 4
+  domain: lwn.net
+  hn_url: https://news.ycombinator.com/item?id=45458791
+  id: 45458791
+  score: 0
+  title: Blender 4.5 brings big changes
+  url: https://lwn.net/Articles/1036262/
+- by: unknown
+  comments: 79
+  domain: deadlanguagesociety.com
+  hn_url: https://news.ycombinator.com/item?id=45455882
+  id: 45455882
+  score: 0
+  title: 'The strangest letter of the alphabet: The rise and fall of yogh'
+  url: https://www.deadlanguagesociety.com/p/history-of-letter-yogh
+- by: unknown
+  comments: 1
+  domain: debuggingleadership.com
+  hn_url: https://news.ycombinator.com/item?id=45458249
+  id: 45458249
+  score: 0
+  title: 'Stdlib: A library of frameworks, templates, and guides for technical leadership'
+  url: https://debuggingleadership.com/stdlib
+- by: unknown
+  comments: 3
+  domain: eli.thegreenplace.net
+  hn_url: https://news.ycombinator.com/item?id=45411435
+  id: 45411435
+  score: 0
+  title: Constitent Hashing
+  url: https://eli.thegreenplace.net/2025/consistent-hashing/
+- by: unknown
+  comments: 16
+  domain: newsweek.com
+  hn_url: https://news.ycombinator.com/item?id=45458768
+  id: 45458768
+  score: 0
+  title: Rescuer at Fatal Tesla Cybertruck Crash Says Car Doors Wouldn't Open
+  url: https://www.newsweek.com/tesla-cybertruck-car-door-malfunction-2043976
+- by: unknown
+  comments: 53
+  domain: entropicthoughts.com
+  hn_url: https://news.ycombinator.com/item?id=45453222
+  id: 45453222
+  score: 0
+  title: Babel is why I keep blogging with Emacs
+  url: https://entropicthoughts.com/why-stick-to-emacs-blog

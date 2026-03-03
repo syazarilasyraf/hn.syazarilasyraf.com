@@ -1,0 +1,83 @@
+date: '2025-12-13'
+stories:
+- by: unknown
+  comments: 136
+  domain: simonwillison.net
+  hn_url: https://news.ycombinator.com/item?id=46250332
+  id: 46250332
+  score: 0
+  title: OpenAI are quietly adopting skills, now available in ChatGPT and Codex CLI
+  url: https://simonwillison.net/2025/Dec/12/openai-skills/
+- by: unknown
+  comments: 179
+  domain: developer.apple.com
+  hn_url: https://news.ycombinator.com/item?id=46248644
+  id: 46248644
+  score: 0
+  title: macOS 26.2 enables fast AI clusters with RDMA over Thunderbolt
+  url: https://developer.apple.com/documentation/macos-release-notes/macos-26_2-release-notes#RDMA-over-Thunderbolt
+- by: unknown
+  comments: 0
+  domain: github.com
+  hn_url: https://news.ycombinator.com/item?id=46251852
+  id: 46251852
+  score: 0
+  title: 'Show HN: Claude Code Recipes for Knowledge Workers (Open Source)'
+  url: https://github.com/sgharlow/claude-code-recipes
+- by: unknown
+  comments: 50
+  domain: unifoundry.com
+  hn_url: https://news.ycombinator.com/item?id=46248859
+  id: 46248859
+  score: 0
+  title: GNU Unifont
+  url: https://unifoundry.com/unifont/index.html
+- by: unknown
+  comments: 5
+  domain: gwern.net
+  hn_url: https://news.ycombinator.com/item?id=46175888
+  id: 46175888
+  score: 0
+  title: 'Ferrari''s Formula 1 Handovers: Handovers from Surgery to Intensive Care
+    2008;pdf'
+  url: https://gwern.net/doc/technology/2008-sower.pdf
+- by: unknown
+  comments: 1
+  domain: ghibli.jp
+  hn_url: https://news.ycombinator.com/item?id=46251582
+  id: 46251582
+  score: 0
+  title: 1300 Still Images from the Animated Films of Hayao Miyazaki's Studio Ghibli
+  url: https://www.ghibli.jp/info/013772/
+- by: unknown
+  comments: 0
+  domain: bfswa.substack.com
+  hn_url: https://news.ycombinator.com/item?id=46251952
+  id: 46251952
+  score: 0
+  title: Poor Johnny still won't encrypt
+  url: https://bfswa.substack.com/p/poor-johnny-still-wont-encrypt
+- by: unknown
+  comments: 84
+  domain: ratsplaydoom.com
+  hn_url: https://news.ycombinator.com/item?id=46248323
+  id: 46248323
+  score: 0
+  title: Rats Play DOOM
+  url: https://ratsplaydoom.com/
+- by: unknown
+  comments: 5
+  domain: github.com
+  hn_url: https://news.ycombinator.com/item?id=46249538
+  id: 46249538
+  score: 0
+  title: 'Show HN: Tiny VM sandbox in C with apps in Rust, C and Zig'
+  url: https://github.com/ringtailsoftware/uvm32
+- by: unknown
+  comments: 6
+  domain: lawrencecpaulson.github.io
+  hn_url: https://news.ycombinator.com/item?id=46250309
+  id: 46250309
+  score: 0
+  title: 50 years of proof assistants
+  url: https://lawrencecpaulson.github.io//2025/12/05/History_of_Proof_Assistants.html

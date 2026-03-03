@@ -1,0 +1,83 @@
+date: '2025-09-28'
+stories:
+- by: unknown
+  comments: 188
+  domain: messenger.abeto.co
+  hn_url: https://news.ycombinator.com/item?id=45396441
+  id: 45396441
+  score: 0
+  title: A WebGL game where you deliver messages on a tiny planet
+  url: https://messenger.abeto.co/
+- by: unknown
+  comments: 98
+  domain: nature.com
+  hn_url: https://news.ycombinator.com/item?id=45370798
+  id: 45370798
+  score: 0
+  title: Man still alive six months after pig kidney transplant
+  url: https://www.nature.com/articles/d41586-025-02851-w
+- by: unknown
+  comments: 15
+  domain: linspyre.com
+  hn_url: https://news.ycombinator.com/item?id=45401051
+  id: 45401051
+  score: 0
+  title: Do not do this unless you want magic black smoke
+  url: https://www.linspyre.com/ecoholics/temps.html
+- by: unknown
+  comments: 12
+  domain: online-go.com
+  hn_url: https://news.ycombinator.com/item?id=45400376
+  id: 45400376
+  score: 0
+  title: Learn to play Go
+  url: https://online-go.com/learn-to-play-go
+- by: unknown
+  comments: 3
+  domain: dynomight.net
+  hn_url: https://news.ycombinator.com/item?id=45374665
+  id: 45374665
+  score: 0
+  title: Shoes, Algernon, Pangea, and sea peoples
+  url: https://dynomight.net/shorts-5/
+- by: unknown
+  comments: 203
+  domain: github.com
+  hn_url: https://news.ycombinator.com/item?id=45395991
+  id: 45395991
+  score: 0
+  title: 'SSH3: Faster and rich secure shell using HTTP/3'
+  url: https://github.com/francoismichel/ssh3
+- by: unknown
+  comments: 77
+  domain: theroom.lol
+  hn_url: https://news.ycombinator.com/item?id=45398005
+  id: 45398005
+  score: 0
+  title: I made a public living room and the internet keeps putting weirder stuff
+    in it
+  url: https://www.theroom.lol
+- by: unknown
+  comments: 79
+  domain: pyrefly.org
+  hn_url: https://news.ycombinator.com/item?id=45358841
+  id: 45358841
+  score: 0
+  title: Python developers are embracing type hints
+  url: https://pyrefly.org/blog/why-typed-python/
+- by: unknown
+  comments: 34
+  domain: handy.computer
+  hn_url: https://news.ycombinator.com/item?id=45399106
+  id: 45399106
+  score: 0
+  title: Handy – Free open-source speech-to-text app written in Rust
+  url: https://handy.computer/
+- by: unknown
+  comments: 124
+  domain: koi.security
+  hn_url: https://news.ycombinator.com/item?id=45395957
+  id: 45395957
+  score: 0
+  title: A Postmark backdoor that’s downloading emails
+  url: https://www.koi.security/blog/postmark-mcp-npm-malicious-backdoor-email-theft

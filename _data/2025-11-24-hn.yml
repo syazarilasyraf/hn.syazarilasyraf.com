@@ -1,0 +1,84 @@
+date: '2025-11-24'
+stories:
+- by: unknown
+  comments: 1
+  domain: computer.rip
+  hn_url: https://news.ycombinator.com/item?id=46029932
+  id: 46029932
+  score: 0
+  title: RuBee
+  url: https://computer.rip/2025-11-22-RuBee.html
+- by: unknown
+  comments: 98
+  domain: emilysneddon.com
+  hn_url: https://news.ycombinator.com/item?id=46025942
+  id: 46025942
+  score: 0
+  title: Fran Sans – font inspired by San Francisco light rail displays
+  url: https://emilysneddon.com/fran-sans-essay
+- by: unknown
+  comments: 16
+  domain: gist.github.com
+  hn_url: https://news.ycombinator.com/item?id=46029908
+  id: 46029908
+  score: 0
+  title: The Cloudflare outage was a good thing
+  url: https://gist.github.com/jbreckmckye/32587f2907e473dd06d68b0362fb0048
+- by: unknown
+  comments: 55
+  domain: lalitm.com
+  hn_url: https://news.ycombinator.com/item?id=46029772
+  id: 46029772
+  score: 0
+  title: We stopped roadmap work for a week and fixed 189 bugs
+  url: https://lalitm.com/fixits-are-good-for-the-soul/
+- by: unknown
+  comments: 145
+  domain: gist.github.com
+  hn_url: https://news.ycombinator.com/item?id=46025721
+  id: 46025721
+  score: 0
+  title: Native Secure Enclave backed SSH keys on macOS
+  url: https://gist.github.com/arianvp/5f59f1783e3eaf1a2d4cd8e952bb4acf
+- by: unknown
+  comments: 1
+  domain: nnethercote.github.io
+  hn_url: https://news.ycombinator.com/item?id=45977386
+  id: 45977386
+  score: 0
+  title: The Rust Performance Book (2020)
+  url: https://nnethercote.github.io/perf-book/
+- by: unknown
+  comments: 27
+  domain: phys.org
+  hn_url: https://news.ycombinator.com/item?id=45985008
+  id: 45985008
+  score: 0
+  title: New magnetic component discovered in the Faraday effect after nearly 2 centuries
+  url: https://phys.org/news/2025-11-magnetic-component-faraday-effect-centuries.html
+- by: unknown
+  comments: 35
+  domain: microcad.xyz
+  hn_url: https://news.ycombinator.com/item?id=46027216
+  id: 46027216
+  score: 0
+  title: 'µcad: New open source programming language that can generate 2D sketches
+    and 3D'
+  url: https://microcad.xyz/
+- by: unknown
+  comments: 2
+  domain: mathwonder.org
+  hn_url: https://news.ycombinator.com/item?id=45973364
+  id: 45973364
+  score: 0
+  title: 'Having Fun with Complex Numbers: A Real-Life Journey for Upper Elementary
+    Studen'
+  url: https://mathwonder.org/Having-Fun-with-Complex-Numbers/
+- by: unknown
+  comments: 6
+  domain: technotes.seastrom.com
+  hn_url: https://news.ycombinator.com/item?id=46029649
+  id: 46029649
+  score: 0
+  title: Passing the Torch – My Last Root DNSSEC KSK Ceremony as Crypto Officer 4
+  url: https://technotes.seastrom.com/2025/11/23/passing-the-torch.html

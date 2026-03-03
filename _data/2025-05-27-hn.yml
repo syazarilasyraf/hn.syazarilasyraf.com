@@ -1,0 +1,82 @@
+date: '2025-05-27'
+stories:
+- by: unknown
+  comments: 55
+  domain: benjaminaster.com
+  hn_url: https://news.ycombinator.com/item?id=44100148
+  id: 44100148
+  score: 0
+  title: CSS Minecraft
+  url: https://benjaminaster.com/css-minecraft/
+- by: unknown
+  comments: 1
+  domain: github.com
+  hn_url: https://news.ycombinator.com/item?id=44086062
+  id: 44086062
+  score: 0
+  title: Clojure MCP
+  url: https://github.com/bhauman/clojure-mcp
+- by: unknown
+  comments: 116
+  domain: invariantlabs.ai
+  hn_url: https://news.ycombinator.com/item?id=44097390
+  id: 44097390
+  score: 0
+  title: 'GitHub MCP exploited: Accessing private repositories via MCP'
+  url: https://invariantlabs.ai/blog/mcp-github-vulnerability
+- by: unknown
+  comments: 86
+  domain: github.com
+  hn_url: https://news.ycombinator.com/item?id=44100179
+  id: 44100179
+  score: 0
+  title: Lossless video compression using Bloom filters
+  url: https://github.com/ross39/new_bloom_filter_repo/blob/main/README.md
+- by: unknown
+  comments: 28
+  domain: gwintrob.com
+  hn_url: https://news.ycombinator.com/item?id=44102034
+  id: 44102034
+  score: 0
+  title: 'Power Failure: The downfall of General Electric'
+  url: https://www.gwintrob.com/power-failure-review/
+- by: unknown
+  comments: 14
+  domain: readonlymemo.com
+  hn_url: https://news.ycombinator.com/item?id=44102988
+  id: 44102988
+  score: 0
+  title: FromSoft's singular mech game Chromehounds is back online
+  url: https://www.readonlymemo.com/interview-15-years-after-the-servers-shut-down-fromsofts-singular-mech-game-chromehounds-is-back-online/
+- by: unknown
+  comments: 57
+  domain: flarup.email
+  hn_url: https://news.ycombinator.com/item?id=44103131
+  id: 44103131
+  score: 0
+  title: The UI future is colourful and dimensional
+  url: https://www.flarup.email/p/the-future-is-colourful-and-dimensional
+- by: unknown
+  comments: 46
+  domain: github.com
+  hn_url: https://news.ycombinator.com/item?id=44103116
+  id: 44103116
+  score: 0
+  title: 'Yes-rs: A fast, memory-safe rewrite of the classic Unix yes command'
+  url: https://github.com/jedisct1/yes-rs
+- by: unknown
+  comments: 43
+  domain: github.com
+  hn_url: https://news.ycombinator.com/item?id=44099187
+  id: 44099187
+  score: 0
+  title: 'Show HN: PgDog – Shard Postgres without extensions'
+  url: https://github.com/pgdogdev/pgdog
+- by: unknown
+  comments: 230
+  domain: solarshades.club
+  hn_url: https://news.ycombinator.com/item?id=44100677
+  id: 44100677
+  score: 0
+  title: Trying to teach in the age of the AI homework machine
+  url: https://www.solarshades.club/p/dispatch-from-the-trenches-of-the

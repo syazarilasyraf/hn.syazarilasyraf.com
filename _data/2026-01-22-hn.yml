@@ -1,0 +1,82 @@
+date: '2026-01-22'
+stories:
+- by: unknown
+  comments: 8
+  domain: huggingface.co
+  hn_url: https://news.ycombinator.com/item?id=46713106
+  id: 46713106
+  score: 0
+  title: 'Show HN: Sweep, Open-weights 1.5B model for next-edit autocomplete'
+  url: https://huggingface.co/sweepai/sweep-next-edit-1.5B
+- by: unknown
+  comments: 46
+  domain: jamf.com
+  hn_url: https://news.ycombinator.com/item?id=46713526
+  id: 46713526
+  score: 0
+  title: Threat actors expand abuse of Microsoft Visual Studio Code
+  url: https://www.jamf.com/blog/threat-actors-expand-abuse-of-visual-studio-code/
+- by: unknown
+  comments: 3
+  domain: arxiv.org
+  hn_url: https://news.ycombinator.com/item?id=46658128
+  id: 46658128
+  score: 0
+  title: 'Binary fuse filters: Fast and smaller than xor filters (2022)'
+  url: https://arxiv.org/abs/2201.01174
+- by: unknown
+  comments: 155
+  domain: github.com
+  hn_url: https://news.ycombinator.com/item?id=46706528
+  id: 46706528
+  score: 0
+  title: 'Show HN: ChartGPU – WebGPU-powered charting library (1M points at 60fps)'
+  url: https://github.com/ChartGPU/ChartGPU
+- by: unknown
+  comments: 368
+  domain: anthropic.com
+  hn_url: https://news.ycombinator.com/item?id=46707572
+  id: 46707572
+  score: 0
+  title: Claude's new constitution
+  url: https://www.anthropic.com/news/claude-new-constitution
+- by: unknown
+  comments: 69
+  domain: terabytedeals.com
+  hn_url: https://news.ycombinator.com/item?id=46711649
+  id: 46711649
+  score: 0
+  title: 'Show HN: TerabyteDeals – Compare storage prices by $/TB'
+  url: https://terabytedeals.com
+- by: unknown
+  comments: 0
+  domain: kentik.com
+  hn_url: https://news.ycombinator.com/item?id=46713444
+  id: 46713444
+  score: 0
+  title: 'From stealth blackout to whitelisting: Inside the Iranian shutdown'
+  url: https://www.kentik.com/blog/from-stealth-blackout-to-whitelisting-inside-the-iranian-shutdown/
+- by: unknown
+  comments: 152
+  domain: skip.dev
+  hn_url: https://news.ycombinator.com/item?id=46706906
+  id: 46706906
+  score: 0
+  title: Skip is now free and open source
+  url: https://skip.dev/blog/skip-is-free/
+- by: unknown
+  comments: 82
+  domain: railsui.com
+  hn_url: https://news.ycombinator.com/item?id=46709543
+  id: 46709543
+  score: 0
+  title: 'Show HN: Rails UI'
+  url: https://railsui.com/
+- by: unknown
+  comments: 36
+  domain: borretti.me
+  hn_url: https://news.ycombinator.com/item?id=46652173
+  id: 46652173
+  score: 0
+  title: Letting Claude play text adventures
+  url: https://borretti.me/article/letting-claude-play-text-adventures

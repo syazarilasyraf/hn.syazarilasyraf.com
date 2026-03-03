@@ -1,0 +1,82 @@
+date: '2025-10-23'
+stories:
+- by: unknown
+  comments: 153
+  domain: immich.app
+  hn_url: https://news.ycombinator.com/item?id=45675015
+  id: 45675015
+  score: 0
+  title: Google flags Immich sites as dangerous
+  url: https://immich.app/blog/google-flags-immich-as-dangerous
+- by: unknown
+  comments: 16
+  domain: developers.googleblog.com
+  hn_url: https://news.ycombinator.com/item?id=45605823
+  id: 45605823
+  score: 0
+  title: Run interactive commands in Gemini CLI
+  url: https://developers.googleblog.com/en/say-hello-to-a-new-level-of-interactivity-in-gemini-cli/
+- by: unknown
+  comments: 16
+  domain: cleantechnica.com
+  hn_url: https://news.ycombinator.com/item?id=45677243
+  id: 45677243
+  score: 0
+  title: Sodium-ion batteries have started to appear in cars and home storage
+  url: https://cleantechnica.com/2025/10/22/the-sodium-ion-battery-revolution-has-started/
+- by: unknown
+  comments: 199
+  domain: blog.google
+  hn_url: https://news.ycombinator.com/item?id=45670443
+  id: 45670443
+  score: 0
+  title: Willow quantum chip demonstrates verifiable quantum advantage on hardware
+  url: https://blog.google/technology/research/quantum-echoes-willow-verifiable-quantum-advantage/
+- by: unknown
+  comments: 97
+  domain: github.com
+  hn_url: https://news.ycombinator.com/item?id=45674166
+  id: 45674166
+  score: 0
+  title: 'Ovi: Twin backbone cross-modal fusion for audio-video generation'
+  url: https://github.com/character-ai/Ovi
+- by: unknown
+  comments: 187
+  domain: evanhahn.com
+  hn_url: https://news.ycombinator.com/item?id=45670052
+  id: 45670052
+  score: 0
+  title: Scripts I wrote that I use all the time
+  url: https://evanhahn.com/scripts-i-wrote-that-i-use-all-the-time/
+- by: unknown
+  comments: 62
+  domain: ian.sh
+  hn_url: https://news.ycombinator.com/item?id=45673130
+  id: 45673130
+  score: 0
+  title: Accessing Max Verstappen's passport and PII through FIA bugs
+  url: https://ian.sh/fia
+- by: unknown
+  comments: 117
+  domain: stalw.art
+  hn_url: https://news.ycombinator.com/item?id=45672336
+  id: 45672336
+  score: 0
+  title: JMAP for Calendars, Contacts and Files Now in Stalwart
+  url: https://stalw.art/blog/jmap-collaboration/
+- by: unknown
+  comments: 40
+  domain: mcyoung.xyz
+  hn_url: https://news.ycombinator.com/item?id=45674568
+  id: 45674568
+  score: 0
+  title: Why SSA Compilers?
+  url: https://mcyoung.xyz/2025/10/21/ssa-1/
+- by: unknown
+  comments: 32
+  domain: abstractboardgames.com
+  hn_url: https://news.ycombinator.com/item?id=45609478
+  id: 45609478
+  score: 0
+  title: Play abstract strategy board games online with friends or against bots
+  url: https://abstractboardgames.com/

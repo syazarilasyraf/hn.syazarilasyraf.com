@@ -1,0 +1,83 @@
+date: '2025-11-13'
+stories:
+- by: unknown
+  comments: 160
+  domain: android-developers.googleblog.com
+  hn_url: https://news.ycombinator.com/item?id=45908938
+  id: 45908938
+  score: 0
+  title: Google will allow users to sideload Android apps without verification
+  url: https://android-developers.googleblog.com/2025/11/android-developer-verification-early.html
+- by: unknown
+  comments: 802
+  domain: store.steampowered.com
+  hn_url: https://news.ycombinator.com/item?id=45903404
+  id: 45903404
+  score: 0
+  title: Steam Machine
+  url: https://store.steampowered.com/sale/steammachine
+- by: unknown
+  comments: 438
+  domain: store.steampowered.com
+  hn_url: https://news.ycombinator.com/item?id=45903325
+  id: 45903325
+  score: 0
+  title: Steam Frame
+  url: https://store.steampowered.com/sale/steamframe
+- by: unknown
+  comments: 793
+  domain: cnn.com
+  hn_url: https://news.ycombinator.com/item?id=45901904
+  id: 45901904
+  score: 0
+  title: The last-ever penny will be minted today in Philadelphia
+  url: https://www.cnn.com/2025/11/12/business/last-penny-minted
+- by: unknown
+  comments: 0
+  domain: grapheneos.social
+  hn_url: https://news.ycombinator.com/item?id=45910381
+  id: 45910381
+  score: 0
+  title: Android 16 QPR1 is being pushed to the Android Open Source Project
+  url: https://grapheneos.social/@GrapheneOS/115533432439509433
+- by: unknown
+  comments: 16
+  domain: shadertoy.com
+  hn_url: https://news.ycombinator.com/item?id=45909059
+  id: 45909059
+  score: 0
+  title: Human Fovea Detector
+  url: https://www.shadertoy.com/view/4dsXzM
+- by: unknown
+  comments: 0
+  domain: ycombinator.com
+  hn_url: https://news.ycombinator.com/item?id=45910625
+  id: 45910625
+  score: 0
+  title: CollectWise (YC F24) Is Hiring
+  url: https://www.ycombinator.com/companies/collectwise/jobs/tv3ufcc-forward-deployed-engineer
+- by: unknown
+  comments: 7
+  domain: bitwarden.com
+  hn_url: https://news.ycombinator.com/item?id=45910305
+  id: 45910305
+  score: 0
+  title: 'Bitcoin''s big secret: How cryptocurrency became law enforcement''s secret
+    weapon'
+  url: https://bitwarden.com/blog/how-cryptocurrency-became-law-enforcements-secret-weapon/
+- by: unknown
+  comments: 14
+  domain: github.com
+  hn_url: https://news.ycombinator.com/item?id=45910257
+  id: 45910257
+  score: 0
+  title: Large integer precision error in Bash command output rendering
+  url: https://github.com/anthropics/claude-code/issues/11506
+- by: unknown
+  comments: 31
+  domain: worldlabs.ai
+  hn_url: https://news.ycombinator.com/item?id=45907541
+  id: 45907541
+  score: 0
+  title: 'Marble: A Multimodal World Model'
+  url: https://www.worldlabs.ai/blog/marble-world-model

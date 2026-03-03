@@ -1,0 +1,74 @@
+date: '2025-10-20'
+stories:
+- by: unknown
+  comments: 4
+  domain: zenodo.org
+  hn_url: https://news.ycombinator.com/item?id=45639995
+  id: 45639995
+  score: 0
+  title: Entire Linux Network stack diagram (2024)
+  url: https://zenodo.org/records/14179366
+- by: unknown
+  comments: 1
+  domain: ajxs.me
+  hn_url: https://news.ycombinator.com/item?id=45639860
+  id: 45639860
+  score: 0
+  title: Introduction to reverse-engineering vintage synth firmware
+  url: https://ajxs.me/blog/Introduction_to_Reverse-Engineering_Vintage_Synth_Firmware.html
+- by: unknown
+  comments: 146
+  domain: science.org
+  hn_url: https://news.ycombinator.com/item?id=45637744
+  id: 45637744
+  score: 0
+  title: Novo Nordisk's Canadian Mistake
+  url: https://www.science.org/content/blog-post/novo-nordisk-s-canadian-mistake
+- by: unknown
+  comments: 22
+  domain: ratfactor.com
+  hn_url: https://news.ycombinator.com/item?id=45639250
+  id: 45639250
+  score: 0
+  title: 'Forth: The programming language that writes itself'
+  url: https://ratfactor.com/forth/the_programming_language_that_writes_itself.html
+- by: unknown
+  comments: 144
+  domain: cs.stanford.edu
+  hn_url: https://news.ycombinator.com/item?id=45635533
+  id: 45635533
+  score: 0
+  title: 'Doing well in your courses: Andrej''s advice for success (2013)'
+  url: https://cs.stanford.edu/people/karpathy/advice.html
+- by: unknown
+  comments: 41
+  domain: github.com
+  hn_url: https://news.ycombinator.com/item?id=45637880
+  id: 45637880
+  score: 0
+  title: 'Duke Nukem: Zero Hour N64 ROM Reverse-Engineering Project Hits 100%'
+  url: https://github.com/Gillou68310/DukeNukemZeroHour
+- by: unknown
+  comments: 13
+  domain: github.com
+  hn_url: https://news.ycombinator.com/item?id=45638966
+  id: 45638966
+  score: 0
+  title: 'QuickDrawViewer: A Mac OS X utility to visualise QuickDraw (PICT) files'
+  url: https://github.com/wiesmann/QuickDrawViewer
+- by: unknown
+  comments: 136
+  domain: avbrief.com
+  hn_url: https://news.ycombinator.com/item?id=45636285
+  id: 45636285
+  score: 0
+  title: Airliner hit by possible space debris
+  url: https://avbrief.com/united-max-hit-by-falling-object-at-36000-feet/
+- by: unknown
+  comments: 23
+  domain: github.com
+  hn_url: https://news.ycombinator.com/item?id=45638588
+  id: 45638588
+  score: 0
+  title: Gleam OTP – Fault Tolerant Multicore Programs with Actors
+  url: https://github.com/gleam-lang/otp

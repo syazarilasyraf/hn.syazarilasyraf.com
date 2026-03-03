@@ -1,0 +1,82 @@
+date: '2026-02-20'
+stories:
+- by: unknown
+  comments: 59
+  domain: gist.github.com
+  hn_url: https://news.ycombinator.com/item?id=47082496
+  id: 47082496
+  score: 0
+  title: MuMu Player (NetEase) silently runs 17 reconnaissance commands every 30 minutes
+  url: https://gist.github.com/interpiduser5/547d8a7baec436f24b7cce89dd4ae1ea
+- by: unknown
+  comments: 149
+  domain: theshamblog.com
+  hn_url: https://news.ycombinator.com/item?id=47083145
+  id: 47083145
+  score: 0
+  title: An AI Agent Published a Hit Piece on Me – The Operator Came Forward
+  url: https://theshamblog.com/an-ai-agent-wrote-a-hit-piece-on-me-part-4/
+- by: unknown
+  comments: 744
+  domain: blog.google
+  hn_url: https://news.ycombinator.com/item?id=47074735
+  id: 47074735
+  score: 0
+  title: Gemini 3.1 Pro
+  url: https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/
+- by: unknown
+  comments: 1
+  domain: together.ai
+  hn_url: https://news.ycombinator.com/item?id=47083648
+  id: 47083648
+  score: 0
+  title: 'Consistency diffusion language models: Up to 14x faster, no quality loss'
+  url: https://www.together.ai/blog/consistency-diffusion-language-models
+- by: unknown
+  comments: 35
+  domain: sour.coffee
+  hn_url: https://news.ycombinator.com/item?id=47082548
+  id: 47082548
+  score: 0
+  title: An ARM Homelab Server, or a Minisforum MS-R1 Review
+  url: https://sour.coffee/2026/02/20/an-arm-homelab-server-or-a-minisforum-ms-r1-review/
+- by: unknown
+  comments: 157
+  domain: micasa.dev
+  hn_url: https://news.ycombinator.com/item?id=47075124
+  id: 47075124
+  score: 0
+  title: 'Show HN: Micasa – track your house from the terminal'
+  url: https://micasa.dev
+- by: unknown
+  comments: 3
+  domain: github.com
+  hn_url: https://news.ycombinator.com/item?id=47082854
+  id: 47082854
+  score: 0
+  title: 'Pi for Excel: AI sidebar add-in for Excel, powered by Pi'
+  url: https://github.com/tmustier/pi-for-excel
+- by: unknown
+  comments: 2
+  domain: cormullion.github.io
+  hn_url: https://news.ycombinator.com/item?id=47035698
+  id: 47035698
+  score: 0
+  title: 'Lindenmayer.jl: Defining recursive patterns in Julia'
+  url: https://cormullion.github.io/Lindenmayer.jl/stable/
+- by: unknown
+  comments: 314
+  domain: blog.zgp.org
+  hn_url: https://news.ycombinator.com/item?id=47078167
+  id: 47078167
+  score: 0
+  title: Micropayments as a reality check for news sites
+  url: https://blog.zgp.org/micropayments-as-a-reality-check-for-news-sites/
+- by: unknown
+  comments: 301
+  domain: reuters.com
+  hn_url: https://news.ycombinator.com/item?id=47067270
+  id: 47067270
+  score: 0
+  title: US plans online portal to bypass content bans in Europe and elsewhere
+  url: https://www.reuters.com/world/us-plans-online-portal-bypass-content-bans-europe-elsewhere-2026-02-18/

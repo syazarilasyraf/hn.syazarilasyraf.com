@@ -1,0 +1,82 @@
+date: '2026-02-05'
+stories:
+- by: unknown
+  comments: 58
+  domain: economist.com
+  hn_url: https://news.ycombinator.com/item?id=46894815
+  id: 46894815
+  score: 0
+  title: Child prodigies rarely become elite performers
+  url: https://www.economist.com/science-and-technology/2026/01/14/why-child-prodigies-rarely-become-elite-performers
+- by: unknown
+  comments: 14
+  domain: recall.ai
+  hn_url: https://news.ycombinator.com/item?id=46887893
+  id: 46887893
+  score: 0
+  title: Postgres Postmaster does not scale
+  url: https://www.recall.ai/blog/postgres-postmaster-does-not-scale
+- by: unknown
+  comments: 202
+  domain: mistral.ai
+  hn_url: https://news.ycombinator.com/item?id=46886735
+  id: 46886735
+  score: 0
+  title: Voxtral Transcribe 2
+  url: https://mistral.ai/news/voxtral-transcribe-2
+- by: unknown
+  comments: 1
+  domain: biometricupdate.com
+  hn_url: https://news.ycombinator.com/item?id=46895860
+  id: 46895860
+  score: 0
+  title: ICE seeks industry input on ad tech location data for investigative use
+  url: https://www.biometricupdate.com/202602/ice-seeks-industry-input-on-ad-tech-location-data-for-investigative-use
+- by: unknown
+  comments: 25
+  domain: sqldef.github.io
+  hn_url: https://news.ycombinator.com/item?id=46845239
+  id: 46845239
+  score: 0
+  title: 'Sqldef: Idempotent schema management tool for MySQL, PostgreSQL, SQLite'
+  url: https://sqldef.github.io/
+- by: unknown
+  comments: 22
+  domain: longevity.stanford.edu
+  hn_url: https://news.ycombinator.com/item?id=46893411
+  id: 46893411
+  score: 0
+  title: Why More Companies Are Recognizing the Benefits of Keeping Older Employees
+  url: https://longevity.stanford.edu/why-more-companies-are-recognizing-the-benefits-of-keeping-older-employees/
+- by: unknown
+  comments: 116
+  domain: boxc.net
+  hn_url: https://news.ycombinator.com/item?id=46845845
+  id: 46845845
+  score: 0
+  title: 'Claude Code: connect to a local model when your quota runs out'
+  url: https://boxc.net/blog/2026/claude-code-connecting-to-local-models-when-your-quota-runs-out/
+- by: unknown
+  comments: 217
+  domain: jakequist.com
+  hn_url: https://news.ycombinator.com/item?id=46893970
+  id: 46893970
+  score: 0
+  title: OpenClaw is what Apple intelligence should have been
+  url: https://www.jakequist.com/thoughts/openclaw-is-what-apple-intelligence-should-have-been
+- by: unknown
+  comments: 1
+  domain: taricorp.net
+  hn_url: https://news.ycombinator.com/item?id=46895388
+  id: 46895388
+  score: 0
+  title: A few CPU hardware bugs
+  url: https://www.taricorp.net/2026/a-few-cpu-bugs/
+- by: unknown
+  comments: 440
+  domain: nmn.gl
+  hn_url: https://news.ycombinator.com/item?id=46888441
+  id: 46888441
+  score: 0
+  title: AI is killing B2B SaaS
+  url: https://nmn.gl/blog/ai-killing-b2b-saas

@@ -1,0 +1,82 @@
+date: '2025-08-01'
+stories:
+- by: unknown
+  comments: 160
+  domain: michaelnotebook.com
+  hn_url: https://news.ycombinator.com/item?id=44748934
+  id: 44748934
+  score: 0
+  title: Slow
+  url: https://michaelnotebook.com/slow/index.html
+- by: unknown
+  comments: 4
+  domain: mountainofink.com
+  hn_url: https://news.ycombinator.com/item?id=44720077
+  id: 44720077
+  score: 0
+  title: Mountain of Ink
+  url: https://mountainofink.com
+- by: unknown
+  comments: 80
+  domain: krea.ai
+  hn_url: https://news.ycombinator.com/item?id=44745555
+  id: 44745555
+  score: 0
+  title: Releasing weights for FLUX.1 Krea
+  url: https://www.krea.ai/blog/flux-krea-open-source-release
+- by: unknown
+  comments: 391
+  domain: derekthompson.org
+  hn_url: https://news.ycombinator.com/item?id=44750416
+  id: 44750416
+  score: 0
+  title: The anti-abundance critique on housing is wrong
+  url: https://www.derekthompson.org/p/the-anti-abundance-critique-on-housing
+- by: unknown
+  comments: 168
+  domain: lwn.net
+  hn_url: https://news.ycombinator.com/item?id=44746948
+  id: 44746948
+  score: 0
+  title: QUIC for the kernel
+  url: https://lwn.net/Articles/1029851/
+- by: unknown
+  comments: 215
+  domain: lazyadmin.nl
+  hn_url: https://news.ycombinator.com/item?id=44746603
+  id: 44746603
+  score: 0
+  title: Ubiquiti launches UniFi OS Server for self-hosting
+  url: https://lazyadmin.nl/home-network/unifi-os-server/
+- by: unknown
+  comments: 169
+  domain: manuel.bernhardt.io
+  hn_url: https://news.ycombinator.com/item?id=44745897
+  id: 44745897
+  score: 0
+  title: MacBook Pro Insomnia
+  url: https://manuel.bernhardt.io/posts/2025-07-24-macbook-pro-insomnia
+- by: unknown
+  comments: 68
+  domain: developers.googleblog.com
+  hn_url: https://news.ycombinator.com/item?id=44747457
+  id: 44747457
+  score: 0
+  title: 'Gemini Embedding: Powering RAG and context engineering'
+  url: https://developers.googleblog.com/en/gemini-embedding-powering-rag-context-engineering/
+- by: unknown
+  comments: 26
+  domain: mayhul.com
+  hn_url: https://news.ycombinator.com/item?id=44713716
+  id: 44713716
+  score: 0
+  title: Replacing cron jobs with a centralized task scheduler
+  url: https://mayhul.com/posts/scheduled-tasks/
+- by: unknown
+  comments: 9
+  domain: artificialanalysis.ai
+  hn_url: https://news.ycombinator.com/item?id=44752546
+  id: 44752546
+  score: 0
+  title: LLM leaderboard – Comparing models from OpenAI, Google, DeepSeek and others
+  url: https://artificialanalysis.ai/leaderboards/models

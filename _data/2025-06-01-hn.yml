@@ -1,0 +1,82 @@
+date: '2025-06-01'
+stories:
+- by: unknown
+  comments: 5
+  domain: microsoft.github.io
+  hn_url: https://news.ycombinator.com/item?id=44148524
+  id: 44148524
+  score: 0
+  title: 'RenderFormer: Neural rendering of triangle meshes with global illumination'
+  url: https://microsoft.github.io/renderformer/
+- by: unknown
+  comments: 65
+  domain: overreacted.io
+  hn_url: https://news.ycombinator.com/item?id=44147945
+  id: 44147945
+  score: 0
+  title: Progressive JSON
+  url: https://overreacted.io/progressive-json/
+- by: unknown
+  comments: 0
+  domain: github.com
+  hn_url: https://news.ycombinator.com/item?id=44129567
+  id: 44129567
+  score: 0
+  title: Ovld – Efficient and featureful multiple dispatch for Python
+  url: https://github.com/breuleux/ovld
+- by: unknown
+  comments: 110
+  domain: mitxela.com
+  hn_url: https://news.ycombinator.com/item?id=44144750
+  id: 44144750
+  score: 0
+  title: Precision Clock Mk IV
+  url: https://mitxela.com/projects/precision_clock_mk_iv
+- by: unknown
+  comments: 5
+  domain: nso.edu
+  hn_url: https://news.ycombinator.com/item?id=44147573
+  id: 44147573
+  score: 0
+  title: New adaptive optics shows details of our star's atmosphere
+  url: https://nso.edu/press-release/new-adaptive-optics-shows-stunning-details-of-our-stars-atmosphere/
+- by: unknown
+  comments: 0
+  domain: progressandpoverty.substack.com
+  hn_url: https://news.ycombinator.com/item?id=44142255
+  id: 44142255
+  score: 0
+  title: Georgists Valued Land in the 1900s
+  url: https://progressandpoverty.substack.com/p/how-georgists-valued-land-in-the
+- by: unknown
+  comments: 33
+  domain: arxiv.org
+  hn_url: https://news.ycombinator.com/item?id=44146858
+  id: 44146858
+  score: 0
+  title: 'YOLO-World: Real-Time Open-Vocabulary Object Detection'
+  url: https://arxiv.org/abs/2401.17270
+- by: unknown
+  comments: 25
+  domain: blog.torproject.org
+  hn_url: https://news.ycombinator.com/item?id=44146830
+  id: 44146830
+  score: 0
+  title: 'Oniux: Kernel-level Tor isolation for any Linux app'
+  url: https://blog.torproject.org/introducing-oniux-tor-isolation-using-linux-namespaces/
+- by: unknown
+  comments: 6
+  domain: nytimes.com
+  hn_url: https://news.ycombinator.com/item?id=44146619
+  id: 44146619
+  score: 0
+  title: CCD co-inventor George E. Smith dies at 95
+  url: https://www.nytimes.com/2025/05/30/science/george-e-smith-dead.html
+- by: unknown
+  comments: 15
+  domain: github.com
+  hn_url: https://news.ycombinator.com/item?id=44148039
+  id: 44148039
+  score: 0
+  title: 'Enhancing MySQL: MySQL improvement project'
+  url: https://github.com/enhancedformysql/enhancedformysql

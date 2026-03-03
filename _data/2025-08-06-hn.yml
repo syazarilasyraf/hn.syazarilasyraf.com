@@ -1,0 +1,82 @@
+date: '2025-08-06'
+stories:
+- by: unknown
+  comments: 60
+  domain: github.com
+  hn_url: https://news.ycombinator.com/item?id=44807868
+  id: 44807868
+  score: 0
+  title: 'Show HN: Kitten TTS – 25MB CPU-Only, Open-Source TTS Model'
+  url: https://github.com/KittenML/KittenTTS
+- by: unknown
+  comments: 611
+  domain: openai.com
+  hn_url: https://news.ycombinator.com/item?id=44800746
+  id: 44800746
+  score: 0
+  title: Open models by OpenAI
+  url: https://openai.com/open-models/
+- by: unknown
+  comments: 30
+  domain: marinecorpstimes.com
+  hn_url: https://news.ycombinator.com/item?id=44807154
+  id: 44807154
+  score: 0
+  title: Marines now have an official drone-fighting handbook
+  url: https://www.marinecorpstimes.com/news/your-marine-corps/2025/08/04/the-marines-now-have-an-official-drone-fighting-handbook/
+- by: unknown
+  comments: 5
+  domain: amaranth-lang.org
+  hn_url: https://news.ycombinator.com/item?id=44807410
+  id: 44807410
+  score: 0
+  title: The Amaranth hardware description language
+  url: https://amaranth-lang.org/docs/amaranth/latest/intro.html#the-amaranth-language
+- by: unknown
+  comments: 427
+  domain: deepmind.google
+  hn_url: https://news.ycombinator.com/item?id=44798166
+  id: 44798166
+  score: 0
+  title: 'Genie 3: A new frontier for world models'
+  url: https://deepmind.google/discover/blog/genie-3-a-new-frontier-for-world-models/
+- by: unknown
+  comments: 6
+  domain: github.com
+  hn_url: https://news.ycombinator.com/item?id=44807210
+  id: 44807210
+  score: 0
+  title: I'm Archiving Picocrypt
+  url: https://github.com/Picocrypt/Picocrypt/issues/134
+- by: unknown
+  comments: 6
+  domain: permacomputing.net
+  hn_url: https://news.ycombinator.com/item?id=44807002
+  id: 44807002
+  score: 0
+  title: Software Rot
+  url: https://permacomputing.net/software_rot/
+- by: unknown
+  comments: 108
+  domain: ergaster.org
+  hn_url: https://news.ycombinator.com/item?id=44802886
+  id: 44802886
+  score: 0
+  title: Spotting base64 encoded JSON, certificates, and private keys
+  url: https://ergaster.org/til/base64-encoded-json/
+- by: unknown
+  comments: 37
+  domain: blog.google
+  hn_url: https://news.ycombinator.com/item?id=44804411
+  id: 44804411
+  score: 0
+  title: Create personal illustrated storybooks in the Gemini app
+  url: https://blog.google/products/gemini/storybooks/
+- by: unknown
+  comments: 172
+  domain: ollama.com
+  hn_url: https://news.ycombinator.com/item?id=44802414
+  id: 44802414
+  score: 0
+  title: Ollama Turbo
+  url: https://ollama.com/turbo

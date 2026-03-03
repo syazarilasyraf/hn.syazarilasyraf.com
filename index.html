@@ -1,0 +1,49 @@
+---
+layout: none
+title: Live | Hacker News
+---
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Live | Hacker News</title>
+  <link rel="stylesheet" href="{{ site.baseurl }}/css/main.css">
+</head>
+<body>
+  <header class="site-header">
+    <h1 class="site-title">Live &middot; Hacker News</h1>
+    <nav class="site-nav">
+      <a href="/digest/">&larr; daily digest</a>
+    </nav>
+  </header>
+
+  <div class="subscribe-box">
+    <h3>Daily digest email</h3>
+    <p>Get a daily email with the top stories from Hacker News. No spam, unsubscribe at any time.</p>
+    <form class="subscribe-form" id="subscribe-form">
+      <label class="sr-only" for="email">Email address</label>
+      <input type="email" name="email" id="email" class="subscribe-input" placeholder="Email address" required />
+      <button type="submit" class="subscribe-btn" id="subscribe-btn">Subscribe</button>
+    </form>
+  </div>
+
+  <main id="content">
+    <div class="status">
+      <div class="spinner"></div>
+      <p>Loading top stories...</p>
+    </div>
+  </main>
+
+  <footer class="site-footer">
+    <p>Live data from Hacker News API</p>
+  </footer>
+
+  <script src="{{ site.baseurl }}/assets/js/hn.js"></script>
+  <script>
+    loadLiveStories();
+    initSubscribeForm();
+  </script>
+</body>
+</html>

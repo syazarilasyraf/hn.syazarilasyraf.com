@@ -1,0 +1,82 @@
+date: '2025-09-26'
+stories:
+- by: unknown
+  comments: 15
+  domain: joewintergreen.com
+  hn_url: https://news.ycombinator.com/item?id=45382397
+  id: 45382397
+  score: 0
+  title: My Deus Ex lipsyncing fix mod
+  url: https://www.joewintergreen.com/my-deus-ex-lipsyncing-fix-mod-making-of/
+- by: unknown
+  comments: 215
+  domain: developers.googleblog.com
+  hn_url: https://news.ycombinator.com/item?id=45375845
+  id: 45375845
+  score: 0
+  title: Improved Gemini 2.5 Flash and Flash-Lite
+  url: https://developers.googleblog.com/en/continuing-to-bring-you-our-latest-models-with-an-improved-gemini-2-5-flash-and-flash-lite-release/
+- by: unknown
+  comments: 72
+  domain: dizzy.zone
+  hn_url: https://news.ycombinator.com/item?id=45380699
+  id: 45380699
+  score: 0
+  title: Redis is fast – I'll cache in Postgres
+  url: https://dizzy.zone/2025/09/24/Redis-is-fast-Ill-cache-in-Postgres/
+- by: unknown
+  comments: 12
+  domain: spectrum.ieee.org
+  hn_url: https://news.ycombinator.com/item?id=45381590
+  id: 45381590
+  score: 0
+  title: Exploit allows for takeover of fleets of Unitree robots
+  url: https://spectrum.ieee.org/unitree-robot-exploit
+- by: unknown
+  comments: 71
+  domain: doc.redox-os.org
+  hn_url: https://news.ycombinator.com/item?id=45379325
+  id: 45379325
+  score: 0
+  title: RedoxFS is the default filesystem of Redox OS, inspired by ZFS
+  url: https://doc.redox-os.org/book/redoxfs.html
+- by: unknown
+  comments: 412
+  domain: openai.com
+  hn_url: https://news.ycombinator.com/item?id=45375477
+  id: 45375477
+  score: 0
+  title: ChatGPT Pulse
+  url: https://openai.com/index/introducing-chatgpt-pulse/
+- by: unknown
+  comments: 0
+  domain: evanstonroundtable.com
+  hn_url: https://news.ycombinator.com/item?id=45382434
+  id: 45382434
+  score: 0
+  title: Flock Reinstalls Cameras Without City Approval After Unlawful Govt Access
+  url: https://evanstonroundtable.com/2025/09/24/flock-safety-reinstalls-evanston-cameras/
+- by: unknown
+  comments: 119
+  domain: ollama.com
+  hn_url: https://news.ycombinator.com/item?id=45377641
+  id: 45377641
+  score: 0
+  title: Ollama Web Search
+  url: https://ollama.com/blog/web-search
+- by: unknown
+  comments: 159
+  domain: dfarq.homeip.net
+  hn_url: https://news.ycombinator.com/item?id=45376605
+  id: 45376605
+  score: 0
+  title: 'Athlon 64: How AMD turned the tables on Intel'
+  url: https://dfarq.homeip.net/athlon-64-how-amd-turned-the-tables-on-intel/
+- by: unknown
+  comments: 394
+  domain: blog.cloudflare.com
+  hn_url: https://news.ycombinator.com/item?id=45373081
+  id: 45373081
+  score: 0
+  title: 'Cloudflare Email Service: private beta'
+  url: https://blog.cloudflare.com/email-service/

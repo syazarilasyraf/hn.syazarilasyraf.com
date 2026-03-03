@@ -1,0 +1,82 @@
+date: '2025-06-30'
+stories:
+- by: unknown
+  comments: 5
+  domain: github.com
+  hn_url: https://news.ycombinator.com/item?id=44418840
+  id: 44418840
+  score: 0
+  title: 'NativeJIT: A C++ expression –> x64 JIT'
+  url: https://github.com/BitFunnel/NativeJIT
+- by: unknown
+  comments: 9
+  domain: imperialviolet.org
+  hn_url: https://news.ycombinator.com/item?id=44418520
+  id: 44418520
+  score: 0
+  title: Continuous Glucose Monitoring
+  url: https://www.imperialviolet.org/2025/06/29/cgm.html
+- by: unknown
+  comments: 117
+  domain: wbenny.github.io
+  hn_url: https://news.ycombinator.com/item?id=44413185
+  id: 44413185
+  score: 0
+  title: I made my VM think it has a CPU fan
+  url: https://wbenny.github.io/2025/06/29/i-made-my-vm-think-it-has-a-cpu-fan.html
+- by: unknown
+  comments: 12
+  domain: thebookofshaders.com
+  hn_url: https://news.ycombinator.com/item?id=44389622
+  id: 44389622
+  score: 0
+  title: The Book of Shaders
+  url: https://thebookofshaders.com/
+- by: unknown
+  comments: 28
+  domain: spectrum.ieee.org
+  hn_url: https://news.ycombinator.com/item?id=44416761
+  id: 44416761
+  score: 0
+  title: Cell Towers Can Double as Cheap Radar Systems for Ports and Harbors (2014)
+  url: https://spectrum.ieee.org/cell-tower-signals-can-improve-port-security
+- by: unknown
+  comments: 1
+  domain: gridfinity.xyz
+  hn_url: https://news.ycombinator.com/item?id=44419091
+  id: 44419091
+  score: 0
+  title: 'Gridfinity: The modular, open-source grid storage system'
+  url: https://gridfinity.xyz/
+- by: unknown
+  comments: 6
+  domain: cnn.com
+  hn_url: https://news.ycombinator.com/item?id=44391590
+  id: 44391590
+  score: 0
+  title: Amber insect fossils reveal "zombie" fungi likely lived alongside dinosaurs
+  url: https://www.cnn.com/2025/06/24/science/amber-insect-zombie-fungi-fossil
+- by: unknown
+  comments: 47
+  domain: probablydance.com
+  hn_url: https://news.ycombinator.com/item?id=44386236
+  id: 44386236
+  score: 0
+  title: Revisiting Knuth's "Premature Optimization" Paper
+  url: https://probablydance.com/2025/06/19/revisiting-knuths-premature-optimization-paper/
+- by: unknown
+  comments: 81
+  domain: ksagar.bearblog.dev
+  hn_url: https://news.ycombinator.com/item?id=44414171
+  id: 44414171
+  score: 0
+  title: We accidentally solved robotics by watching 1M hours of YouTube
+  url: https://ksagar.bearblog.dev/vjepa/
+- by: unknown
+  comments: 73
+  domain: blog.lauramichet.com
+  hn_url: https://news.ycombinator.com/item?id=44393307
+  id: 44393307
+  score: 0
+  title: Touching the back wall of the Apple store
+  url: https://blog.lauramichet.com/touching-the-back-wall-of-the-apple-store/

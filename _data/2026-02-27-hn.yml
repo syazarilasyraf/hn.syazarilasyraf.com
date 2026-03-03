@@ -1,0 +1,74 @@
+date: '2026-02-27'
+stories:
+- by: unknown
+  comments: 724
+  domain: anthropic.com
+  hn_url: https://news.ycombinator.com/item?id=47173121
+  id: 47173121
+  score: 0
+  title: Statement from Dario Amodei on our discussions with the Department of War
+  url: https://www.anthropic.com/news/statement-department-of-war
+- by: unknown
+  comments: 30
+  domain: moultano.wordpress.com
+  hn_url: https://news.ycombinator.com/item?id=47176257
+  id: 47176257
+  score: 0
+  title: The Hunt for Dark Breakfast – Can we derive breakfasts we have never observed?
+  url: https://moultano.wordpress.com/2026/02/22/the-hunt-for-dark-breakfast/
+- by: unknown
+  comments: 61
+  domain: nytimes.com
+  hn_url: https://news.ycombinator.com/item?id=47175931
+  id: 47175931
+  score: 0
+  title: Google Workers Seek 'Red Lines' on Military A.I., Echoing Anthropic
+  url: https://www.nytimes.com/2026/02/26/technology/google-deepmind-letter-pentagon.html
+- by: unknown
+  comments: 130
+  domain: amplifying.ai
+  hn_url: https://news.ycombinator.com/item?id=47169757
+  id: 47169757
+  score: 0
+  title: What Claude Code Chooses
+  url: https://amplifying.ai/research/claude-code-picks
+- by: unknown
+  comments: 622
+  domain: twitter.com
+  hn_url: https://news.ycombinator.com/item?id=47172119
+  id: 47172119
+  score: 0
+  title: Layoffs at Block
+  url: https://twitter.com/jack/status/2027129697092731343
+- by: unknown
+  comments: 347
+  domain: read.technically.dev
+  hn_url: https://news.ycombinator.com/item?id=47167931
+  id: 47167931
+  score: 0
+  title: Will vibe coding end like the maker movement?
+  url: https://read.technically.dev/p/vibe-coding-and-the-maker-movement
+- by: unknown
+  comments: 16
+  domain: github.com
+  hn_url: https://news.ycombinator.com/item?id=47161889
+  id: 47161889
+  score: 0
+  title: Move tests to closed source repo
+  url: https://github.com/tldraw/tldraw/issues/8082
+- by: unknown
+  comments: 2
+  domain: github.com
+  hn_url: https://news.ycombinator.com/item?id=47176239
+  id: 47176239
+  score: 0
+  title: Parakeet.cpp – Parakeet ASR inference in pure C++ with Metal GPU acceleration
+  url: https://github.com/Frikallo/parakeet.cpp
+- by: unknown
+  comments: 113
+  domain: stackoverflow.com
+  hn_url: https://news.ycombinator.com/item?id=47171233
+  id: 47171233
+  score: 0
+  title: What does " 2>&1 " mean?
+  url: https://stackoverflow.com/questions/818255/what-does-21-mean

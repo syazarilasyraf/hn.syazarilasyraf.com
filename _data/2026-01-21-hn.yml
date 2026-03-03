@@ -1,0 +1,83 @@
+date: '2026-01-21'
+stories:
+- by: unknown
+  comments: 25
+  domain: lcamtuf.coredump.cx
+  hn_url: https://news.ycombinator.com/item?id=46700809
+  id: 46700809
+  score: 0
+  title: Disaster planning for regular folks (2015)
+  url: https://lcamtuf.coredump.cx/prep/index-old.shtml
+- by: unknown
+  comments: 4
+  domain: github.com
+  hn_url: https://news.ycombinator.com/item?id=46700594
+  id: 46700594
+  score: 0
+  title: Anthropic's original take home assignment open sourced
+  url: https://github.com/anthropics/original_performance_takehome
+- by: unknown
+  comments: 86
+  domain: longnow.org
+  hn_url: https://news.ycombinator.com/item?id=46695628
+  id: 46695628
+  score: 0
+  title: A 26,000-year astronomical monument hidden in plain sight (2019)
+  url: https://longnow.org/ideas/the-26000-year-astronomical-monument-hidden-in-plain-sight/
+- by: unknown
+  comments: 47
+  domain: futhark-lang.org
+  hn_url: https://news.ycombinator.com/item?id=46675630
+  id: 46675630
+  score: 0
+  title: Are arrays functions?
+  url: https://futhark-lang.org/blog/2026-01-16-are-arrays-functions.html
+- by: unknown
+  comments: 162
+  domain: latimes.com
+  hn_url: https://news.ycombinator.com/item?id=46698660
+  id: 46698660
+  score: 0
+  title: California is free of drought for the first time in 25 years
+  url: https://www.latimes.com/california/story/2026-01-09/california-has-no-areas-of-dryness-first-time-in-25-years
+- by: unknown
+  comments: 109
+  domain: novalauncher.com
+  hn_url: https://news.ycombinator.com/item?id=46696357
+  id: 46696357
+  score: 0
+  title: Instabridge has acquired Nova Launcher
+  url: https://novalauncher.com/nova-is-here-to-stay
+- by: unknown
+  comments: 42
+  domain: github.com
+  hn_url: https://news.ycombinator.com/item?id=46693959
+  id: 46693959
+  score: 0
+  title: 'Show HN: Mastra 1.0, open-source JavaScript agent framework from the Gatsby
+    devs'
+  url: https://github.com/mastra-ai/mastra
+- by: unknown
+  comments: 64
+  domain: punkx.org
+  hn_url: https://news.ycombinator.com/item?id=46694124
+  id: 46694124
+  score: 0
+  title: The Unix Pipe Card Game
+  url: https://punkx.org/unix-pipe-game/
+- by: unknown
+  comments: 4
+  domain: arxiv.org
+  hn_url: https://news.ycombinator.com/item?id=46698469
+  id: 46698469
+  score: 0
+  title: Provably unmasking malicious behavior through execution traces
+  url: https://arxiv.org/abs/2512.13821
+- by: unknown
+  comments: 40
+  domain: so-long-sucker.vercel.app
+  hn_url: https://news.ycombinator.com/item?id=46698370
+  id: 46698370
+  score: 0
+  title: Which AI Lies Best? A game theory classic designed by John Nash
+  url: https://so-long-sucker.vercel.app/

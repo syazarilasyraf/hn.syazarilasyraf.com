@@ -1,0 +1,82 @@
+date: '2025-10-30'
+stories:
+- by: unknown
+  comments: 746
+  domain: emily.space
+  hn_url: https://news.ycombinator.com/item?id=45751400
+  id: 45751400
+  score: 0
+  title: Uv is the best thing to happen to the Python ecosystem in a decade
+  url: https://emily.space/posts/251023-uv
+- by: unknown
+  comments: 6
+  domain: example.fi
+  hn_url: https://news.ycombinator.com/item?id=45755788
+  id: 45755788
+  score: 0
+  title: IRCd service (2024)
+  url: https://example.fi/blog/ircd.html
+- by: unknown
+  comments: 220
+  domain: minecraft.net
+  hn_url: https://news.ycombinator.com/item?id=45748879
+  id: 45748879
+  score: 0
+  title: Minecraft removing obfuscation in Java Edition
+  url: https://www.minecraft.net/en-us/article/removing-obfuscation-in-java-edition
+- by: unknown
+  comments: 321
+  domain: e360.yale.edu
+  hn_url: https://news.ycombinator.com/item?id=45732800
+  id: 45732800
+  score: 0
+  title: China has added forest the size of Texas since 1990
+  url: https://e360.yale.edu/digest/china-new-forest-report
+- by: unknown
+  comments: 5
+  domain: worldhistory.substack.com
+  hn_url: https://news.ycombinator.com/item?id=45711577
+  id: 45711577
+  score: 0
+  title: How Ancient People Saw Themselves
+  url: https://worldhistory.substack.com/p/how-ancient-people-saw-themselves
+- by: unknown
+  comments: 25
+  domain: elektormagazine.com
+  hn_url: https://news.ycombinator.com/item?id=45754439
+  id: 45754439
+  score: 0
+  title: Raspberry Pi Pico Bit-Bangs 100 Mbit/S Ethernet
+  url: https://www.elektormagazine.com/news/rp2350-bit-bangs-100-mbit-ethernet
+- by: unknown
+  comments: 4
+  domain: gist.github.com
+  hn_url: https://news.ycombinator.com/item?id=45755821
+  id: 45755821
+  score: 0
+  title: Hello-World iOS App in Assembly
+  url: https://gist.github.com/nicolas17/966a03ce49f949dd17b0123415ef2e31
+- by: unknown
+  comments: 58
+  domain: visualrambling.space
+  hn_url: https://news.ycombinator.com/item?id=45750954
+  id: 45750954
+  score: 0
+  title: Dithering – Part 1
+  url: https://visualrambling.space/dithering-part-1/
+- by: unknown
+  comments: 20
+  domain: os2museum.com
+  hn_url: https://news.ycombinator.com/item?id=45754660
+  id: 45754660
+  score: 0
+  title: OS/2 Warp, PowerPC Edition (2011)
+  url: https://www.os2museum.com/wp/os2-history/os2-warp-powerpc-edition/
+- by: unknown
+  comments: 254
+  domain: topicpartition.io
+  hn_url: https://news.ycombinator.com/item?id=45747018
+  id: 45747018
+  score: 0
+  title: Kafka is Fast – I'll use Postgres
+  url: https://topicpartition.io/blog/postgres-pubsub-queue-benchmarks

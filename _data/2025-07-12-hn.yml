@@ -1,0 +1,75 @@
+date: '2025-07-12'
+stories:
+- by: unknown
+  comments: 326
+  domain: theverge.com
+  hn_url: https://news.ycombinator.com/item?id=44536988
+  id: 44536988
+  score: 0
+  title: OpenAI’s Windsurf deal is off, and Windsurf’s CEO is going to Google
+  url: https://www.theverge.com/openai/705999/google-windsurf-ceo-openai
+- by: unknown
+  comments: 45
+  domain: ethz.ch
+  hn_url: https://news.ycombinator.com/item?id=44535637
+  id: 44535637
+  score: 0
+  title: ETH Zurich and EPFL to release a LLM developed on public infrastructure
+  url: https://ethz.ch/en/news-and-events/eth-news/news/2025/07/a-language-model-built-for-the-public-good.html
+- by: unknown
+  comments: 28
+  domain: ty-penguin.org.uk
+  hn_url: https://news.ycombinator.com/item?id=44537631
+  id: 44537631
+  score: 0
+  title: Faking a JPEG
+  url: https://www.ty-penguin.org.uk/~auj/blog/2025/03/25/fake-jpeg/
+- by: unknown
+  comments: 288
+  domain: bbc.co.uk
+  hn_url: https://news.ycombinator.com/item?id=44536459
+  id: 44536459
+  score: 0
+  title: Preliminary report into Air India crash released
+  url: https://www.bbc.co.uk/news/live/cx20p2x9093t
+- by: unknown
+  comments: 72
+  domain: jank-lang.org
+  hn_url: https://news.ycombinator.com/item?id=44534787
+  id: 44534787
+  score: 0
+  title: jank is C++
+  url: https://jank-lang.org/blog/2025-07-11-jank-is-cpp/
+- by: unknown
+  comments: 1
+  domain: lucassifoni.info
+  hn_url: https://news.ycombinator.com/item?id=44497808
+  id: 44497808
+  score: 0
+  title: Leveraging Elixir's hot code loading capabilities to modularize a monolithic
+    app
+  url: https://lucassifoni.info/blog/leveraging-hot-code-loading-for-fun-and-profit/
+- by: unknown
+  comments: 16
+  domain: github.com
+  hn_url: https://news.ycombinator.com/item?id=44501287
+  id: 44501287
+  score: 0
+  title: Dict Unpacking in Python
+  url: https://github.com/asottile/dict-unpacking-at-home
+- by: unknown
+  comments: 2
+  domain: medium.com
+  hn_url: https://news.ycombinator.com/item?id=44497981
+  id: 44497981
+  score: 0
+  title: Reverse Proxy Deep Dive
+  url: https://medium.com/@mitendra_mahto/cross-posted-from-https-startwithawhy-com-reverseproxy-2024-01-15-reverseproxy-deep-dive-html-c3443dc3e0e5
+- by: unknown
+  comments: 0
+  domain: learn.microsoft.com
+  hn_url: https://news.ycombinator.com/item?id=44505121
+  id: 44505121
+  score: 0
+  title: Fundamentals of Garbage Collection
+  url: https://learn.microsoft.com/en-us/dotnet/standard/garbage-collection/fundamentals

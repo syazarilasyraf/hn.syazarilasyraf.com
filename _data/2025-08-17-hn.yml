@@ -1,0 +1,75 @@
+date: '2025-08-17'
+stories:
+- by: unknown
+  comments: 161
+  domain: code.ffmpeg.org
+  hn_url: https://news.ycombinator.com/item?id=44886997
+  id: 44886997
+  score: 0
+  title: FFmpeg moves to Forgejo
+  url: https://code.ffmpeg.org/FFmpeg/FFmpeg
+- by: unknown
+  comments: 43
+  domain: treeform.github.io
+  hn_url: https://news.ycombinator.com/item?id=44927244
+  id: 44927244
+  score: 0
+  title: Dev Compass – Programming Philosophy Quiz
+  url: https://treeform.github.io/devcompas/
+- by: unknown
+  comments: 28
+  domain: guidsmash.com
+  hn_url: https://news.ycombinator.com/item?id=44927271
+  id: 44927271
+  score: 0
+  title: Visualising how close random GUIDs come to being the same
+  url: https://www.guidsmash.com
+- by: unknown
+  comments: 7
+  domain: jeclark.net
+  hn_url: https://news.ycombinator.com/item?id=44889673
+  id: 44889673
+  score: 0
+  title: An Argument for Increasing TCP's Initial Congestion Window Again
+  url: https://jeclark.net/articles/tcp-initcwnd/?tag=performance
+- by: unknown
+  comments: 8
+  domain: dyna.org
+  hn_url: https://news.ycombinator.com/item?id=44926414
+  id: 44926414
+  score: 0
+  title: Dyna – Logic Programming for Machine Learning
+  url: https://dyna.org/
+- by: unknown
+  comments: 24
+  domain: raft.github.io
+  hn_url: https://news.ycombinator.com/item?id=44886202
+  id: 44886202
+  score: 0
+  title: The Raft Consensus Algorithm (2015)
+  url: https://raft.github.io/
+- by: unknown
+  comments: 194
+  domain: progress.openai.com
+  hn_url: https://news.ycombinator.com/item?id=44924461
+  id: 44924461
+  score: 0
+  title: OpenAI Progress
+  url: https://progress.openai.com
+- by: unknown
+  comments: 31
+  domain: neowin.net
+  hn_url: https://news.ycombinator.com/item?id=44928497
+  id: 44928497
+  score: 0
+  title: Hyundai wants loniq 5 customers to pay for cybersecurity patch in baffling
+    move
+  url: https://www.neowin.net/news/hyundai-wants-ioniq-5-customers-to-pay-for-cybersecurity-patch-in-baffling-move/
+- by: unknown
+  comments: 81
+  domain: pudding.cool
+  hn_url: https://news.ycombinator.com/item?id=44923465
+  id: 44923465
+  score: 0
+  title: Dicing an Onion, the Mathematically Optimal Way
+  url: https://pudding.cool/2025/08/onions/

@@ -1,0 +1,75 @@
+date: '2025-10-02'
+stories:
+- by: unknown
+  comments: 41
+  domain: smithsonianmag.com
+  hn_url: https://news.ycombinator.com/item?id=45444694
+  id: 45444694
+  score: 0
+  title: Cormac McCarthy's personal library
+  url: https://www.smithsonianmag.com/arts-culture/two-years-cormac-mccarthys-death-rare-access-to-personal-library-reveals-man-behind-myth-180987150/
+- by: unknown
+  comments: 2
+  domain: inkandswitch.com
+  hn_url: https://news.ycombinator.com/item?id=45445114
+  id: 45445114
+  score: 0
+  title: Keyhive – Local-first access control
+  url: https://www.inkandswitch.com/keyhive/notebook/
+- by: unknown
+  comments: 20
+  domain: github.com
+  hn_url: https://news.ycombinator.com/item?id=45443462
+  id: 45443462
+  score: 0
+  title: Edge264 – Minimalist, high-performance software decoder for H.264/AVC video
+  url: https://github.com/tvlabs/edge264
+- by: unknown
+  comments: 71
+  domain: theregister.com
+  hn_url: https://news.ycombinator.com/item?id=45443304
+  id: 45443304
+  score: 0
+  title: Microsoft allows use of personal Microsoft 365 subscriptions at work
+  url: https://www.theregister.com/2025/10/01/microsoft_consumer_copilot_corporate/
+- by: unknown
+  comments: 604
+  domain: autism-simulator.vercel.app
+  hn_url: https://news.ycombinator.com/item?id=45438346
+  id: 45438346
+  score: 0
+  title: 'Show HN: Autism Simulator'
+  url: https://autism-simulator.vercel.app/
+- by: unknown
+  comments: 212
+  domain: si.inc
+  hn_url: https://news.ycombinator.com/item?id=45438496
+  id: 45438496
+  score: 0
+  title: 'Building the heap: racking 30 petabytes of hard drives for pretraining'
+  url: https://si.inc/posts/the-heap/
+- by: unknown
+  comments: 142
+  domain: alephic.com
+  hn_url: https://news.ycombinator.com/item?id=45437893
+  id: 45437893
+  score: 0
+  title: Unix philosophy and filesystem access makes Claude Code amazing
+  url: https://www.alephic.com/writing/the-magic-of-claude-code
+- by: unknown
+  comments: 69
+  domain: opentslm.com
+  hn_url: https://news.ycombinator.com/item?id=45440431
+  id: 45440431
+  score: 0
+  title: 'OpenTSLM: Language models that understand time series'
+  url: https://www.opentslm.com/
+- by: unknown
+  comments: 105
+  domain: support.google.com
+  hn_url: https://news.ycombinator.com/item?id=45439670
+  id: 45439670
+  score: 0
+  title: Gmail will no longer support checking emails from third-party accounts via
+    POP
+  url: https://support.google.com/mail/answer/16604719?hl=en

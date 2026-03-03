@@ -1,0 +1,82 @@
+date: '2025-08-27'
+stories:
+- by: unknown
+  comments: 294
+  domain: anthropic.com
+  hn_url: https://news.ycombinator.com/item?id=45030760
+  id: 45030760
+  score: 0
+  title: Claude for Chrome
+  url: https://www.anthropic.com/news/claude-for-chrome
+- by: unknown
+  comments: 5
+  domain: gizmodo.com
+  hn_url: https://news.ycombinator.com/item?id=44995865
+  id: 44995865
+  score: 0
+  title: Light pollution prolongs avian activity
+  url: https://gizmodo.com/birds-across-the-world-are-singing-all-day-for-a-disturbing-reason-2000646257
+- by: unknown
+  comments: 400
+  domain: developers.googleblog.com
+  hn_url: https://news.ycombinator.com/item?id=45026719
+  id: 45026719
+  score: 0
+  title: Gemini 2.5 Flash Image
+  url: https://developers.googleblog.com/en/introducing-gemini-2-5-flash-image/
+- by: unknown
+  comments: 45
+  domain: rosenzweig.io
+  hn_url: https://news.ycombinator.com/item?id=45034537
+  id: 45034537
+  score: 0
+  title: Dissecting the Apple M1 GPU, the end
+  url: https://rosenzweig.io/blog/asahi-gpu-part-n.html
+- by: unknown
+  comments: 28
+  domain: artanis.dev
+  hn_url: https://news.ycombinator.com/item?id=45031673
+  id: 45031673
+  score: 0
+  title: GNU Artanis – A fast web application framework for Scheme
+  url: https://artanis.dev/index.html
+- by: unknown
+  comments: 65
+  domain: livescience.com
+  hn_url: https://news.ycombinator.com/item?id=45006229
+  id: 45006229
+  score: 0
+  title: Chinese astronauts make rocket fuel and oxygen in space
+  url: https://www.livescience.com/space/space-exploration/chinese-astronauts-make-rocket-fuel-and-oxygen-in-space-using-1st-of-its-kind-artificial-photosynthesis
+- by: unknown
+  comments: 12
+  domain: github.com
+  hn_url: https://news.ycombinator.com/item?id=45034957
+  id: 45034957
+  score: 0
+  title: 'Show HN: Regolith – Regex library that prevents ReDoS CVEs in TypeScript'
+  url: https://github.com/JakeRoggenbuck/regolith
+- by: unknown
+  comments: 1
+  domain: arxiv.org
+  hn_url: https://news.ycombinator.com/item?id=45000142
+  id: 45000142
+  score: 0
+  title: Integer continued fractions for complex numbers
+  url: https://arxiv.org/abs/2508.15078
+- by: unknown
+  comments: 63
+  domain: andre.arko.net
+  hn_url: https://news.ycombinator.com/item?id=45023730
+  id: 45023730
+  score: 0
+  title: Rv, a new kind of Ruby management tool
+  url: https://andre.arko.net/2025/08/25/rv-a-new-kind-of-ruby-management-tool/
+- by: unknown
+  comments: 116
+  domain: cuimc.columbia.edu
+  hn_url: https://news.ycombinator.com/item?id=45026792
+  id: 45026792
+  score: 0
+  title: One universal antiviral to rule them all?
+  url: https://www.cuimc.columbia.edu/news/one-universal-antiviral-rule-them-all

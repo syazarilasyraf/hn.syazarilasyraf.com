@@ -1,0 +1,83 @@
+date: '2025-08-29'
+stories:
+- by: unknown
+  comments: 123
+  domain: developer.apple.com
+  hn_url: https://news.ycombinator.com/item?id=45058688
+  id: 45058688
+  score: 0
+  title: Claude Sonnet will ship in Xcode
+  url: https://developer.apple.com/documentation/xcode-release-notes/xcode-26-release-notes
+- by: unknown
+  comments: 5
+  domain: sites.google.com
+  hn_url: https://news.ycombinator.com/item?id=45060161
+  id: 45060161
+  score: 0
+  title: Strange CW Keys
+  url: https://sites.google.com/site/oh6dccw/strangecwkeys
+- by: unknown
+  comments: 14
+  domain: lowendbox.com
+  hn_url: https://news.ycombinator.com/item?id=45059470
+  id: 45059470
+  score: 0
+  title: 'A deep dive into Debian 13 /tmp: What''s new, and what to do if you don''t
+    like it'
+  url: https://lowendbox.com/blog/a-deep-dive-into-debian-13s-tmp-whats-new-and-what-to-do-if-you-dont-like-it/
+- by: unknown
+  comments: 202
+  domain: martinfowler.com
+  hn_url: https://news.ycombinator.com/item?id=45055641
+  id: 45055641
+  score: 0
+  title: Some thoughts on LLMs and software development
+  url: https://martinfowler.com/articles/202508-ai-thoughts.html
+- by: unknown
+  comments: 68
+  domain: fuckupmysite.com
+  hn_url: https://news.ycombinator.com/item?id=45057020
+  id: 45057020
+  score: 0
+  title: Fuck up my site – Turn any website into beautiful chaos
+  url: https://www.fuckupmysite.com/?url=https%3A%2F%2Fnews.ycombinator.com&torchCursor=true&comicSans=true&fakeCursors=true&peskyFly=true
+- by: unknown
+  comments: 108
+  domain: mitchellh.com
+  hn_url: https://news.ycombinator.com/item?id=45056177
+  id: 45056177
+  score: 0
+  title: My startup banking story (2023)
+  url: https://mitchellh.com/writing/my-startup-banking-story
+- by: unknown
+  comments: 83
+  domain: mcdreeamiemusings.com
+  hn_url: https://news.ycombinator.com/item?id=45057404
+  id: 45057404
+  score: 0
+  title: The Space Shuttle Columbia disaster and the over-reliance on PowerPoint (2019)
+  url: https://mcdreeamiemusings.com/blog/2019/4/13/gsux1h6bnt8lqjd7w2t2mtvfg81uhx
+- by: unknown
+  comments: 0
+  domain: lwn.net
+  hn_url: https://news.ycombinator.com/item?id=45059160
+  id: 45059160
+  score: 0
+  title: 'Lucky 13: a look at Debian trixie'
+  url: https://lwn.net/Articles/1033474/
+- by: unknown
+  comments: 64
+  domain: nshipster.com
+  hn_url: https://news.ycombinator.com/item?id=45054703
+  id: 45054703
+  score: 0
+  title: Uncertain<T>
+  url: https://nshipster.com/uncertainty/
+- by: unknown
+  comments: 374
+  domain: cnbc.com
+  hn_url: https://news.ycombinator.com/item?id=45052423
+  id: 45052423
+  score: 0
+  title: 'AI adoption linked to 13% decline in jobs for young U.S. workers: study'
+  url: https://www.cnbc.com/2025/08/28/generative-ai-reshapes-us-job-market-stanford-study-shows-entry-level-young-workers.html

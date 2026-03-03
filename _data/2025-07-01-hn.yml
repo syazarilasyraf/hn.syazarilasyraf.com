@@ -1,0 +1,82 @@
+date: '2025-07-01'
+stories:
+- by: unknown
+  comments: 311
+  domain: xfinity.com
+  hn_url: https://news.ycombinator.com/item?id=44426726
+  id: 44426726
+  score: 0
+  title: Xfinity using WiFi signals in your house to detect motion
+  url: https://www.xfinity.com/support/articles/wifi-motion
+- by: unknown
+  comments: 2
+  domain: ledgeroflife.blog
+  hn_url: https://news.ycombinator.com/item?id=44430263
+  id: 44430263
+  score: 0
+  title: 'Virtue Garnishes: The 3-Second Mental Hack That Short-Circuits Bad Habits'
+  url: https://ledgeroflife.blog/virtue-garnishes-the-3-second-mental-hack-that-short-circuits-bad-habits/
+- by: unknown
+  comments: 283
+  domain: proton.me
+  hn_url: https://news.ycombinator.com/item?id=44426128
+  id: 44426128
+  score: 0
+  title: Proton joins suit against Apple for practices that harm developers and consumers
+  url: https://proton.me/blog/apple-lawsuit
+- by: unknown
+  comments: 92
+  domain: danielchasehooper.com
+  hn_url: https://news.ycombinator.com/item?id=44425461
+  id: 44425461
+  score: 0
+  title: I write type-safe generic data structures in C
+  url: https://danielchasehooper.com/posts/typechecked-generic-c-data-structures/
+- by: unknown
+  comments: 264
+  domain: philschmid.de
+  hn_url: https://news.ycombinator.com/item?id=44427757
+  id: 44427757
+  score: 0
+  title: The new skill in AI is not prompting, it's context engineering
+  url: https://www.philschmid.de/context-engineering
+- by: unknown
+  comments: 175
+  domain: blog.jxmo.io
+  hn_url: https://news.ycombinator.com/item?id=44423983
+  id: 44423983
+  score: 0
+  title: There are no new ideas in AI only new datasets
+  url: https://blog.jxmo.io/p/there-are-no-new-ideas-in-ai-only
+- by: unknown
+  comments: 40
+  domain: tucson-josh.com
+  hn_url: https://news.ycombinator.com/item?id=44429695
+  id: 44429695
+  score: 0
+  title: Rust CLIs with Clap
+  url: https://tucson-josh.com/posts/rust-clap-cli/
+- by: unknown
+  comments: 24
+  domain: addons.mozilla.org
+  hn_url: https://news.ycombinator.com/item?id=44416009
+  id: 44416009
+  score: 0
+  title: YouTube No Translation
+  url: https://addons.mozilla.org/en-GB/firefox/addon/youtube-no-translation/
+- by: unknown
+  comments: 22
+  domain: linaro.org
+  hn_url: https://news.ycombinator.com/item?id=44426428
+  id: 44426428
+  score: 0
+  title: The hidden JTAG in a Qualcomm/Snapdragon device’s USB port
+  url: https://www.linaro.org/blog/hidden-jtag-qualcomm-snapdragon-usb/
+- by: unknown
+  comments: 43
+  domain: docs.anthropic.com
+  hn_url: https://news.ycombinator.com/item?id=44429225
+  id: 44429225
+  score: 0
+  title: Claude Code now supports Hooks
+  url: https://docs.anthropic.com/en/docs/claude-code/hooks

@@ -1,0 +1,82 @@
+date: '2026-02-03'
+stories:
+- by: unknown
+  comments: 5
+  domain: krzysztofjankowski.com
+  hn_url: https://news.ycombinator.com/item?id=46866544
+  id: 46866544
+  score: 0
+  title: Floppinux – An Embedded Linux on a Single Floppy, 2025 Edition
+  url: https://krzysztofjankowski.com/floppinux/floppinux-2025.html
+- by: unknown
+  comments: 35
+  domain: alignment.anthropic.com
+  hn_url: https://news.ycombinator.com/item?id=46864498
+  id: 46864498
+  score: 0
+  title: How does misalignment scale with model intelligence and task complexity?
+  url: https://alignment.anthropic.com/2026/hot-mess-of-ai/
+- by: unknown
+  comments: 399
+  domain: openai.com
+  hn_url: https://news.ycombinator.com/item?id=46859054
+  id: 46859054
+  score: 0
+  title: The Codex App
+  url: https://openai.com/index/introducing-the-codex-app/
+- by: unknown
+  comments: 76
+  domain: forums.ankiweb.net
+  hn_url: https://news.ycombinator.com/item?id=46861313
+  id: 46861313
+  score: 0
+  title: Anki ownership transferred to AnkiHub
+  url: https://forums.ankiweb.net/t/ankis-growing-up/68610
+- by: unknown
+  comments: 54
+  domain: githubstatus.com
+  hn_url: https://news.ycombinator.com/item?id=46861842
+  id: 46861842
+  score: 0
+  title: GitHub experience various partial-outages/degradations
+  url: https://www.githubstatus.com?todayis=2026-02-02
+- by: unknown
+  comments: 3
+  domain: thenewstack.io
+  hn_url: https://news.ycombinator.com/item?id=46847660
+  id: 46847660
+  score: 0
+  title: 50 years ago, a young Bill Gates took on the 'software pirates'
+  url: https://thenewstack.io/50-years-ago-a-young-bill-gates-took-on-the-software-pirates/
+- by: unknown
+  comments: 33
+  domain: serjaimelannister.github.io
+  hn_url: https://news.ycombinator.com/item?id=46829029
+  id: 46829029
+  score: 0
+  title: See how many words you have written in Hacker News comments
+  url: https://serjaimelannister.github.io/hn-words/
+- by: unknown
+  comments: 190
+  domain: millert.dev
+  hn_url: https://news.ycombinator.com/item?id=46858577
+  id: 46858577
+  score: 0
+  title: Todd C. Miller – Sudo maintainer for over 30 years
+  url: https://www.millert.dev/
+- by: unknown
+  comments: 14
+  domain: tamikothiel.com
+  hn_url: https://news.ycombinator.com/item?id=46822177
+  id: 46822177
+  score: 0
+  title: The Connection Machine CM-1 "Feynman" T-shirt
+  url: https://tamikothiel.com/cm/cm-tshirt.html
+- by: unknown
+  comments: 1276
+  domain: spacex.com
+  hn_url: https://news.ycombinator.com/item?id=46862170
+  id: 46862170
+  score: 0
+  title: xAI joins SpaceX
+  url: https://www.spacex.com/updates#xai-joins-spacex

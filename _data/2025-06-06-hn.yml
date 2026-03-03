@@ -1,0 +1,82 @@
+date: '2025-06-06'
+stories:
+- by: unknown
+  comments: 17
+  domain: scalingintelligence.stanford.edu
+  hn_url: https://news.ycombinator.com/item?id=44195961
+  id: 44195961
+  score: 0
+  title: 'Tokasaurus: An LLM inference engine for high-throughput workloads'
+  url: https://scalingintelligence.stanford.edu/blogs/tokasaurus/
+- by: unknown
+  comments: 148
+  domain: crookedtimber.org
+  hn_url: https://news.ycombinator.com/item?id=44191620
+  id: 44191620
+  score: 0
+  title: The impossible predicament of the death newts
+  url: https://crookedtimber.org/2025/06/05/occasional-paper-the-impossible-predicament-of-the-death-newts/
+- by: unknown
+  comments: 33
+  domain: github.com
+  hn_url: https://news.ycombinator.com/item?id=44196417
+  id: 44196417
+  score: 0
+  title: 'Show HN: Claude Composer'
+  url: https://github.com/possibilities/claude-composer
+- by: unknown
+  comments: 110
+  domain: openai.com
+  hn_url: https://news.ycombinator.com/item?id=44196850
+  id: 44196850
+  score: 0
+  title: How we’re responding to The NYT’s data demands in order to protect user privacy
+  url: https://openai.com/index/response-to-nyt-data-demands/
+- by: unknown
+  comments: 12
+  domain: tesseral.com
+  hn_url: https://news.ycombinator.com/item?id=44196393
+  id: 44196393
+  score: 0
+  title: What a developer needs to know about SCIM
+  url: https://tesseral.com/blog/what-a-developer-needs-to-know-about-scim
+- by: unknown
+  comments: 9
+  domain: github.com
+  hn_url: https://news.ycombinator.com/item?id=44196945
+  id: 44196945
+  score: 0
+  title: Test Postgres in Python Like SQLite
+  url: https://github.com/wey-gu/py-pglite
+- by: unknown
+  comments: 31
+  domain: masonyarbrough.com
+  hn_url: https://news.ycombinator.com/item?id=44196433
+  id: 44196433
+  score: 0
+  title: 'Show HN: Ask-human-mcp – zero-config human-in-loop hatch to stop hallucinations'
+  url: https://masonyarbrough.com/blog/ask-human
+- by: unknown
+  comments: 30
+  domain: scharenbroch.dev
+  hn_url: https://news.ycombinator.com/item?id=44195931
+  id: 44195931
+  score: 0
+  title: APL Interpreter – An implementation of APL, written in Haskell (2024)
+  url: https://scharenbroch.dev/projects/apl-interpreter/
+- by: unknown
+  comments: 2
+  domain: countercraft.substack.com
+  hn_url: https://news.ycombinator.com/item?id=44195354
+  id: 44195354
+  score: 0
+  title: Defending adverbs exuberantly if conditionally
+  url: https://countercraft.substack.com/p/defending-adverbs-exuberantly-if
+- by: unknown
+  comments: 5
+  domain: opensourcedistilling.com
+  hn_url: https://news.ycombinator.com/item?id=44197112
+  id: 44197112
+  score: 0
+  title: Open Source Distilling
+  url: https://opensourcedistilling.com/

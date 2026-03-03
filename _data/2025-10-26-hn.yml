@@ -1,0 +1,82 @@
+date: '2025-10-26'
+stories:
+- by: unknown
+  comments: 11
+  domain: github.com
+  hn_url: https://news.ycombinator.com/item?id=45708524
+  id: 45708524
+  score: 0
+  title: Pico-Banana-400k
+  url: https://github.com/apple/pico-banana-400k
+- by: unknown
+  comments: 144
+  domain: nrc.gov
+  hn_url: https://news.ycombinator.com/item?id=45708292
+  id: 45708292
+  score: 0
+  title: A worker fell into a nuclear reactor pool
+  url: https://www.nrc.gov/reading-rm/doc-collections/event-status/event/2025/20251022en?brid=vscAjql9kZL1FfGE7TYHVw#en57996:~:text=TRANSPORT%20OF%20CONTAMINATED%20PERSON%20OFFSITE
+- by: unknown
+  comments: 39
+  domain: 0xkato.xyz
+  hn_url: https://news.ycombinator.com/item?id=45707658
+  id: 45707658
+  score: 0
+  title: 'The Linux Boot Process: From Power Button to Kernel'
+  url: https://www.0xkato.xyz/linux-boot/
+- by: unknown
+  comments: 166
+  domain: latimes.com
+  hn_url: https://news.ycombinator.com/item?id=45706527
+  id: 45706527
+  score: 0
+  title: California invests in battery energy storage, leaving rolling blackouts behind
+  url: https://www.latimes.com/environment/story/2025-10-17/california-made-it-through-another-summer-without-a-flex-alert
+- by: unknown
+  comments: 12
+  domain: github.com
+  hn_url: https://news.ycombinator.com/item?id=45708686
+  id: 45708686
+  score: 0
+  title: PCB Edge USB C Connector Library
+  url: https://github.com/AnasMalas/pcb-edge-usb-c
+- by: unknown
+  comments: 64
+  domain: amit.prasad.me
+  hn_url: https://news.ycombinator.com/item?id=45706380
+  id: 45706380
+  score: 0
+  title: The Journey Before main()
+  url: https://amit.prasad.me/blog/before-main
+- by: unknown
+  comments: 44
+  domain: about.nike.com
+  hn_url: https://news.ycombinator.com/item?id=45706765
+  id: 45706765
+  score: 0
+  title: 'Project Amplify: Powered footwear for running and walking'
+  url: https://about.nike.com/en/newsroom/releases/nike-project-amplify-official-images
+- by: unknown
+  comments: 0
+  domain: huggingface.co
+  hn_url: https://news.ycombinator.com/item?id=45703196
+  id: 45703196
+  score: 0
+  title: 'Show HN: Chonky – a neural text semantic chunking goes multilingual'
+  url: https://huggingface.co/mirth/chonky_mmbert_small_multilingual_1
+- by: unknown
+  comments: 35
+  domain: github.com
+  hn_url: https://news.ycombinator.com/item?id=45706792
+  id: 45706792
+  score: 0
+  title: 'Show HN: Diagram as code tool with draggable customizations'
+  url: https://github.com/RohanAdwankar/oxdraw
+- by: unknown
+  comments: 14
+  domain: d2lang.com
+  hn_url: https://news.ycombinator.com/item?id=45707539
+  id: 45707539
+  score: 0
+  title: 'D2: Diagram Scripting Language'
+  url: https://d2lang.com/tour/intro/

@@ -1,0 +1,82 @@
+date: '2025-12-20'
+stories:
+- by: unknown
+  comments: 108
+  domain: webkit.org
+  hn_url: https://news.ycombinator.com/item?id=46331586
+  id: 46331586
+  score: 0
+  title: CSS Grid Lanes
+  url: https://webkit.org/blog/17660/introducing-css-grid-lanes/
+- by: unknown
+  comments: 81
+  domain: mistral.ai
+  hn_url: https://news.ycombinator.com/item?id=46313390
+  id: 46313390
+  score: 0
+  title: Mistral OCR 3
+  url: https://mistral.ai/news/mistral-ocr-3
+- by: unknown
+  comments: 103
+  domain: garagehq.deuxfleurs.fr
+  hn_url: https://news.ycombinator.com/item?id=46326984
+  id: 46326984
+  score: 0
+  title: Garage – An S3 object store so reliable you can run it outside datacenters
+  url: https://garagehq.deuxfleurs.fr/
+- by: unknown
+  comments: 21
+  domain: carolinacloud.io
+  hn_url: https://news.ycombinator.com/item?id=46267283
+  id: 46267283
+  score: 0
+  title: Carolina Cloud – One third the cost of AWS for data science workloads
+  url: https://carolinacloud.io/
+- by: unknown
+  comments: 0
+  domain: ewpratten.com
+  hn_url: https://news.ycombinator.com/item?id=46271115
+  id: 46271115
+  score: 0
+  title: Fuzix on a Raspberry Pi Pico
+  url: https://ewpratten.com/blog/fuzix-pi-pico
+- by: unknown
+  comments: 36
+  domain: bamsoftware.com
+  hn_url: https://news.ycombinator.com/item?id=46331216
+  id: 46331216
+  score: 0
+  title: A better zip bomb (2019)
+  url: https://www.bamsoftware.com/hacks/zipbomb/
+- by: unknown
+  comments: 68
+  domain: evilsocket.net
+  hn_url: https://news.ycombinator.com/item?id=46329038
+  id: 46329038
+  score: 0
+  title: 'TP-Link Tapo C200: Hardcoded Keys, Buffer Overflows and Privacy'
+  url: https://www.evilsocket.net/2025/12/18/TP-Link-Tapo-C200-Hardcoded-Keys-Buffer-Overflows-and-Privacy-in-the-Era-of-AI-Assisted-Reverse-Engineering/
+- by: unknown
+  comments: 0
+  domain: gh-actions-lockfile.net
+  hn_url: https://news.ycombinator.com/item?id=46289955
+  id: 46289955
+  score: 0
+  title: 'Gh-actions-lockfile: generate and verify lockfiles for GitHub Actions'
+  url: https://gh-actions-lockfile.net
+- by: unknown
+  comments: 34
+  domain: linusakesson.net
+  hn_url: https://news.ycombinator.com/item?id=46324702
+  id: 46324702
+  score: 0
+  title: 8-bit Boléro
+  url: https://linusakesson.net/music/bolero/index.php
+- by: unknown
+  comments: 216
+  domain: cursor.com
+  hn_url: https://news.ycombinator.com/item?id=46327206
+  id: 46327206
+  score: 0
+  title: Graphite is joining Cursor
+  url: https://cursor.com/blog/graphite

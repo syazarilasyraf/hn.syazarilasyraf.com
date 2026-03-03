@@ -1,0 +1,82 @@
+date: '2025-10-15'
+stories:
+- by: unknown
+  comments: 201
+  domain: fsf.org
+  hn_url: https://news.ycombinator.com/item?id=45586339
+  id: 45586339
+  score: 0
+  title: FSF announces Librephone project
+  url: https://www.fsf.org/news/librephone-project
+- by: unknown
+  comments: 218
+  domain: boydkane.com
+  hn_url: https://news.ycombinator.com/item?id=45583180
+  id: 45583180
+  score: 0
+  title: Beliefs that are true for regular software but false when applied to AI
+  url: https://boydkane.com/essays/boss
+- by: unknown
+  comments: 0
+  domain: alexedwards.net
+  hn_url: https://news.ycombinator.com/item?id=45581288
+  id: 45581288
+  score: 0
+  title: A modern approach to preventing CSRF in Go
+  url: https://www.alexedwards.net/blog/preventing-csrf-in-go
+- by: unknown
+  comments: 10
+  domain: simonwillison.net
+  hn_url: https://news.ycombinator.com/item?id=45586776
+  id: 45586776
+  score: 0
+  title: 'Nvidia DGX Spark: great hardware, early days for the ecosystem'
+  url: https://simonwillison.net/2025/Oct/14/nvidia-dgx-spark/
+- by: unknown
+  comments: 0
+  domain: chipsandcheese.com
+  hn_url: https://news.ycombinator.com/item?id=45529534
+  id: 45529534
+  score: 0
+  title: Interviewing Intel's Chief Architect of x86 Cores
+  url: https://chipsandcheese.com/p/interviewing-intels-chief-architect
+- by: unknown
+  comments: 118
+  domain: excamera.substack.com
+  hn_url: https://news.ycombinator.com/item?id=45582462
+  id: 45582462
+  score: 0
+  title: How bad can a $2.97 ADC be?
+  url: https://excamera.substack.com/p/how-bad-can-a-297-adc-be
+- by: unknown
+  comments: 21
+  domain: writings.agg.im
+  hn_url: https://news.ycombinator.com/item?id=45515915
+  id: 45515915
+  score: 0
+  title: Hacking the Humane AI Pin
+  url: https://writings.agg.im/posts/hacking_ai_pin/
+- by: unknown
+  comments: 5
+  domain: stefan-marr.de
+  hn_url: https://news.ycombinator.com/item?id=45587289
+  id: 45587289
+  score: 0
+  title: Can we know whether a profiler is accurate?
+  url: https://stefan-marr.de/2025/10/can-we-know-whether-a-profiler-is-accurate/
+- by: unknown
+  comments: 1
+  domain: retrogamecoders.com
+  hn_url: https://news.ycombinator.com/item?id=45544500
+  id: 45544500
+  score: 0
+  title: Printing Petscii Faster
+  url: https://retrogamecoders.com/printing-petscii-faster/
+- by: unknown
+  comments: 73
+  domain: accent-explorer.boldvoice.com
+  hn_url: https://news.ycombinator.com/item?id=45581735
+  id: 45581735
+  score: 0
+  title: 'How AI hears accents: An audible visualization of accent clusters'
+  url: https://accent-explorer.boldvoice.com/

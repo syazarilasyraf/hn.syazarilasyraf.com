@@ -1,0 +1,83 @@
+date: '2026-01-27'
+stories:
+- by: unknown
+  comments: 67
+  domain: bbc.com
+  hn_url: https://news.ycombinator.com/item?id=46736815
+  id: 46736815
+  score: 0
+  title: Heathrow scraps liquid container limit
+  url: https://www.bbc.com/news/articles/c1evvx89559o
+- by: unknown
+  comments: 60
+  domain: practical.engineering
+  hn_url: https://news.ycombinator.com/item?id=46694193
+  id: 46694193
+  score: 0
+  title: The hidden engineering of runways
+  url: https://practical.engineering/blog/2026/1/20/the-hidden-engineering-of-runways
+- by: unknown
+  comments: 203
+  domain: simonwillison.net
+  hn_url: https://news.ycombinator.com/item?id=46770221
+  id: 46770221
+  score: 0
+  title: ChatGPT Containers can now run bash, pip/npm install packages and download
+    files
+  url: https://simonwillison.net/2026/Jan/26/chatgpt-containers/
+- by: unknown
+  comments: 439
+  domain: apple.com
+  hn_url: https://news.ycombinator.com/item?id=46765819
+  id: 46765819
+  score: 0
+  title: Apple introduces new AirTag with longer range and improved findability
+  url: https://www.apple.com/newsroom/2026/01/apple-introduces-new-airtag-with-expanded-range-and-improved-findability/
+- by: unknown
+  comments: 147
+  domain: greptile.com
+  hn_url: https://news.ycombinator.com/item?id=46766961
+  id: 46766961
+  score: 0
+  title: There is an AI code review bubble
+  url: https://www.greptile.com/blog/ai-code-review-bubble
+- by: unknown
+  comments: 184
+  domain: wsj.com
+  hn_url: https://news.ycombinator.com/item?id=46771599
+  id: 46771599
+  score: 0
+  title: People who know the formula for WD-40
+  url: https://www.wsj.com/business/the-secret-society-of-people-who-know-the-formula-for-wd-40-e9c0ff54
+- by: unknown
+  comments: 19
+  domain: visualrambling.space
+  hn_url: https://news.ycombinator.com/item?id=46770274
+  id: 46770274
+  score: 0
+  title: 'Dithering – Part 2: The Ordered Dithering'
+  url: https://visualrambling.space/dithering-part-2/
+- by: unknown
+  comments: 119
+  domain: nproject.io
+  hn_url: https://news.ycombinator.com/item?id=46768909
+  id: 46768909
+  score: 0
+  title: JuiceSSH – Give me my pro features back
+  url: https://nproject.io/blog/juicessh-give-me-back-my-pro-features/
+- by: unknown
+  comments: 154
+  domain: windowscentral.com
+  hn_url: https://news.ycombinator.com/item?id=46766526
+  id: 46766526
+  score: 0
+  title: Windows 11's Patch Tuesday nightmare gets worse
+  url: https://www.windowscentral.com/microsoft/windows-11/windows-11s-botched-patch-tuesday-update-nightmare-continues-as-microsoft-confirms-some-pcs-might-fail-to-boot
+- by: unknown
+  comments: 78
+  domain: zackliscio.com
+  hn_url: https://news.ycombinator.com/item?id=46767440
+  id: 46767440
+  score: 0
+  title: RIP Low-Code 2014-2025
+  url: https://www.zackliscio.com/posts/rip-low-code-2014-2025/

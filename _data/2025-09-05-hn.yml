@@ -1,0 +1,74 @@
+date: '2025-09-05'
+stories:
+- by: unknown
+  comments: 45
+  domain: fil-c.org
+  hn_url: https://news.ycombinator.com/item?id=45133938
+  id: 45133938
+  score: 0
+  title: Fil's Unbelievable Garbage Collector
+  url: https://fil-c.org/fugc
+- by: unknown
+  comments: 87
+  domain: quantamagazine.org
+  hn_url: https://news.ycombinator.com/item?id=45132810
+  id: 45132810
+  score: 0
+  title: What Is the Fourier Transform?
+  url: https://www.quantamagazine.org/what-is-the-fourier-transform-20250903/
+- by: unknown
+  comments: 5
+  domain: github.com
+  hn_url: https://news.ycombinator.com/item?id=45090553
+  id: 45090553
+  score: 0
+  title: 'Rasterizer: A GPU-accelerated 2D vector graphics engine in ~4k LOC'
+  url: https://github.com/mindbrix/Rasterizer
+- by: unknown
+  comments: 713
+  domain: tempo.xyz
+  hn_url: https://news.ycombinator.com/item?id=45129085
+  id: 45129085
+  score: 0
+  title: 'Stripe Launches L1 Blockchain: Tempo'
+  url: https://tempo.xyz
+- by: unknown
+  comments: 9
+  domain: bbycroft.net
+  hn_url: https://news.ycombinator.com/item?id=45130260
+  id: 45130260
+  score: 0
+  title: LLM Visualization
+  url: https://bbycroft.net/llm
+- by: unknown
+  comments: 50
+  domain: bitflux.ai
+  hn_url: https://news.ycombinator.com/item?id=45132710
+  id: 45132710
+  score: 0
+  title: io_uring is faster than mmap
+  url: https://www.bitflux.ai/blog/memory-is-slow-part2/
+- by: unknown
+  comments: 6
+  domain: helpthisbook.com
+  hn_url: https://news.ycombinator.com/item?id=45092621
+  id: 45092621
+  score: 0
+  title: 'Show HN: First Half of "Swimming in Tech Debt" (book about tech debt)'
+  url: https://helpthisbook.com/lou-franco/swimming-in-tech-debt
+- by: unknown
+  comments: 39
+  domain: pauladamsmith.com
+  hn_url: https://news.ycombinator.com/item?id=45131538
+  id: 45131538
+  score: 0
+  title: Classic 8×8-pixel B&W Mac patterns
+  url: https://www.pauladamsmith.com/blog/2025/09/classic-mac-patterns.html
+- by: unknown
+  comments: 173
+  domain: news.ucsc.edu
+  hn_url: https://news.ycombinator.com/item?id=45127983
+  id: 45127983
+  score: 0
+  title: WiFi signals can measure heart rate
+  url: https://news.ucsc.edu/2025/09/pulse-fi-wifi-heart-rate/

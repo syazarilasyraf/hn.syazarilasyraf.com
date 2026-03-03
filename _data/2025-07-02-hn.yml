@@ -1,0 +1,83 @@
+date: '2025-07-02'
+stories:
+- by: unknown
+  comments: 408
+  domain: calvin.sh
+  hn_url: https://news.ycombinator.com/item?id=44435484
+  id: 44435484
+  score: 0
+  title: The Fed says this is a cube of $1M. They're off by half a million
+  url: https://calvin.sh/blog/fed-lie/
+- by: unknown
+  comments: 108
+  domain: figma.com
+  hn_url: https://news.ycombinator.com/item?id=44437316
+  id: 44437316
+  score: 0
+  title: Figma files for proposed IPO
+  url: https://www.figma.com/blog/s1-public/
+- by: unknown
+  comments: 88
+  domain: blog.truestar.pro
+  hn_url: https://news.ycombinator.com/item?id=44437712
+  id: 44437712
+  score: 0
+  title: Fakespot shuts down today after 9 years of detecting fake product reviews
+  url: https://blog.truestar.pro/fakespot-shuts-down/
+- by: unknown
+  comments: 7
+  domain: sapiens.org
+  hn_url: https://news.ycombinator.com/item?id=44404243
+  id: 44404243
+  score: 0
+  title: Why Do Swallows Fly to the Korean DMZ?
+  url: https://www.sapiens.org/culture/korean-dmz-estuary-politics-war-borders-diaspora/
+- by: unknown
+  comments: 44
+  domain: jamesbvaughan.com
+  hn_url: https://news.ycombinator.com/item?id=44435716
+  id: 44435716
+  score: 0
+  title: Code⇄GUI bidirectional editing via LSP
+  url: https://jamesbvaughan.com/bidirectional-editing/
+- by: unknown
+  comments: 42
+  domain: arxiv.org
+  hn_url: https://news.ycombinator.com/item?id=44439242
+  id: 44439242
+  score: 0
+  title: 'Hilbert''s sixth problem: derivation of fluid equations via Boltzmann''s
+    theory'
+  url: https://arxiv.org/abs/2503.01800
+- by: unknown
+  comments: 69
+  domain: arxiv.org
+  hn_url: https://news.ycombinator.com/item?id=44434062
+  id: 44434062
+  score: 0
+  title: Feasibility study of a mission to Sedna - Nuclear propulsion and solar sailing
+  url: https://arxiv.org/abs/2506.17732
+- by: unknown
+  comments: 228
+  domain: wired.com
+  hn_url: https://news.ycombinator.com/item?id=44436579
+  id: 44436579
+  score: 0
+  title: 'Sam Altman Slams Meta''s AI Talent Poaching: ''Missionaries Will Beat Mercenaries'''
+  url: https://www.wired.com/story/sam-altman-meta-ai-talent-poaching-spree-leaked-messages/
+- by: unknown
+  comments: 5
+  domain: bullseye2d.org
+  hn_url: https://news.ycombinator.com/item?id=44404447
+  id: 44404447
+  score: 0
+  title: 'Show HN: I made a 2D game engine in Dart'
+  url: https://bullseye2d.org/
+- by: unknown
+  comments: 146
+  domain: simedw.com
+  hn_url: https://news.ycombinator.com/item?id=44433409
+  id: 44433409
+  score: 0
+  title: 'Show HN: Spegel, a Terminal Browser That Uses LLMs to Rewrite Webpages'
+  url: https://simedw.com/2025/06/23/introducing-spegel/

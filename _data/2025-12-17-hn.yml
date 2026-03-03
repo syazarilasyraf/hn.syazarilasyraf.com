@@ -1,0 +1,84 @@
+date: '2025-12-17'
+stories:
+- by: unknown
+  comments: 210
+  domain: martin.kleppmann.com
+  hn_url: https://news.ycombinator.com/item?id=46294574
+  id: 46294574
+  score: 0
+  title: AI will make formal verification go mainstream
+  url: https://martin.kleppmann.com/2025/12/08/ai-formal-verification.html
+- by: unknown
+  comments: 338
+  domain: alpr.watch
+  hn_url: https://news.ycombinator.com/item?id=46290916
+  id: 46290916
+  score: 0
+  title: alpr.watch
+  url: https://alpr.watch/
+- by: unknown
+  comments: 90
+  domain: sebastianaaltonen.com
+  hn_url: https://news.ycombinator.com/item?id=46293062
+  id: 46293062
+  score: 0
+  title: No Graphics API
+  url: https://www.sebastianaaltonen.com/blog/no-graphics-api
+- by: unknown
+  comments: 80
+  domain: astral.sh
+  hn_url: https://news.ycombinator.com/item?id=46294289
+  id: 46294289
+  score: 0
+  title: Announcing the Beta release of ty
+  url: https://astral.sh/blog/ty
+- by: unknown
+  comments: 47
+  domain: aadillpickle.com
+  hn_url: https://news.ycombinator.com/item?id=46226068
+  id: 46226068
+  score: 0
+  title: Midjourney is alemwjsl
+  url: https://www.aadillpickle.com/blog/midjourney-is-alemwjsl
+- by: unknown
+  comments: 183
+  domain: openai.com
+  hn_url: https://news.ycombinator.com/item?id=46291941
+  id: 46291941
+  score: 0
+  title: GPT Image 1.5
+  url: https://openai.com/index/new-chatgpt-images-is-here/
+- by: unknown
+  comments: 627
+  domain: resources.github.com
+  hn_url: https://news.ycombinator.com/item?id=46291156
+  id: 46291156
+  score: 0
+  title: Pricing Changes for GitHub Actions
+  url: https://resources.github.com/actions/2026-pricing-changes-for-github-actions/
+- by: unknown
+  comments: 4
+  domain: bernsteinbear.com
+  hn_url: https://news.ycombinator.com/item?id=46297127
+  id: 46297127
+  score: 0
+  title: 'CS 4973: Introduction to Software Development Tooling – Northeastern Univ
+    (2024)'
+  url: https://bernsteinbear.com/isdt/
+- by: unknown
+  comments: 57
+  domain: simonwillison.net
+  hn_url: https://news.ycombinator.com/item?id=46295771
+  id: 46295771
+  score: 0
+  title: I ported JustHTML from Python to JavaScript with Codex CLI and GPT-5.2 in
+    hours
+  url: https://simonwillison.net/2025/Dec/15/porting-justhtml/
+- by: unknown
+  comments: 179
+  domain: tum.de
+  hn_url: https://news.ycombinator.com/item?id=46288415
+  id: 46288415
+  score: 0
+  title: 40 percent of fMRI signals do not correspond to actual brain activity
+  url: https://www.tum.de/en/news-and-events/all-news/press-releases/details/40-percent-of-mri-signals-do-not-correspond-to-actual-brain-activity

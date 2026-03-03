@@ -1,0 +1,82 @@
+date: '2025-07-18'
+stories:
+- by: unknown
+  comments: 6
+  domain: bozmen.io
+  hn_url: https://news.ycombinator.com/item?id=44601023
+  id: 44601023
+  score: 0
+  title: Fully homomorphic encryption and the dawn of a private internet
+  url: https://bozmen.io/fhe
+- by: unknown
+  comments: 39
+  domain: lewiscampbell.tech
+  hn_url: https://news.ycombinator.com/item?id=44600594
+  id: 44600594
+  score: 0
+  title: NIH is cheaper than the wrong dependency
+  url: https://lewiscampbell.tech/blog/250718.html
+- by: unknown
+  comments: 80
+  domain: newsletter.vickiboykis.com
+  hn_url: https://news.ycombinator.com/item?id=44599549
+  id: 44599549
+  score: 0
+  title: My favorite use-case for AI is writing logs
+  url: https://newsletter.vickiboykis.com/archive/my-favorite-use-case-for-ai-is-writing-logs/
+- by: unknown
+  comments: 368
+  domain: openai.com
+  hn_url: https://news.ycombinator.com/item?id=44595492
+  id: 44595492
+  score: 0
+  title: 'ChatGPT agent: bridging research and action'
+  url: https://openai.com/index/introducing-chatgpt-agent/
+- by: unknown
+  comments: 71
+  domain: overengineer.dev
+  hn_url: https://news.ycombinator.com/item?id=44600512
+  id: 44600512
+  score: 0
+  title: USB-C hubs and my slow descent into madness (2021)
+  url: https://overengineer.dev/blog/2021/04/25/usb-c-hub-madness/
+- by: unknown
+  comments: 99
+  domain: mistral.ai
+  hn_url: https://news.ycombinator.com/item?id=44594156
+  id: 44594156
+  score: 0
+  title: Mistral Releases Deep Research, Voice, Projects in Le Chat
+  url: https://mistral.ai/news/le-chat-dives-deep
+- by: unknown
+  comments: 1
+  domain: nochlin.com
+  hn_url: https://news.ycombinator.com/item?id=44561895
+  id: 44561895
+  score: 0
+  title: Extending That XOR Trick to Billions of Rows
+  url: https://nochlin.com/blog/extending-that-xor-trick
+- by: unknown
+  comments: 149
+  domain: sankalp.bearblog.dev
+  hn_url: https://news.ycombinator.com/item?id=44596472
+  id: 44596472
+  score: 0
+  title: My experience with Claude Code after two weeks of adventures
+  url: https://sankalp.bearblog.dev/my-claude-code-experience-after-2-weeks-of-usage/
+- by: unknown
+  comments: 96
+  domain: gwern.net
+  hn_url: https://news.ycombinator.com/item?id=44588319
+  id: 44588319
+  score: 0
+  title: Perfume reviews
+  url: https://gwern.net/blog/2025/perfume
+- by: unknown
+  comments: 97
+  domain: github.com
+  hn_url: https://news.ycombinator.com/item?id=44592413
+  id: 44592413
+  score: 0
+  title: 'Hand: open-source Robot Hand'
+  url: https://github.com/pollen-robotics/AmazingHand

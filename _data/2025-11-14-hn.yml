@@ -1,0 +1,82 @@
+date: '2025-11-14'
+stories:
+- by: unknown
+  comments: 136
+  domain: minimaxir.com
+  hn_url: https://news.ycombinator.com/item?id=45917875
+  id: 45917875
+  score: 0
+  title: Nano Banana can be prompt engineered for nuanced AI image generation
+  url: https://minimaxir.com/2025/11/nano-banana-prompts/
+- by: unknown
+  comments: 39
+  domain: entropytown.com
+  hn_url: https://news.ycombinator.com/item?id=45923326
+  id: 45923326
+  score: 0
+  title: Why Fei-Fei Li and Yann LeCun Are Both Betting on "World Models"
+  url: https://entropytown.com/articles/2025-11-13-world-model-lecun-feifei-li/
+- by: unknown
+  comments: 33
+  domain: dataengineeringcentral.substack.com
+  hn_url: https://news.ycombinator.com/item?id=45920881
+  id: 45920881
+  score: 0
+  title: 650GB of Data (Delta Lake on S3). Polars vs. DuckDB vs. Daft vs. Spark
+  url: https://dataengineeringcentral.substack.com/p/650gb-of-data-delta-lake-on-s3-polars
+- by: unknown
+  comments: 150
+  domain: tweeks.io
+  hn_url: https://news.ycombinator.com/item?id=45916525
+  id: 45916525
+  score: 0
+  title: 'Launch HN: Tweeks (YC W25) – Browser extension to deshittify the web'
+  url: https://www.tweeks.io/onboarding
+- by: unknown
+  comments: 124
+  domain: anthropic.com
+  hn_url: https://news.ycombinator.com/item?id=45918638
+  id: 45918638
+  score: 0
+  title: Disrupting the first reported AI-orchestrated cyber espionage campaign
+  url: https://www.anthropic.com/news/disrupting-AI-espionage
+- by: unknown
+  comments: 44
+  domain: authorsalliance.substack.com
+  hn_url: https://news.ycombinator.com/item?id=45923406
+  id: 45923406
+  score: 0
+  title: Copyright winter is coming (to Wikipedia?)
+  url: https://authorsalliance.substack.com/p/copyright-winter-is-coming-to-wikipedia
+- by: unknown
+  comments: 24
+  domain: openmanet.net
+  hn_url: https://news.ycombinator.com/item?id=45920677
+  id: 45920677
+  score: 0
+  title: OpenMANET Wi-Fi HaLow open-source project for Raspberry Pi–based MANET radios
+  url: https://openmanet.net/
+- by: unknown
+  comments: 13
+  domain: lucidvoice.app
+  hn_url: https://news.ycombinator.com/item?id=45923352
+  id: 45923352
+  score: 0
+  title: Why do voice transcription apps charge monthly when Whisper runs locally?
+  url: https://www.lucidvoice.app/
+- by: unknown
+  comments: 0
+  domain: mindthenerd.com
+  hn_url: https://news.ycombinator.com/item?id=45835331
+  id: 45835331
+  score: 0
+  title: Why I'm Learning Sumerian
+  url: https://mindthenerd.com/why-im-learning-sumerian-and-what-it-taught-me-about-hard-work-burnout-and-the-joy-of-doing-useless-things/
+- by: unknown
+  comments: 18
+  domain: kubernetes.dev
+  hn_url: https://news.ycombinator.com/item?id=45921431
+  id: 45921431
+  score: 0
+  title: Kubernetes Ingress Nginx is retiring
+  url: https://www.kubernetes.dev/blog/2025/11/12/ingress-nginx-retirement/

@@ -1,0 +1,83 @@
+date: '2025-11-06'
+stories:
+- by: unknown
+  comments: 120
+  domain: support.mozilla.org
+  hn_url: https://news.ycombinator.com/item?id=45830770
+  id: 45830770
+  score: 0
+  title: Longtime Mozilla Support Japanese Community Shuts Down over AI Translation
+    Usage
+  url: https://support.mozilla.org/en-US/forums/contributors/717446
+- by: unknown
+  comments: 312
+  domain: climatedrift.substack.com
+  hn_url: https://news.ycombinator.com/item?id=45827190
+  id: 45827190
+  score: 0
+  title: Solarpunk is happening in Africa
+  url: https://climatedrift.substack.com/p/why-solarpunk-is-already-happening
+- by: unknown
+  comments: 29
+  domain: ratatui.rs
+  hn_url: https://news.ycombinator.com/item?id=45830829
+  id: 45830829
+  score: 0
+  title: Rust's TUI Revolution
+  url: https://ratatui.rs/showcase/apps/
+- by: unknown
+  comments: 94
+  domain: github.com
+  hn_url: https://news.ycombinator.com/item?id=45826266
+  id: 45826266
+  score: 0
+  title: Dillo, a multi-platform graphical web browser
+  url: https://github.com/dillo-browser/dillo
+- by: unknown
+  comments: 29
+  domain: h4x0r.org
+  hn_url: https://news.ycombinator.com/item?id=45830223
+  id: 45830223
+  score: 0
+  title: Recursive macros in C, demystified (once the ugly crying stops)
+  url: https://h4x0r.org/big-mac-ro-attack/
+- by: unknown
+  comments: 241
+  domain: ctvnews.ca
+  hn_url: https://news.ycombinator.com/item?id=45825965
+  id: 45825965
+  score: 0
+  title: ChatGPT terms disallow its use in providing legal and medical advice to others
+  url: https://www.ctvnews.ca/sci-tech/article/openai-updates-policies-so-chatgpt-wont-provide-medical-or-legal-advice/
+- by: unknown
+  comments: 77
+  domain: blog.mozilla.org
+  hn_url: https://news.ycombinator.com/item?id=45744038
+  id: 45744038
+  score: 0
+  title: 'Firefox profiles: Private, focused spaces for all the ways you browse'
+  url: https://blog.mozilla.org/en/firefox/profile-management/
+- by: unknown
+  comments: 2
+  domain: old.reddit.com
+  hn_url: https://news.ycombinator.com/item?id=45831541
+  id: 45831541
+  score: 0
+  title: '"I may have found a way to spot U.S. at-sea strikes before they''re announced"'
+  url: https://old.reddit.com/r/OSINT/comments/1opjjyv/i_may_have_found_a_way_to_spot_us_atsea_strikes/
+- by: unknown
+  comments: 348
+  domain: theseedsofscience.pub
+  hn_url: https://news.ycombinator.com/item?id=45824864
+  id: 45824864
+  score: 0
+  title: Why aren't smart people happier?
+  url: https://www.theseedsofscience.pub/p/why-arent-smart-people-happier
+- by: unknown
+  comments: 94
+  domain: shnatsel.medium.com
+  hn_url: https://news.ycombinator.com/item?id=45826348
+  id: 45826348
+  score: 0
+  title: The state of SIMD in Rust in 2025
+  url: https://shnatsel.medium.com/the-state-of-simd-in-rust-in-2025-32c263e5f53d

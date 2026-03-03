@@ -1,0 +1,82 @@
+date: '2026-01-04'
+stories:
+- by: unknown
+  comments: 415
+  domain: data.stackexchange.com
+  hn_url: https://news.ycombinator.com/item?id=46482345
+  id: 46482345
+  score: 0
+  title: Total monthly number of StackOverflow questions over time
+  url: https://data.stackexchange.com/stackoverflow/query/1926661#graph
+- by: unknown
+  comments: 64
+  domain: nik.art
+  hn_url: https://news.ycombinator.com/item?id=46482877
+  id: 46482877
+  score: 0
+  title: The suck is why we're here
+  url: https://nik.art/the-suck-is-why-were-here/
+- by: unknown
+  comments: 3
+  domain: github.com
+  hn_url: https://news.ycombinator.com/item?id=46483776
+  id: 46483776
+  score: 0
+  title: MyTorch – Minimalist autograd in 450 lines of Python
+  url: https://github.com/obround/mytorch
+- by: unknown
+  comments: 96
+  domain: refactoringenglish.com
+  hn_url: https://news.ycombinator.com/item?id=46478377
+  id: 46478377
+  score: 0
+  title: The Most Popular Blogs of Hacker News in 2025
+  url: https://refactoringenglish.com/blog/2025-hn-top-5/
+- by: unknown
+  comments: 83
+  domain: docs.swifdroid.com
+  hn_url: https://news.ycombinator.com/item?id=46483023
+  id: 46483023
+  score: 0
+  title: 'Swift on Android: Full Native App Development Now Possible'
+  url: https://docs.swifdroid.com/app/
+- by: unknown
+  comments: 0
+  domain: theguardian.com
+  hn_url: https://news.ycombinator.com/item?id=46484104
+  id: 46484104
+  score: 0
+  title: How Thomas Mann Wrote the Magic Mountain
+  url: https://www.theguardian.com/books/2025/dec/31/the-master-of-contradictions-by-morten-hi-jensen-review-how-thomas-mann-wrote-the-magic-mountain
+- by: unknown
+  comments: 11
+  domain: rabbitictranslator.com
+  hn_url: https://news.ycombinator.com/item?id=46483432
+  id: 46483432
+  score: 0
+  title: KDE onboarding is good now
+  url: https://rabbitictranslator.com/kde-onboarding/
+- by: unknown
+  comments: 24
+  domain: lib25519.cr.yp.to
+  hn_url: https://news.ycombinator.com/item?id=46412070
+  id: 46412070
+  score: 0
+  title: Ed25519-CLI – command-line interface for the Ed25519 signature system
+  url: https://lib25519.cr.yp.to/ed25519-cli.html
+- by: unknown
+  comments: 0
+  domain: nemanjatrifunovic.substack.com
+  hn_url: https://news.ycombinator.com/item?id=46426614
+  id: 46426614
+  score: 0
+  title: The Late Arrival of 16-Bit CP/M – By Nemanja Trifunovic
+  url: https://nemanjatrifunovic.substack.com/p/the-late-arrival-of-16-bit-cpm
+- by: unknown
+  comments: 36
+  domain: bbc.com
+  hn_url: https://news.ycombinator.com/item?id=46483729
+  id: 46483729
+  score: 0
+  title: The Great Gatsby is the most misunderstood novel (2021)
+  url: https://www.bbc.com/culture/article/20210209-the-worlds-most-misunderstood-novel

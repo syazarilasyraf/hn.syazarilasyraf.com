@@ -1,0 +1,83 @@
+date: '2026-01-16'
+stories:
+- by: unknown
+  comments: 4
+  domain: undeadly.org
+  hn_url: https://news.ycombinator.com/item?id=46642560
+  id: 46642560
+  score: 0
+  title: OpenBSD-current now runs as guest under Apple Hypervisor
+  url: https://www.undeadly.org/cgi?action=article;sid=20260115203619
+- by: unknown
+  comments: 7
+  domain: bbc.com
+  hn_url: https://news.ycombinator.com/item?id=46642920
+  id: 46642920
+  score: 0
+  title: Boeing knew of flaw in part linked to UPS plane crash
+  url: https://www.bbc.com/news/articles/cly56w0p9e1o
+- by: unknown
+  comments: 371
+  domain: culpium.com
+  hn_url: https://news.ycombinator.com/item?id=46633488
+  id: 46633488
+  score: 0
+  title: Apple is fighting for TSMC capacity as Nvidia takes center stage
+  url: https://www.culpium.com/p/exclusiveapple-is-fighting-for-tsmc
+- by: unknown
+  comments: 49
+  domain: kyutai.org
+  hn_url: https://news.ycombinator.com/item?id=46628329
+  id: 46628329
+  score: 0
+  title: 'Pocket TTS: A high quality TTS that gives your CPU a voice'
+  url: https://kyutai.org/blog/2026-01-13-pocket-tts
+- by: unknown
+  comments: 65
+  domain: hackernoon.com
+  hn_url: https://news.ycombinator.com/item?id=46613324
+  id: 46613324
+  score: 0
+  title: Inside The Internet Archive's Infrastructure
+  url: https://hackernoon.com/the-long-now-of-the-web-inside-the-internet-archives-fight-against-forgetting
+- by: unknown
+  comments: 88
+  domain: briarproject.org
+  hn_url: https://news.ycombinator.com/item?id=46638013
+  id: 46638013
+  score: 0
+  title: Briar keeps Iran connected via Bluetooth and Wi-Fi when the internet goes
+    dark
+  url: https://briarproject.org/manual/fa/
+- by: unknown
+  comments: 94
+  domain: shellbox.dev
+  hn_url: https://news.ycombinator.com/item?id=46638629
+  id: 46638629
+  score: 0
+  title: 'Linux boxes via SSH: suspended when disconected'
+  url: https://shellbox.dev/
+- by: unknown
+  comments: 36
+  domain: buttondown.com
+  hn_url: https://news.ycombinator.com/item?id=46641348
+  id: 46641348
+  score: 0
+  title: My Gripes with Prolog
+  url: https://buttondown.com/hillelwayne/archive/my-gripes-with-prolog/
+- by: unknown
+  comments: 440
+  domain: e360.yale.edu
+  hn_url: https://news.ycombinator.com/item?id=46630369
+  id: 46630369
+  score: 0
+  title: Photos capture the breathtaking scale of China's wind and solar buildout
+  url: https://e360.yale.edu/digest/china-renewable-photo-essay
+- by: unknown
+  comments: 11
+  domain: github.com
+  hn_url: https://news.ycombinator.com/item?id=46641362
+  id: 46641362
+  score: 0
+  title: 'Show HN: Gambit, an open-source agent harness for building reliable AI agents'
+  url: https://github.com/bolt-foundry/gambit

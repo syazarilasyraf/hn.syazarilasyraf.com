@@ -1,0 +1,82 @@
+date: '2026-02-19'
+stories:
+- by: unknown
+  comments: 212
+  domain: pudding.cool
+  hn_url: https://news.ycombinator.com/item?id=47066552
+  id: 47066552
+  score: 0
+  title: Sizing chaos
+  url: https://pudding.cool/2026/02/womens-sizing/
+- by: unknown
+  comments: 121
+  domain: old.reddit.com
+  hn_url: https://news.ycombinator.com/item?id=47066241
+  id: 47066241
+  score: 0
+  title: 27-year-old Apple iBooks can connect to Wi-Fi and download official updates
+  url: https://old.reddit.com/r/MacOS/comments/1r8900z/macos_which_officially_supports_27_year_old/
+- by: unknown
+  comments: 178
+  domain: code.claude.com
+  hn_url: https://news.ycombinator.com/item?id=47069299
+  id: 47069299
+  score: 0
+  title: Anthropic officially bans using subscription auth for third party use
+  url: https://code.claude.com/docs/en/legal-and-compliance
+- by: unknown
+  comments: 16
+  domain: nicolasdickenmann.com
+  hn_url: https://news.ycombinator.com/item?id=47068890
+  id: 47068890
+  score: 0
+  title: 15 years of FP64 segmentation, and why the Blackwell Ultra breaks the pattern
+  url: https://nicolasdickenmann.com/blog/the-great-fp64-divide.html
+- by: unknown
+  comments: 103
+  domain: jasonfantl.com
+  hn_url: https://news.ycombinator.com/item?id=47064490
+  id: 47064490
+  score: 0
+  title: Cosmologically Unique IDs
+  url: https://jasonfantl.com/posts/Universal-Unique-IDs/
+- by: unknown
+  comments: 7
+  domain: thunderseethe.dev
+  hn_url: https://news.ycombinator.com/item?id=47025885
+  id: 47025885
+  score: 0
+  title: How to Choose Between Hindley-Milner and Bidirectional Typing
+  url: https://thunderseethe.dev/posts/how-to-choose-between-hm-and-bidir/
+- by: unknown
+  comments: 184
+  domain: tailscale.com
+  hn_url: https://news.ycombinator.com/item?id=47063005
+  id: 47063005
+  score: 0
+  title: Tailscale Peer Relays is now generally available
+  url: https://tailscale.com/blog/peer-relays-ga
+- by: unknown
+  comments: 17
+  domain: cepr.org
+  hn_url: https://news.ycombinator.com/item?id=47068320
+  id: 47068320
+  score: 0
+  title: How AI is affecting productivity and jobs in Europe
+  url: https://cepr.org/voxeu/columns/how-ai-affecting-productivity-and-jobs-europe
+- by: unknown
+  comments: 148
+  domain: chromereleases.googleblog.com
+  hn_url: https://news.ycombinator.com/item?id=47062748
+  id: 47062748
+  score: 0
+  title: 'Zero-day CSS: CVE-2026-2441 exists in the wild'
+  url: https://chromereleases.googleblog.com/2026/02/stable-channel-update-for-desktop_13.html
+- by: unknown
+  comments: 33
+  domain: gamingonlinux.com
+  hn_url: https://news.ycombinator.com/item?id=47068948
+  id: 47068948
+  score: 0
+  title: Minecraft Java is switching from OpenGL to Vulkan
+  url: https://www.gamingonlinux.com/2026/02/minecraft-java-is-switching-from-opengl-to-vulkan-for-the-vibrant-visuals-update/

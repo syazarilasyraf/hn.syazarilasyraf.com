@@ -1,0 +1,66 @@
+date: '2026-01-13'
+stories:
+- by: unknown
+  comments: 370
+  domain: claude.com
+  hn_url: https://news.ycombinator.com/item?id=46593022
+  id: 46593022
+  score: 0
+  title: 'Cowork: Claude Code for the rest of your work'
+  url: https://claude.com/blog/cowork-research-preview
+- by: unknown
+  comments: 219
+  domain: github.com
+  hn_url: https://news.ycombinator.com/item?id=46590280
+  id: 46590280
+  score: 0
+  title: 'TimeCapsuleLLM: LLM trained only on data from 1800-1875'
+  url: https://github.com/haykgrigo3/TimeCapsuleLLM
+- by: unknown
+  comments: 171
+  domain: walzr.com
+  hn_url: https://news.ycombinator.com/item?id=46591708
+  id: 46591708
+  score: 0
+  title: Postal Arbitrage
+  url: https://walzr.com/postal-arbitrage
+- by: unknown
+  comments: 34
+  domain: nature.com
+  hn_url: https://news.ycombinator.com/item?id=46540126
+  id: 46540126
+  score: 0
+  title: Some ecologists fear their field is losing touch with nature
+  url: https://www.nature.com/articles/d41586-025-04150-w
+- by: unknown
+  comments: 315
+  domain: blog.smartere.dk
+  hn_url: https://news.ycombinator.com/item?id=46587934
+  id: 46587934
+  score: 0
+  title: Floppy disks turn out to be the greatest TV remote for kids
+  url: https://blog.smartere.dk/2026/01/floppy-disks-the-best-tv-remote-for-kids/
+- by: unknown
+  comments: 3
+  domain: bitboost.com
+  hn_url: https://news.ycombinator.com/item?id=46597030
+  id: 46597030
+  score: 0
+  title: 'PawSense: Catproof Your Computer'
+  url: http://bitboost.com/pawsense/
+- by: unknown
+  comments: 83
+  domain: cy.md
+  hn_url: https://news.ycombinator.com/item?id=46581095
+  id: 46581095
+  score: 0
+  title: Unauthenticated remote code execution in OpenCode
+  url: https://cy.md/opencode-rce/
+- by: unknown
+  comments: 130
+  domain: piccalil.li
+  hn_url: https://news.ycombinator.com/item?id=46589658
+  id: 46589658
+  score: 0
+  title: Date is out, Temporal is in
+  url: https://piccalil.li/blog/date-is-out-and-temporal-is-in/

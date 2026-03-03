@@ -1,0 +1,82 @@
+date: '2025-11-29'
+stories:
+- by: unknown
+  comments: 6
+  domain: macos9lives.com
+  hn_url: https://news.ycombinator.com/item?id=46084956
+  id: 46084956
+  score: 0
+  title: System 7 natively boots on the Mac mini G4
+  url: https://macos9lives.com/smforum/index.php?topic=7711.0
+- by: unknown
+  comments: 28
+  domain: airbus.com
+  hn_url: https://news.ycombinator.com/item?id=46083004
+  id: 46083004
+  score: 0
+  title: Airbus A320 – intense solar radiation may corrupt data critical for flight
+  url: https://www.airbus.com/en/newsroom/press-releases/2025-11-airbus-update-on-a320-family-precautionary-fleet-action
+- by: unknown
+  comments: 26
+  domain: johndcook.com
+  hn_url: https://news.ycombinator.com/item?id=46084122
+  id: 46084122
+  score: 0
+  title: A triangle whose interior angles sum to zero
+  url: https://www.johndcook.com/blog/2025/11/28/tricusp-triangle/
+- by: unknown
+  comments: 108
+  domain: blog.tymscar.com
+  hn_url: https://news.ycombinator.com/item?id=46081188
+  id: 46081188
+  score: 0
+  title: Imgur geo-blocked the UK, so I geo-unblocked my network
+  url: https://blog.tymscar.com/posts/imgurukproxy/
+- by: unknown
+  comments: 149
+  domain: molly.im
+  hn_url: https://news.ycombinator.com/item?id=46080916
+  id: 46080916
+  score: 0
+  title: 'Molly: An Improved Signal App'
+  url: https://molly.im/
+- by: unknown
+  comments: 128
+  domain: kerrick.blog
+  hn_url: https://news.ycombinator.com/item?id=46083303
+  id: 46083303
+  score: 0
+  title: 'Confessions of a Software Developer: No More Self-Censorship'
+  url: https://kerrick.blog/articles/2025/confessions-of-a-software-developer-no-more-self-censorship/
+- by: unknown
+  comments: 44
+  domain: blog.yakkomajuri.com
+  hn_url: https://news.ycombinator.com/item?id=46080364
+  id: 46080364
+  score: 0
+  title: So you wanna build a local RAG?
+  url: https://blog.yakkomajuri.com/blog/local-rag
+- by: unknown
+  comments: 2
+  domain: mathoverflow.net
+  hn_url: https://news.ycombinator.com/item?id=46084535
+  id: 46084535
+  score: 0
+  title: Every mathematician has only a few tricks (2020)
+  url: https://mathoverflow.net/questions/363119/every-mathematician-has-only-a-few-tricks
+- by: unknown
+  comments: 58
+  domain: objectiveunclear.com
+  hn_url: https://news.ycombinator.com/item?id=46080289
+  id: 46080289
+  score: 0
+  title: Airloom – 3D Flight Tracker
+  url: https://objectiveunclear.com/airloom.html
+- by: unknown
+  comments: 22
+  domain: github.com
+  hn_url: https://news.ycombinator.com/item?id=46082204
+  id: 46082204
+  score: 0
+  title: The original ABC language, Python's predecessor (1991)
+  url: https://github.com/gvanrossum/abc-unix

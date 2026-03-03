@@ -1,0 +1,83 @@
+date: '2025-05-30'
+stories:
+- by: unknown
+  comments: 2
+  domain: chosenplaintext.ca
+  hn_url: https://news.ycombinator.com/item?id=44132673
+  id: 44132673
+  score: 0
+  title: The radix 2^51 trick
+  url: https://www.chosenplaintext.ca/articles/radix-2-51-trick.html
+- by: unknown
+  comments: 13
+  domain: nostarch.com
+  hn_url: https://news.ycombinator.com/item?id=44131984
+  id: 44131984
+  score: 0
+  title: 'Practical SDR: Getting started with software-defined radio'
+  url: https://nostarch.com/practical-sdr
+- by: unknown
+  comments: 15
+  domain: omeka-s.library.illinois.edu
+  hn_url: https://news.ycombinator.com/item?id=44132404
+  id: 44132404
+  score: 0
+  title: Player Piano Rolls
+  url: https://omeka-s.library.illinois.edu/s/MPAL/page/player-piano-rolls-landing
+- by: unknown
+  comments: 8
+  domain: nytimes.com
+  hn_url: https://news.ycombinator.com/item?id=44132873
+  id: 44132873
+  score: 0
+  title: White House releases health report written by LLM, with hallucinated citations
+  url: https://www.nytimes.com/2025/05/29/well/maha-report-citations.html
+- by: unknown
+  comments: 102
+  domain: weatherstar.netbymatt.com
+  hn_url: https://news.ycombinator.com/item?id=44127109
+  id: 44127109
+  score: 0
+  title: 'WeatherStar 4000+: Weather Channel Simulator'
+  url: https://weatherstar.netbymatt.com/
+- by: unknown
+  comments: 88
+  domain: bfl.ai
+  hn_url: https://news.ycombinator.com/item?id=44128322
+  id: 44128322
+  score: 0
+  title: FLUX.1 Kontext
+  url: https://bfl.ai/models/flux-kontext
+- by: unknown
+  comments: 0
+  domain: github.com
+  hn_url: https://news.ycombinator.com/item?id=44132823
+  id: 44132823
+  score: 0
+  title: 'Show HN: MCP Server SDK in Bash (~250 lines, zero runtime)'
+  url: https://github.com/muthuishere/mcp-server-bash-sdk
+- by: unknown
+  comments: 27
+  domain: github.com
+  hn_url: https://news.ycombinator.com/item?id=44131901
+  id: 44131901
+  score: 0
+  title: IRS Direct File
+  url: https://github.com/IRS-Public/direct-file
+- by: unknown
+  comments: 44
+  domain: krebsonsecurity.com
+  hn_url: https://news.ycombinator.com/item?id=44132075
+  id: 44132075
+  score: 0
+  title: U.S. sanctions cloud provider 'Funnull' as top source of 'pig butchering'
+    scams
+  url: https://krebsonsecurity.com/2025/05/u-s-sanctions-cloud-provider-funnull-as-top-source-of-pig-butchering-scams/
+- by: unknown
+  comments: 0
+  domain: github.com
+  hn_url: https://news.ycombinator.com/item?id=44106048
+  id: 44106048
+  score: 0
+  title: Smallest Possible Files
+  url: https://github.com/mathiasbynens/small

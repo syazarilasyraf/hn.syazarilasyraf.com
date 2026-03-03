@@ -1,0 +1,82 @@
+date: '2025-07-25'
+stories:
+- by: unknown
+  comments: 96
+  domain: lwn.net
+  hn_url: https://news.ycombinator.com/item?id=44676691
+  id: 44676691
+  score: 0
+  title: 'Graphene OS: a security-enhanced Android build'
+  url: https://lwn.net/SubscriberLink/1030004/898017c7953c0946/
+- by: unknown
+  comments: 8
+  domain: asciinema.org
+  hn_url: https://news.ycombinator.com/item?id=44679048
+  id: 44679048
+  score: 0
+  title: 'Asciinema: Record and share your terminal sessions'
+  url: https://asciinema.org
+- by: unknown
+  comments: 51
+  domain: positron.posit.co
+  hn_url: https://news.ycombinator.com/item?id=44634598
+  id: 44634598
+  score: 0
+  title: Positron – A next-generation data science IDE
+  url: https://positron.posit.co/
+- by: unknown
+  comments: 188
+  domain: academic.oup.com
+  hn_url: https://news.ycombinator.com/item?id=44676817
+  id: 44676817
+  score: 0
+  title: Scientists may have found a way to eliminate chromosome linked to Down syndrome
+  url: https://academic.oup.com/pnasnexus/article/4/2/pgaf022/8016019
+- by: unknown
+  comments: 479
+  domain: bloomberg.com
+  hn_url: https://news.ycombinator.com/item?id=44663074
+  id: 44663074
+  score: 0
+  title: AMD CEO sees chips from TSMC's US plant costing 5%-20% more
+  url: https://www.bloomberg.com/news/articles/2025-07-23/amd-ceo-su-sees-chips-from-us-tsmc-plant-costing-5-to-20-more
+- by: unknown
+  comments: 82
+  domain: vidarholen.net
+  hn_url: https://news.ycombinator.com/item?id=44632674
+  id: 44632674
+  score: 0
+  title: I wasted weeks hand optimizing assembly because I benchmarked on random data
+  url: https://www.vidarholen.net/contents/blog/?p=1160
+- by: unknown
+  comments: 275
+  domain: ralfj.de
+  hn_url: https://news.ycombinator.com/item?id=44672003
+  id: 44672003
+  score: 0
+  title: There is no memory safety without thread safety
+  url: https://www.ralfj.de/blog/2025/07/24/memory-safety.html
+- by: unknown
+  comments: 30
+  domain: ipnsig.org
+  hn_url: https://news.ycombinator.com/item?id=44675553
+  id: 44675553
+  score: 0
+  title: Inter-Planetary Network Special Interest Group
+  url: https://www.ipnsig.org
+- by: unknown
+  comments: 19
+  domain: alto.so
+  hn_url: https://news.ycombinator.com/item?id=44678112
+  id: 44678112
+  score: 0
+  title: Alto turns Apple Notes into a website
+  url: https://alto.so/
+- by: unknown
+  comments: 15
+  domain: calculator.inference.ai
+  hn_url: https://news.ycombinator.com/item?id=44676961
+  id: 44676961
+  score: 0
+  title: A GPU Calculator That Helps Calculate What GPU to Use
+  url: https://calculator.inference.ai/

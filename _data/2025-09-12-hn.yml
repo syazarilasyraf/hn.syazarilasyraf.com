@@ -1,0 +1,83 @@
+date: '2025-09-12'
+stories:
+- by: unknown
+  comments: 104
+  domain: swiss.social
+  hn_url: https://news.ycombinator.com/item?id=45216805
+  id: 45216805
+  score: 0
+  title: Danish supermarket chain is setting up "Emergency Stores"
+  url: https://swiss.social/@swaldorff/115186445638788782
+- by: unknown
+  comments: 72
+  domain: posthog.com
+  hn_url: https://news.ycombinator.com/item?id=45217269
+  id: 45217269
+  score: 0
+  title: Why our website looks like an operating system
+  url: https://posthog.com/blog/why-os
+- by: unknown
+  comments: 110
+  domain: github.com
+  hn_url: https://news.ycombinator.com/item?id=45214670
+  id: 45214670
+  score: 0
+  title: Top model scores may be skewed by Git history leaks in SWE-bench
+  url: https://github.com/SWE-bench/SWE-bench/issues/465
+- by: unknown
+  comments: 16
+  domain: float.exposed
+  hn_url: https://news.ycombinator.com/item?id=45217415
+  id: 45217415
+  score: 0
+  title: Float Exposed
+  url: https://float.exposed/
+- by: unknown
+  comments: 144
+  domain: github.com
+  hn_url: https://news.ycombinator.com/item?id=45215869
+  id: 45215869
+  score: 0
+  title: Nano Banana image examples
+  url: https://github.com/PicoTrex/Awesome-Nano-Banana-images/blob/main/README_en.md
+- by: unknown
+  comments: 13
+  domain: lwn.net
+  hn_url: https://news.ycombinator.com/item?id=45217858
+  id: 45217858
+  score: 0
+  title: The challenge of maintaining curl
+  url: https://lwn.net/Articles/1034966/
+- by: unknown
+  comments: 42
+  domain: github.com
+  hn_url: https://news.ycombinator.com/item?id=45216844
+  id: 45216844
+  score: 0
+  title: 'Fartscroll-Lid: An app that plays fart sounds when opening or closing a
+    MacBook'
+  url: https://github.com/iannuttall/fartscroll-lid
+- by: unknown
+  comments: 133
+  domain: shloked.com
+  hn_url: https://news.ycombinator.com/item?id=45214908
+  id: 45214908
+  score: 0
+  title: Claude’s memory architecture is the opposite of ChatGPT’s
+  url: https://www.shloked.com/writing/claude-memory
+- by: unknown
+  comments: 2
+  domain: rosswintle.uk
+  hn_url: https://news.ycombinator.com/item?id=45167846
+  id: 45167846
+  score: 0
+  title: 'De-Clouding: Music'
+  url: https://rosswintle.uk/2025/09/de-clouding-music/
+- by: unknown
+  comments: 0
+  domain: gmpg.org
+  hn_url: https://news.ycombinator.com/item?id=45165529
+  id: 45165529
+  score: 0
+  title: Xhtml Friends Network (2003)
+  url: https://gmpg.org/xfn/

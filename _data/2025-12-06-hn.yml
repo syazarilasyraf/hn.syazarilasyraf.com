@@ -1,0 +1,74 @@
+date: '2025-12-06'
+stories:
+- by: unknown
+  comments: 19
+  domain: ud2.rip
+  hn_url: https://news.ycombinator.com/item?id=46170060
+  id: 46170060
+  score: 0
+  title: I cracked a $200 software protection with xcopy
+  url: https://www.ud2.rip/blog/enigma-protector/
+- by: unknown
+  comments: 39
+  domain: michael.stapelberg.ch
+  hn_url: https://news.ycombinator.com/item?id=46095087
+  id: 46095087
+  score: 0
+  title: Self-hosting my photos with Immich
+  url: https://michael.stapelberg.ch/posts/2025-11-29-self-hosting-photos-with-immich/
+- by: unknown
+  comments: 446
+  domain: blog.cloudflare.com
+  hn_url: https://news.ycombinator.com/item?id=46162656
+  id: 46162656
+  score: 0
+  title: Cloudflare outage on December 5, 2025
+  url: https://blog.cloudflare.com/5-december-2025-outage/
+- by: unknown
+  comments: 14
+  domain: browsewithnook.com
+  hn_url: https://news.ycombinator.com/item?id=46170402
+  id: 46170402
+  score: 0
+  title: Nook Browser
+  url: https://browsewithnook.com
+- by: unknown
+  comments: 18
+  domain: haveibeenflocked.com
+  hn_url: https://news.ycombinator.com/item?id=46170302
+  id: 46170302
+  score: 0
+  title: Have I been Flocked? – Check if your license plate is being watched
+  url: https://haveibeenflocked.com/
+- by: unknown
+  comments: 66
+  domain: brendangregg.com
+  hn_url: https://news.ycombinator.com/item?id=46167552
+  id: 46167552
+  score: 0
+  title: Leaving Intel
+  url: https://www.brendangregg.com/blog//2025-12-05/leaving-intel.html
+- by: unknown
+  comments: 198
+  domain: blog.google
+  hn_url: https://news.ycombinator.com/item?id=46163308
+  id: 46163308
+  score: 0
+  title: 'Gemini 3 Pro: the frontier of vision AI'
+  url: https://blog.google/technology/developers/gemini-3-pro-vision/
+- by: unknown
+  comments: 1169
+  domain: about.netflix.com
+  hn_url: https://news.ycombinator.com/item?id=46160315
+  id: 46160315
+  score: 0
+  title: Netflix to Acquire Warner Bros
+  url: https://about.netflix.com/en/news/netflix-to-acquire-warner-bros
+- by: unknown
+  comments: 5
+  domain: ffd2.com
+  hn_url: https://news.ycombinator.com/item?id=46169330
+  id: 46169330
+  score: 0
+  title: Extra Instructions Of The 65XX Series CPU (1996)
+  url: http://www.ffd2.com/fridge/docs/6502-NMOS.extra.opcodes

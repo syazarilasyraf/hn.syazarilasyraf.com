@@ -1,0 +1,82 @@
+date: '2025-06-13'
+stories:
+- by: unknown
+  comments: 58
+  domain: jasone.github.io
+  hn_url: https://news.ycombinator.com/item?id=44264958
+  id: 44264958
+  score: 0
+  title: Jemalloc Postmortem
+  url: https://jasone.github.io/2025/06/12/jemalloc-postmortem/
+- by: unknown
+  comments: 320
+  domain: tailscale.com
+  hn_url: https://news.ycombinator.com/item?id=44261777
+  id: 44261777
+  score: 0
+  title: Frequent reauth doesn't make you more secure
+  url: https://tailscale.com/blog/frequent-reath-security
+- by: unknown
+  comments: 14
+  domain: osor.io
+  hn_url: https://news.ycombinator.com/item?id=44265233
+  id: 44265233
+  score: 0
+  title: Rendering Crispy Text on the GPU
+  url: https://osor.io/text
+- by: unknown
+  comments: 0
+  domain: github.com
+  hn_url: https://news.ycombinator.com/item?id=44265851
+  id: 44265851
+  score: 0
+  title: 'Show HN: I wrote a BitTorrent Client from scratch'
+  url: https://github.com/piyushgupta53/go-torrent-client
+- by: unknown
+  comments: 24
+  domain: krebsonsecurity.com
+  hn_url: https://news.ycombinator.com/item?id=44263780
+  id: 44263780
+  score: 0
+  title: A Dark Adtech Empire Fed by Fake CAPTCHAs
+  url: https://krebsonsecurity.com/2025/06/inside-a-dark-adtech-empire-fed-by-fake-captchas/
+- by: unknown
+  comments: 454
+  domain: laurieherault.com
+  hn_url: https://news.ycombinator.com/item?id=44256499
+  id: 44256499
+  score: 0
+  title: A receipt printer cured my procrastination
+  url: https://www.laurieherault.com/articles/a-thermal-receipt-printer-cured-my-procrastination
+- by: unknown
+  comments: 19
+  domain: github.com
+  hn_url: https://news.ycombinator.com/item?id=44258670
+  id: 44258670
+  score: 0
+  title: iPhone 11 emulation done in QEMU
+  url: https://github.com/ChefKissInc/QEMUAppleSilicon
+- by: unknown
+  comments: 79
+  domain: tritium.legal
+  hn_url: https://news.ycombinator.com/item?id=44256765
+  id: 44256765
+  score: 0
+  title: 'Show HN: Tritium – The Legal IDE in Rust'
+  url: https://tritium.legal/preview
+- by: unknown
+  comments: 2
+  domain: github.com
+  hn_url: https://news.ycombinator.com/item?id=44265216
+  id: 44265216
+  score: 0
+  title: Three Algorithms for YSH Syntax Highlighting
+  url: https://github.com/oils-for-unix/oils.vim/blob/main/doc/algorithms.md
+- by: unknown
+  comments: 2
+  domain: governance.fyi
+  hn_url: https://news.ycombinator.com/item?id=44265105
+  id: 44265105
+  score: 0
+  title: Urban Design and Adaptive Reuse in North Korea, Japan, and Singapore
+  url: https://www.governance.fyi/p/adaptive-reuse-across-asia-singapores

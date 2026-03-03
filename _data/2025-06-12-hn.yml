@@ -1,0 +1,83 @@
+date: '2025-06-12'
+stories:
+- by: unknown
+  comments: 108
+  domain: github.com
+  hn_url: https://news.ycombinator.com/item?id=44251411
+  id: 44251411
+  score: 0
+  title: Chatterbox TTS
+  url: https://github.com/resemble-ai/chatterbox
+- by: unknown
+  comments: 60
+  domain: danielsada.tech
+  hn_url: https://news.ycombinator.com/item?id=44253212
+  id: 44253212
+  score: 0
+  title: Microsoft Office migration from Source Depot to Git
+  url: https://danielsada.tech/blog/carreer-part-7-how-office-moved-to-git-and-i-loved-devex/
+- by: unknown
+  comments: 3
+  domain: blog.andykhau.com
+  hn_url: https://news.ycombinator.com/item?id=44253307
+  id: 44253307
+  score: 0
+  title: 'Show HN: Eyesite - experimental website combining computer vision and web
+    design'
+  url: https://blog.andykhau.com/blog/eyesite
+- by: unknown
+  comments: 388
+  domain: port.ac.uk
+  hn_url: https://news.ycombinator.com/item?id=44251047
+  id: 44251047
+  score: 0
+  title: Research suggests Big Bang may have taken place inside a black hole
+  url: https://www.port.ac.uk/news-events-and-blogs/blogs/space-cosmology-and-the-universe/what-if-the-big-bang-wasnt-the-beginning-our-research-suggests-it-may-have-taken-place-inside-a-black-hole
+- by: unknown
+  comments: 55
+  domain: sparkjs.dev
+  hn_url: https://news.ycombinator.com/item?id=44249565
+  id: 44249565
+  score: 0
+  title: 'Show HN: Spark, An advanced 3D Gaussian Splatting renderer for Three.js'
+  url: https://sparkjs.dev/
+- by: unknown
+  comments: 72
+  domain: charity.wtf
+  hn_url: https://news.ycombinator.com/item?id=44224729
+  id: 44224729
+  score: 0
+  title: How long it takes to know if a job is right for you or not
+  url: https://charity.wtf/2025/06/08/on-how-long-it-takes-to-know-if-a-job-is-right-for-you-or-not/
+- by: unknown
+  comments: 75
+  domain: ai.meta.com
+  hn_url: https://news.ycombinator.com/item?id=44248165
+  id: 44248165
+  score: 0
+  title: V-JEPA 2 world model and new benchmarks for physical reasoning
+  url: https://ai.meta.com/blog/v-jepa-2-world-model-benchmarks/
+- by: unknown
+  comments: 37
+  domain: cbc.ca
+  hn_url: https://news.ycombinator.com/item?id=44211971
+  id: 44211971
+  score: 0
+  title: Plants hear their pollinators, and produce sweet nectar in response
+  url: https://www.cbc.ca/listen/live-radio/1-51-quirks-and-quarks/clip/16150976-plants-hear-pollinators-produce-sweet-nectar-response
+- by: unknown
+  comments: 228
+  domain: crawshaw.io
+  hn_url: https://news.ycombinator.com/item?id=44221655
+  id: 44221655
+  score: 0
+  title: How I Program with Agents
+  url: https://crawshaw.io/blog/programming-with-agents
+- by: unknown
+  comments: 3
+  domain: endbasic.dev
+  hn_url: https://news.ycombinator.com/item?id=44253065
+  id: 44253065
+  score: 0
+  title: Unveiling the EndBOX – A microcomputer prototype for EndBASIC
+  url: https://www.endbasic.dev/2025/06/unveiling-the-endbox.html

@@ -1,0 +1,83 @@
+date: '2025-06-03'
+stories:
+- by: unknown
+  comments: 1371
+  domain: fly.io
+  hn_url: https://news.ycombinator.com/item?id=44163063
+  id: 44163063
+  score: 0
+  title: My AI skeptic friends are all nuts
+  url: https://fly.io/blog/youre-all-nuts/
+- by: unknown
+  comments: 0
+  domain: resobscura.substack.com
+  hn_url: https://news.ycombinator.com/item?id=44166102
+  id: 44166102
+  score: 0
+  title: AI makes the humanities more important, but also weirder
+  url: https://resobscura.substack.com/p/ai-makes-the-humanities-more-important
+- by: unknown
+  comments: 311
+  domain: github.com
+  hn_url: https://news.ycombinator.com/item?id=44159166
+  id: 44159166
+  score: 0
+  title: Cloudlflare builds OAuth with Claude and publishes all the prompts
+  url: https://github.com/cloudflare/workers-oauth-provider/
+- by: unknown
+  comments: 24
+  domain: rnz.co.nz
+  hn_url: https://news.ycombinator.com/item?id=44166033
+  id: 44166033
+  score: 0
+  title: IT workers struggling in New Zealand's tight job market
+  url: https://www.rnz.co.nz/news/chinese/562914/it-workers-struggling-in-new-zealand-s-tight-job-market
+- by: unknown
+  comments: 23
+  domain: mongodb.com
+  hn_url: https://news.ycombinator.com/item?id=44163496
+  id: 44163496
+  score: 0
+  title: 'Conformance checking at MongoDB: Testing that our code matches our TLA+
+    specs'
+  url: https://www.mongodb.com/blog/post/engineering/conformance-checking-at-mongodb-testing-our-code-matches-our-tla-specs
+- by: unknown
+  comments: 34
+  domain: absurd.website
+  hn_url: https://news.ycombinator.com/item?id=44162363
+  id: 44162363
+  score: 0
+  title: 'Show HN: I build one absurd web project every month'
+  url: https://absurd.website
+- by: unknown
+  comments: 65
+  domain: github.com
+  hn_url: https://news.ycombinator.com/item?id=44159758
+  id: 44159758
+  score: 0
+  title: 'Show HN: A toy version of Wireshark (student project)'
+  url: https://github.com/lixiasky/vanta
+- by: unknown
+  comments: 164
+  domain: github.com
+  hn_url: https://news.ycombinator.com/item?id=44157177
+  id: 44157177
+  score: 0
+  title: 'Show HN: Kan.bn – An open-source alterative to Trello'
+  url: https://github.com/kanbn/kan
+- by: unknown
+  comments: 7
+  domain: monperrus.net
+  hn_url: https://news.ycombinator.com/item?id=44142565
+  id: 44142565
+  score: 0
+  title: How to Store Data on Paper?
+  url: https://www.monperrus.net/martin/store-data-paper
+- by: unknown
+  comments: 4
+  domain: dafny.org
+  hn_url: https://news.ycombinator.com/item?id=44163618
+  id: 44163618
+  score: 0
+  title: Teaching Program Verification in Dafny at Amazon (2023)
+  url: https://dafny.org/blog/2023/12/15/teaching-program-verification-in-dafny-at-amazon/

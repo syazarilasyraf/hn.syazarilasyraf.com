@@ -1,0 +1,82 @@
+date: '2025-08-03'
+stories:
+- by: unknown
+  comments: 2
+  domain: ioccc.org
+  hn_url: https://news.ycombinator.com/item?id=44774104
+  id: 44774104
+  score: 0
+  title: 28th International Obfuscated C Code Contest
+  url: https://www.ioccc.org/2024/index.html
+- by: unknown
+  comments: 18
+  domain: reachablecode.com
+  hn_url: https://news.ycombinator.com/item?id=44772917
+  id: 44772917
+  score: 0
+  title: C++26 Reflections adventures and compile-time UML
+  url: https://www.reachablecode.com/2025/07/31/c26-reflections-adventures-compile-time-uml/
+- by: unknown
+  comments: 300
+  domain: helsinkitimes.fi
+  hn_url: https://news.ycombinator.com/item?id=44736025
+  id: 44736025
+  score: 0
+  title: Helsinki records zero traffic deaths for full year
+  url: https://www.helsinkitimes.fi/finland/finland-news/domestic/27539-helsinki-records-zero-traffic-deaths-for-full-year.html
+- by: unknown
+  comments: 436
+  domain: telotrucks.com
+  hn_url: https://news.ycombinator.com/item?id=44769039
+  id: 44769039
+  score: 0
+  title: Telo MT1
+  url: https://www.telotrucks.com/
+- by: unknown
+  comments: 0
+  domain: tannerhoelzel.com
+  hn_url: https://news.ycombinator.com/item?id=44773919
+  id: 44773919
+  score: 0
+  title: Writing a basic service for GNU Guix
+  url: https://tannerhoelzel.com/gnu-shepherd-simple-service.html
+- by: unknown
+  comments: 2
+  domain: blocksandfiles.com
+  hn_url: https://news.ycombinator.com/item?id=44739944
+  id: 44739944
+  score: 0
+  title: Micron rolls out 276-layer SSD trio for speed, scale, and stability
+  url: https://blocksandfiles.com/2025/07/30/micron-three-276-layer-ssds/
+- by: unknown
+  comments: 340
+  domain: blog.puzzmo.com
+  hn_url: https://news.ycombinator.com/item?id=44746621
+  id: 44746621
+  score: 0
+  title: 6 weeks of Claude Code
+  url: https://blog.puzzmo.com/posts/2025/07/30/six-weeks-of-claude-code/
+- by: unknown
+  comments: 51
+  domain: github.com
+  hn_url: https://news.ycombinator.com/item?id=44772177
+  id: 44772177
+  score: 0
+  title: HTML-in-Canvas
+  url: https://github.com/WICG/html-in-canvas
+- by: unknown
+  comments: 123
+  domain: techcrunch.com
+  hn_url: https://news.ycombinator.com/item?id=44771808
+  id: 44771808
+  score: 0
+  title: Lina Khan points to Figma IPO as vindication of M&A scrutiny
+  url: https://techcrunch.com/2025/08/02/lina-khan-points-to-figma-ipo-as-vindication-for-ma-scrutiny/
+- by: unknown
+  comments: 0
+  domain: sabrina.dev
+  hn_url: https://news.ycombinator.com/item?id=44774121
+  id: 44774121
+  score: 0
+  title: Useful AI coding guide with Claude Code
+  url: https://www.sabrina.dev/p/ultimate-ai-coding-guide-claude-code

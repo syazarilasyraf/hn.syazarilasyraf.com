@@ -1,0 +1,82 @@
+date: '2025-12-15'
+stories:
+- by: unknown
+  comments: 13
+  domain: en.jardineriaon.com
+  hn_url: https://news.ycombinator.com/item?id=46178966
+  id: 46178966
+  score: 0
+  title: Rio de Janeiro's talipot palm trees bloom for the first and only time
+  url: https://en.jardineriaon.com/The-talipot-palm-trees-of-Rio-de-Janeiro-bloom-for-the-first-and-only-time.html
+- by: unknown
+  comments: 0
+  domain: readsomethingwonderful.com
+  hn_url: https://news.ycombinator.com/item?id=46270415
+  id: 46270415
+  score: 0
+  title: Read Something Wonderful
+  url: https://readsomethingwonderful.com/
+- by: unknown
+  comments: 1
+  domain: arborium.bearcove.eu
+  hn_url: https://news.ycombinator.com/item?id=46270298
+  id: 46270298
+  score: 0
+  title: 'Arborium: Tree-sitter code highlighting with Native and WASM targets'
+  url: https://arborium.bearcove.eu/
+- by: unknown
+  comments: 0
+  domain: thenewstack.io
+  hn_url: https://news.ycombinator.com/item?id=46265362
+  id: 46265362
+  score: 0
+  title: 'Adafruit: Arduino’s Rules Are ‘Incompatible With Open Source’'
+  url: https://thenewstack.io/adafruit-arduinos-rules-are-incompatible-with-open-source/
+- by: unknown
+  comments: 22
+  domain: capros.org
+  hn_url: https://news.ycombinator.com/item?id=46268869
+  id: 46268869
+  score: 0
+  title: 'CapROS: Capability-Based Reliable Operating System'
+  url: https://www.capros.org/
+- by: unknown
+  comments: 1
+  domain: floggingbabel.blogspot.com
+  hn_url: https://news.ycombinator.com/item?id=46269991
+  id: 46269991
+  score: 0
+  title: John Varley has died
+  url: http://floggingbabel.blogspot.com/2025/12/john-varley-1947-2025.html
+- by: unknown
+  comments: 137
+  domain: status.claude.com
+  hn_url: https://news.ycombinator.com/item?id=46267385
+  id: 46267385
+  score: 0
+  title: Elevated errors across many models
+  url: https://status.claude.com/incidents/9g6qpr72ttbr
+- by: unknown
+  comments: 162
+  domain: culi.bearblog.dev
+  hn_url: https://news.ycombinator.com/item?id=46266102
+  id: 46266102
+  score: 0
+  title: JSDoc is TypeScript
+  url: https://culi.bearblog.dev/jsdoc-is-typescript/
+- by: unknown
+  comments: 127
+  domain: borretti.me
+  hn_url: https://news.ycombinator.com/item?id=46264492
+  id: 46264492
+  score: 0
+  title: 'Hashcards: A plain-text spaced repetition system'
+  url: https://borretti.me/article/hashcards-plain-text-spaced-repetition
+- by: unknown
+  comments: 21
+  domain: im-just-lee.ing
+  hn_url: https://news.ycombinator.com/item?id=46186914
+  id: 46186914
+  score: 0
+  title: An attempt to articulate Forth's practical strengths and eternal usefulness
+  url: https://im-just-lee.ing/forth-why-cb234c03.txt

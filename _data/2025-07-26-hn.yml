@@ -1,0 +1,83 @@
+date: '2025-07-26'
+stories:
+- by: unknown
+  comments: 335
+  domain: idiallo.com
+  hn_url: https://news.ycombinator.com/item?id=44689059
+  id: 44689059
+  score: 0
+  title: Do not download the app, use the website
+  url: https://idiallo.com/blog/dont-download-apps
+- by: unknown
+  comments: 206
+  domain: jonoalderson.com
+  hn_url: https://news.ycombinator.com/item?id=44688489
+  id: 44688489
+  score: 0
+  title: It's time for modern CSS to kill the SPA
+  url: https://www.jonoalderson.com/conjecture/its-time-for-modern-css-to-kill-the-spa/
+- by: unknown
+  comments: 10
+  domain: smithsonianmag.com
+  hn_url: https://news.ycombinator.com/item?id=44690911
+  id: 44690911
+  score: 0
+  title: CCTV Footage Captures the First-Ever Video of an Earthquake Fault in Motion
+  url: https://www.smithsonianmag.com/smart-news/cctv-footage-captures-the-first-ever-video-of-an-earthquake-fault-in-motion-shining-a-rare-light-on-seismic-dynamics-180987034/
+- by: unknown
+  comments: 228
+  domain: news.sparkfun.com
+  hn_url: https://news.ycombinator.com/item?id=44682964
+  id: 44682964
+  score: 0
+  title: It's a DE9, not a DB9 (but we know what you mean)
+  url: https://news.sparkfun.com/14298
+- by: unknown
+  comments: 179
+  domain: zachleat.com
+  hn_url: https://news.ycombinator.com/item?id=44685875
+  id: 44685875
+  score: 0
+  title: Never write your own date parsing library
+  url: https://www.zachleat.com/web/adventures-in-date-parsing/
+- by: unknown
+  comments: 100
+  domain: tailwindcss.com
+  hn_url: https://news.ycombinator.com/item?id=44686317
+  id: 44686317
+  score: 0
+  title: Vanilla JavaScript support for Tailwind Plus
+  url: https://tailwindcss.com/blog/vanilla-js-support-for-tailwind-plus
+- by: unknown
+  comments: 181
+  domain: wisdomandwonder.com
+  hn_url: https://news.ycombinator.com/item?id=44685119
+  id: 44685119
+  score: 0
+  title: Why MIT switched from Scheme to Python (2009)
+  url: https://www.wisdomandwonder.com/link/2110/why-mit-switched-from-scheme-to-python
+- by: unknown
+  comments: 304
+  domain: twitter.com
+  hn_url: https://news.ycombinator.com/item?id=44673296
+  id: 44673296
+  score: 0
+  title: 'Windsurf employee #2: I was given a payout of only 1% what my shares where
+    worth'
+  url: https://twitter.com/premqnair/status/1948420769945682413
+- by: unknown
+  comments: 61
+  domain: morethanmoore.substack.com
+  hn_url: https://news.ycombinator.com/item?id=44685050
+  id: 44685050
+  score: 0
+  title: Efficient Computer's Electron E1 CPU – 100x more efficient than Arm?
+  url: https://morethanmoore.substack.com/p/efficient-computers-electron-e1-cpu
+- by: unknown
+  comments: 87
+  domain: arstechnica.com
+  hn_url: https://news.ycombinator.com/item?id=44688096
+  id: 44688096
+  score: 0
+  title: Experimental surgery performed by AI-driven surgical robot
+  url: https://arstechnica.com/science/2025/07/experimental-surgery-performed-by-ai-driven-surgical-robot/

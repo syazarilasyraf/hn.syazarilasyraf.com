@@ -1,0 +1,83 @@
+date: '2025-09-10'
+stories:
+- by: unknown
+  comments: 24
+  domain: joshfonseca.com
+  hn_url: https://news.ycombinator.com/item?id=45192655
+  id: 45192655
+  score: 0
+  title: I replaced Animal Crossing's dialogue with a live LLM by hacking GameCube
+    memory
+  url: https://joshfonseca.com/blogs/animal-crossing-llm
+- by: unknown
+  comments: 1271
+  domain: apple.com
+  hn_url: https://news.ycombinator.com/item?id=45186015
+  id: 45186015
+  score: 0
+  title: iPhone Air
+  url: https://www.apple.com/newsroom/2025/09/introducing-iphone-air-a-powerful-new-iphone-with-a-breakthrough-design/
+- by: unknown
+  comments: 94
+  domain: spectrum.ieee.org
+  hn_url: https://news.ycombinator.com/item?id=45185756
+  id: 45185756
+  score: 0
+  title: E-paper display reaches the realm of LCD screens
+  url: https://spectrum.ieee.org/e-paper-display-modos
+- by: unknown
+  comments: 64
+  domain: mahesh-hegde.github.io
+  hn_url: https://news.ycombinator.com/item?id=45156414
+  id: 45156414
+  score: 0
+  title: Things you can do with a debugger but not with print debugging
+  url: https://mahesh-hegde.github.io/posts/what_debugger_can/
+- by: unknown
+  comments: 7
+  domain: sciencedaily.com
+  hn_url: https://news.ycombinator.com/item?id=45191347
+  id: 45191347
+  score: 0
+  title: NASA finds Titan's lakes may be creating vesicles with primitive cell walls
+  url: https://www.sciencedaily.com/releases/2025/08/250831112449.htm
+- by: unknown
+  comments: 271
+  domain: anthropic.com
+  hn_url: https://news.ycombinator.com/item?id=45182381
+  id: 45182381
+  score: 0
+  title: Claude now has access to a server-side container environment
+  url: https://www.anthropic.com/news/create-files
+- by: unknown
+  comments: 351
+  domain: xeiaso.net
+  hn_url: https://news.ycombinator.com/item?id=45183029
+  id: 45183029
+  score: 0
+  title: We all dodged a bullet
+  url: https://xeiaso.net/notes/2025/we-dodged-a-bullet/
+- by: unknown
+  comments: 20
+  domain: en.wikipedia.org
+  hn_url: https://news.ycombinator.com/item?id=45154142
+  id: 45154142
+  score: 0
+  title: Axial twist theory
+  url: https://en.wikipedia.org/wiki/Axial_twist_theory
+- by: unknown
+  comments: 454
+  domain: apnews.com
+  hn_url: https://news.ycombinator.com/item?id=45182657
+  id: 45182657
+  score: 0
+  title: US High school students' scores fall in reading and math
+  url: https://apnews.com/article/naep-reading-math-scores-12th-grade-c18d6e3fbc125f12948cc70cb85a520a
+- by: unknown
+  comments: 167
+  domain: security.apple.com
+  hn_url: https://news.ycombinator.com/item?id=45186265
+  id: 45186265
+  score: 0
+  title: Memory Integrity Enforcement
+  url: https://security.apple.com/blog/memory-integrity-enforcement/

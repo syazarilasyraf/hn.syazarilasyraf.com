@@ -1,0 +1,74 @@
+date: '2025-07-11'
+stories:
+- by: unknown
+  comments: 18
+  domain: github.com
+  hn_url: https://news.ycombinator.com/item?id=44526015
+  id: 44526015
+  score: 0
+  title: 'Show HN: Pangolin – Open source alternative to Cloudflare Tunnels'
+  url: https://github.com/fosrl/pangolin
+- by: unknown
+  comments: 135
+  domain: recall.ai
+  hn_url: https://news.ycombinator.com/item?id=44490510
+  id: 44490510
+  score: 0
+  title: Postgres LISTEN/NOTIFY does not scale
+  url: https://www.recall.ai/blog/postgres-listen-notify-does-not-scale
+- by: unknown
+  comments: 18
+  domain: developers.googleblog.com
+  hn_url: https://news.ycombinator.com/item?id=44492014
+  id: 44492014
+  score: 0
+  title: 'Batch Mode in the Gemini API: Process More for Less'
+  url: https://developers.googleblog.com/en/scale-your-ai-workloads-batch-mode-gemini-api/
+- by: unknown
+  comments: 25
+  domain: abc.net.au
+  hn_url: https://news.ycombinator.com/item?id=44528204
+  id: 44528204
+  score: 0
+  title: Australia is quietly introducing age checks for search engines like Google
+  url: https://www.abc.net.au/news/2025-07-11/age-verification-search-engines/105516256
+- by: unknown
+  comments: 81
+  domain: core77.com
+  hn_url: https://news.ycombinator.com/item?id=44490308
+  id: 44490308
+  score: 0
+  title: 'The ChompSaw: A Benchtop Power Tool That''s Safe for Kids to Use'
+  url: https://www.core77.com/posts/137602/The-ChompSaw-A-Benchtop-Power-Tool-Thats-Safe-for-Kids-to-Use
+- by: unknown
+  comments: 43
+  domain: foks.pub
+  hn_url: https://news.ycombinator.com/item?id=44520419
+  id: 44520419
+  score: 0
+  title: 'FOKS: Federated Open Key Service'
+  url: https://foks.pub/
+- by: unknown
+  comments: 15
+  domain: graphicallinearalgebra.net
+  hn_url: https://news.ycombinator.com/item?id=44522505
+  id: 44522505
+  score: 0
+  title: Graphical Linear Algebra
+  url: https://graphicallinearalgebra.net/
+- by: unknown
+  comments: 97
+  domain: flix.dev
+  hn_url: https://news.ycombinator.com/item?id=44521224
+  id: 44521224
+  score: 0
+  title: Flix – A powerful effect-oriented programming language
+  url: https://flix.dev/
+- by: unknown
+  comments: 361
+  domain: metr.org
+  hn_url: https://news.ycombinator.com/item?id=44522772
+  id: 44522772
+  score: 0
+  title: Measuring the impact of AI on experienced open-source developer productivity
+  url: https://metr.org/blog/2025-07-10-early-2025-ai-experienced-os-dev-study/

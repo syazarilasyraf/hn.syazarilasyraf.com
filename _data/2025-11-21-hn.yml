@@ -1,0 +1,74 @@
+date: '2025-11-21'
+stories:
+- by: unknown
+  comments: 562
+  domain: blog.google
+  hn_url: https://news.ycombinator.com/item?id=45993296
+  id: 45993296
+  score: 0
+  title: Nano Banana Pro
+  url: https://blog.google/technology/ai/nano-banana-pro/
+- by: unknown
+  comments: 328
+  domain: blog.google
+  hn_url: https://news.ycombinator.com/item?id=45994854
+  id: 45994854
+  score: 0
+  title: Android and iPhone users can now share files, starting with the Pixel 10
+  url: https://blog.google/products/android/quick-share-airdrop/
+- by: unknown
+  comments: 37
+  domain: fex-emu.com
+  hn_url: https://news.ycombinator.com/item?id=45905850
+  id: 45905850
+  score: 0
+  title: FEX-emu – Run x86 applications on ARM64 Linux devices
+  url: https://fex-emu.com/
+- by: unknown
+  comments: 45
+  domain: rochester.edu
+  hn_url: https://news.ycombinator.com/item?id=45999872
+  id: 45999872
+  score: 0
+  title: Why top firms fire good workers
+  url: https://www.rochester.edu/newscenter/employee-turnover-why-top-firms-churn-good-workers-681832/
+- by: unknown
+  comments: 64
+  domain: blueorigin.com
+  hn_url: https://news.ycombinator.com/item?id=45997914
+  id: 45997914
+  score: 0
+  title: New Glenn Update
+  url: https://www.blueorigin.com/news/new-glenn-upgraded-engines-subcooled-components-drive-enhanced-performance
+- by: unknown
+  comments: 31
+  domain: semicomplete.com
+  hn_url: https://news.ycombinator.com/item?id=45942109
+  id: 45942109
+  score: 0
+  title: Exploring the Fragmentation of Wayland, an xdotool adventure
+  url: https://www.semicomplete.com/blog/xdotool-and-exploring-wayland-fragmentation/
+- by: unknown
+  comments: 151
+  domain: rein.pk
+  hn_url: https://news.ycombinator.com/item?id=45999038
+  id: 45999038
+  score: 0
+  title: Over-regulation is doubling the cost
+  url: https://rein.pk/over-regulation-is-doubling-the-cost
+- by: unknown
+  comments: 72
+  domain: github.com
+  hn_url: https://news.ycombinator.com/item?id=45997212
+  id: 45997212
+  score: 0
+  title: New OS aims to provide (some) compatibility with macOS
+  url: https://github.com/ravynsoft/ravynos
+- by: unknown
+  comments: 16
+  domain: duckdb.org
+  hn_url: https://news.ycombinator.com/item?id=45996585
+  id: 45996585
+  score: 0
+  title: Data-at-Rest Encryption in DuckDB
+  url: https://duckdb.org/2025/11/19/encryption-in-duckdb

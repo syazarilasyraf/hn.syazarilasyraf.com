@@ -1,0 +1,74 @@
+date: '2025-11-01'
+stories:
+- by: unknown
+  comments: 30
+  domain: blog.shashanktomar.com
+  hn_url: https://news.ycombinator.com/item?id=45777810
+  id: 45777810
+  score: 0
+  title: 'Show HN: Strange Attractors'
+  url: https://blog.shashanktomar.com/posts/strange-attractors
+- by: unknown
+  comments: 11
+  domain: linear.app
+  hn_url: https://news.ycombinator.com/item?id=45778984
+  id: 45778984
+  score: 0
+  title: The Profitable Startup
+  url: https://linear.app/now/the-profitable-startup
+- by: unknown
+  comments: 19
+  domain: github.com
+  hn_url: https://news.ycombinator.com/item?id=45777682
+  id: 45777682
+  score: 0
+  title: 'S.A.R.C.A.S.M: Slightly Annoying Rubik''s Cube Automatic Solving Machine'
+  url: https://github.com/vindar/SARCASM
+- by: unknown
+  comments: 128
+  domain: rfd.shared.oxide.computer
+  hn_url: https://news.ycombinator.com/item?id=45774086
+  id: 45774086
+  score: 0
+  title: 'Futurelock: A subtle risk in async Rust'
+  url: https://rfd.shared.oxide.computer/rfd/0609
+- by: unknown
+  comments: 15
+  domain: bikeshed.com
+  hn_url: https://news.ycombinator.com/item?id=45686678
+  id: 45686678
+  score: 0
+  title: Why Should I Care What Color the Bikeshed Is?
+  url: https://www.bikeshed.com/
+- by: unknown
+  comments: 0
+  domain: groups.google.com
+  hn_url: https://news.ycombinator.com/item?id=45779261
+  id: 45779261
+  score: 0
+  title: 'Intent to Deprecate and Remove: Deprecate and Remove XSLT'
+  url: https://groups.google.com/a/chromium.org/g/blink-dev/c/CxL4gYZeSJA/m/yNs4EsD5AQAJ
+- by: unknown
+  comments: 118
+  domain: discourse.ubuntu.com
+  hn_url: https://news.ycombinator.com/item?id=45758392
+  id: 45758392
+  score: 0
+  title: Introducing architecture variants
+  url: https://discourse.ubuntu.com/t/introducing-architecture-variants-amd64v3-now-available-in-ubuntu-25-10/71312
+- by: unknown
+  comments: 198
+  domain: thebignewsletter.com
+  hn_url: https://news.ycombinator.com/item?id=45774640
+  id: 45774640
+  score: 0
+  title: Addiction Markets
+  url: https://www.thebignewsletter.com/p/addiction-markets-abolish-corporate
+- by: unknown
+  comments: 202
+  domain: michael.stapelberg.ch
+  hn_url: https://news.ycombinator.com/item?id=45770304
+  id: 45770304
+  score: 0
+  title: My Impressions of the MacBook Pro M4
+  url: https://michael.stapelberg.ch/posts/2025-10-31-macbook-pro-m4-impressions/

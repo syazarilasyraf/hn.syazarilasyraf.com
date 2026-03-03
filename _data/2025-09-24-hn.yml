@@ -1,0 +1,82 @@
+date: '2025-09-24'
+stories:
+- by: unknown
+  comments: 144
+  domain: larian.com
+  hn_url: https://news.ycombinator.com/item?id=45354644
+  id: 45354644
+  score: 0
+  title: Baldur's Gate 3 Steam Deck – Native Version
+  url: https://larian.com/support/faqs/steam-deck-native-version_121
+- by: unknown
+  comments: 358
+  domain: walzr.com
+  hn_url: https://news.ycombinator.com/item?id=45350690
+  id: 45350690
+  score: 0
+  title: Find SF parking cops
+  url: https://walzr.com/sf-parking/
+- by: unknown
+  comments: 180
+  domain: mitchellh.com
+  hn_url: https://news.ycombinator.com/item?id=45347117
+  id: 45347117
+  score: 0
+  title: Libghostty is coming
+  url: https://mitchellh.com/writing/libghostty-is-coming
+- by: unknown
+  comments: 59
+  domain: qwen.ai
+  hn_url: https://news.ycombinator.com/item?id=45352672
+  id: 45352672
+  score: 0
+  title: Qwen3-VL
+  url: https://qwen.ai/blog?id=99f0335c4ad9ff6153e517418d48535ab6d8afef&from=research.latest-advancements-list
+- by: unknown
+  comments: 0
+  domain: github.com
+  hn_url: https://news.ycombinator.com/item?id=45355514
+  id: 45355514
+  score: 0
+  title: Quadratic memory reductions for Zero-knowledge Proofs
+  url: https://github.com/logannye/space-efficient-zero-knowledge-proofs
+- by: unknown
+  comments: 113
+  domain: elijahpotter.dev
+  hn_url: https://news.ycombinator.com/item?id=45304980
+  id: 45304980
+  score: 0
+  title: Markov chains are the original language models
+  url: https://elijahpotter.dev/articles/markov_chains_are_the_original_language_models
+- by: unknown
+  comments: 24
+  domain: questdb.com
+  hn_url: https://news.ycombinator.com/item?id=45352944
+  id: 45352944
+  score: 0
+  title: 'From Rust to reality: The hidden journey of fetch_max'
+  url: https://questdb.com/blog/rust-fetch-max-compiler-journey/
+- by: unknown
+  comments: 67
+  domain: spectrum.ieee.org
+  hn_url: https://news.ycombinator.com/item?id=45354314
+  id: 45354314
+  score: 0
+  title: Top Programming Languages 2025
+  url: https://spectrum.ieee.org/top-programming-languages-2025
+- by: unknown
+  comments: 257
+  domain: github.com
+  hn_url: https://news.ycombinator.com/item?id=45347532
+  id: 45347532
+  score: 0
+  title: Getting AI to work in complex codebases
+  url: https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/ace-fca.md
+- by: unknown
+  comments: 6
+  domain: git.hq.sig7.se
+  hn_url: https://news.ycombinator.com/item?id=45355462
+  id: 45355462
+  score: 0
+  title: 'Zutty: Zero-cost Unicode Teletype, high-end terminal for low-end systems'
+  url: https://git.hq.sig7.se/zutty.git

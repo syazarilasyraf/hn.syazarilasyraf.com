@@ -1,0 +1,82 @@
+date: '2026-01-24'
+stories:
+- by: unknown
+  comments: 121
+  domain: openai.com
+  hn_url: https://news.ycombinator.com/item?id=46737630
+  id: 46737630
+  score: 0
+  title: Unrolling the Codex agent loop
+  url: https://openai.com/index/unrolling-the-codex-agent-loop/
+- by: unknown
+  comments: 3
+  domain: tbray.org
+  hn_url: https://news.ycombinator.com/item?id=46679802
+  id: 46679802
+  score: 0
+  title: Losing 1½ Million Lines of Go
+  url: https://www.tbray.org/ongoing/When/202x/2026/01/14/Unicode-Properties
+- by: unknown
+  comments: 31
+  domain: unix.dog
+  hn_url: https://news.ycombinator.com/item?id=46676125
+  id: 46676125
+  score: 0
+  title: Some C habits I employ for the modern day
+  url: https://www.unix.dog/~yosh/blog/c-habits-for-me.html
+- by: unknown
+  comments: 3
+  domain: blog.dshr.org
+  hn_url: https://news.ycombinator.com/item?id=46694618
+  id: 46694618
+  score: 0
+  title: Internet Archive's Storage
+  url: https://blog.dshr.org/2026/01/internet-archives-storage.html
+- by: unknown
+  comments: 101
+  domain: ycombinator.com
+  hn_url: https://news.ycombinator.com/item?id=46735644
+  id: 46735644
+  score: 0
+  title: New YC homepage
+  url: https://www.ycombinator.com/
+- by: unknown
+  comments: 294
+  domain: maggieappleton.com
+  hn_url: https://news.ycombinator.com/item?id=46734302
+  id: 46734302
+  score: 0
+  title: Gas Town's agent patterns, design bottlenecks, and vibecoding at scale
+  url: https://maggieappleton.com/gastown
+- by: unknown
+  comments: 37
+  domain: sec.gov
+  hn_url: https://news.ycombinator.com/item?id=46740644
+  id: 46740644
+  score: 0
+  title: Caroline Ellison Former Alameda CEO Released from Prison After 440 Days
+  url: https://www.sec.gov/enforcement-litigation/litigation-releases/lr-26450
+- by: unknown
+  comments: 484
+  domain: techcrunch.com
+  hn_url: https://news.ycombinator.com/item?id=46735545
+  id: 46735545
+  score: 0
+  title: Microsoft gave FBI set of BitLocker encryption keys to unlock suspects' laptops
+  url: https://techcrunch.com/2026/01/23/microsoft-gave-fbi-a-set-of-bitlocker-encryption-keys-to-unlock-suspects-laptops-reports/
+- by: unknown
+  comments: 248
+  domain: proofofcorn.com
+  hn_url: https://news.ycombinator.com/item?id=46735511
+  id: 46735511
+  score: 0
+  title: Proof of Corn
+  url: https://proofofcorn.com/
+- by: unknown
+  comments: 34
+  domain: blog.cloudflare.com
+  hn_url: https://news.ycombinator.com/item?id=46735489
+  id: 46735489
+  score: 0
+  title: Route leak incident on January 22, 2026
+  url: https://blog.cloudflare.com/route-leak-incident-january-22-2026/

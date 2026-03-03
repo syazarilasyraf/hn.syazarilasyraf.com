@@ -1,0 +1,82 @@
+date: '2025-08-16'
+stories:
+- by: unknown
+  comments: 29
+  domain: putty.software
+  hn_url: https://news.ycombinator.com/item?id=44919891
+  id: 44919891
+  score: 0
+  title: PuTTY has a new website
+  url: https://putty.software/
+- by: unknown
+  comments: 111
+  domain: tylercipriani.com
+  hn_url: https://news.ycombinator.com/item?id=44916783
+  id: 44916783
+  score: 0
+  title: The future of large files in Git is Git
+  url: https://tylercipriani.com/blog/2025/08/15/git-lfs/
+- by: unknown
+  comments: 136
+  domain: antirez.com
+  hn_url: https://news.ycombinator.com/item?id=44892283
+  id: 44892283
+  score: 0
+  title: AI is different
+  url: https://www.antirez.com/news/155
+- by: unknown
+  comments: 7
+  domain: userjot.com
+  hn_url: https://news.ycombinator.com/item?id=44919647
+  id: 44919647
+  score: 0
+  title: Best Practices for Building Agentic AI Systems
+  url: https://userjot.com/blog/best-practices-building-agentic-ai-systems
+- by: unknown
+  comments: 52
+  domain: drobinin.com
+  hn_url: https://news.ycombinator.com/item?id=44910865
+  id: 44910865
+  score: 0
+  title: I accidentally became PureGym’s unofficial Apple Wallet developer
+  url: https://drobinin.com/posts/how-i-accidentally-became-puregyms-unofficial-apple-wallet-developer/
+- by: unknown
+  comments: 92
+  domain: edka.io
+  hn_url: https://news.ycombinator.com/item?id=44915164
+  id: 44915164
+  score: 0
+  title: 'Show HN: Edka – Kubernetes clusters on your own Hetzner account'
+  url: https://edka.io
+- by: unknown
+  comments: 142
+  domain: openculture.com
+  hn_url: https://news.ycombinator.com/item?id=44914061
+  id: 44914061
+  score: 0
+  title: Occult books digitized and put online by Amsterdam’s Ritman Library
+  url: https://www.openculture.com/2025/08/2178-occult-books-now-digitized-put-online.html
+- by: unknown
+  comments: 91
+  domain: paulgraham.com
+  hn_url: https://news.ycombinator.com/item?id=44913359
+  id: 44913359
+  score: 0
+  title: Do Things That Don't Scale (2013)
+  url: https://paulgraham.com/ds.html
+- by: unknown
+  comments: 107
+  domain: flak.tedunangst.com
+  hn_url: https://news.ycombinator.com/item?id=44915824
+  id: 44915824
+  score: 0
+  title: OpenBSD is so fast, I had to modify the program slightly to measure itself
+  url: https://flak.tedunangst.com/post/is-OpenBSD-10x-faster-than-Linux
+- by: unknown
+  comments: 238
+  domain: sfchronicle.com
+  hn_url: https://news.ycombinator.com/item?id=44917835
+  id: 44917835
+  score: 0
+  title: California unemployment rises to 5.5%, worst in the U.S. as tech falters
+  url: https://www.sfchronicle.com/california/article/unemployment-rate-rises-tech-20819276.php

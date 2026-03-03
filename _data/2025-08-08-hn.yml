@@ -1,0 +1,83 @@
+date: '2025-08-08'
+stories:
+- by: unknown
+  comments: 1881
+  domain: openai.com
+  hn_url: https://news.ycombinator.com/item?id=44826997
+  id: 44826997
+  score: 0
+  title: GPT-5
+  url: https://openai.com/gpt-5/
+- by: unknown
+  comments: 122
+  domain: gist.github.com
+  hn_url: https://news.ycombinator.com/item?id=44832990
+  id: 44832990
+  score: 0
+  title: GPT-5 leaked system prompt
+  url: https://gist.github.com/maoxiaoke/f6d5b28f9104cd856a2622a084f46fd7
+- by: unknown
+  comments: 122
+  domain: rtl-sdr.com
+  hn_url: https://news.ycombinator.com/item?id=44830408
+  id: 44830408
+  score: 0
+  title: Flipper Zero dark web firmware bypasses rolling code security
+  url: https://www.rtl-sdr.com/flipperzero-darkweb-firmware-bypasses-rolling-code-security/
+- by: unknown
+  comments: 3
+  domain: notes.eatonphil.com
+  hn_url: https://news.ycombinator.com/item?id=44783368
+  id: 44783368
+  score: 0
+  title: 'Writing a storage engine for Postgres: An in-memory table access method
+    (2023)'
+  url: https://notes.eatonphil.com/2023-11-01-postgres-table-access-methods.html
+- by: unknown
+  comments: 63
+  domain: historicaltechtree.com
+  hn_url: https://news.ycombinator.com/item?id=44829185
+  id: 44829185
+  score: 0
+  title: Historical Tech Tree
+  url: https://www.historicaltechtree.com/
+- by: unknown
+  comments: 206
+  domain: simonwillison.net
+  hn_url: https://news.ycombinator.com/item?id=44827794
+  id: 44827794
+  score: 0
+  title: 'GPT-5: Key characteristics, pricing and system card'
+  url: https://simonwillison.net/2025/Aug/7/gpt-5/
+- by: unknown
+  comments: 131
+  domain: cursor.com
+  hn_url: https://news.ycombinator.com/item?id=44830221
+  id: 44830221
+  score: 0
+  title: Cursor CLI
+  url: https://cursor.com/cli
+- by: unknown
+  comments: 110
+  domain: seangoedecke.com
+  hn_url: https://news.ycombinator.com/item?id=44828884
+  id: 44828884
+  score: 0
+  title: OpenAI's new open-source model is basically Phi-5
+  url: https://www.seangoedecke.com/gpt-oss-is-phi-5/
+- by: unknown
+  comments: 3
+  domain: harpers.org
+  hn_url: https://news.ycombinator.com/item?id=44832927
+  id: 44832927
+  score: 0
+  title: The Paranoid Style in American Politics (1964)
+  url: https://harpers.org/archive/1964/11/the-paranoid-style-in-american-politics/
+- by: unknown
+  comments: 202
+  domain: openai.com
+  hn_url: https://news.ycombinator.com/item?id=44827101
+  id: 44827101
+  score: 0
+  title: GPT-5 for Developers
+  url: https://openai.com/index/introducing-gpt-5-for-developers

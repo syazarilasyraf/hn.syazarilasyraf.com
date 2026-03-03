@@ -1,0 +1,45 @@
+---
+layout: none
+---
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Story | Hacker News</title>
+  <link rel="stylesheet" href="{{ site.baseurl }}/css/main.css">
+</head>
+<body>
+  <header class="site-header">
+    <h1 class="site-title"><a href="/">{{ site.title }}</a></h1>
+    <nav class="site-nav">
+      <a href="/">&larr; back to live feed</a>
+    </nav>
+  </header>
+
+  <main id="story-content">
+    <div class="status">
+      <div class="spinner"></div>
+      <p>Loading story...</p>
+    </div>
+  </main>
+
+  <footer class="site-footer">
+    <p>Data from Hacker News API &middot; <a href="https://news.ycombinator.com">news.ycombinator.com</a></p>
+  </footer>
+
+  <script src="{{ site.baseurl }}/assets/js/hn.js"></script>
+  <script>
+    // Get story ID from URL hash (#id) or path /story/:id
+    let storyId = window.location.hash.slice(1);
+    if (!storyId) {
+      const pathParts = window.location.pathname.split('/');
+      storyId = pathParts[pathParts.length - 1] || pathParts[pathParts.length - 2];
+    }
+    
+    // Load the story detail
+    loadStoryDetail(storyId);
+  </script>
+</body>
+</html>

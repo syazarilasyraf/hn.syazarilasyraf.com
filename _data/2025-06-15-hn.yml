@@ -1,0 +1,82 @@
+date: '2025-06-15'
+stories:
+- by: unknown
+  comments: 14
+  domain: seohong.me
+  hn_url: https://news.ycombinator.com/item?id=44279850
+  id: 44279850
+  score: 0
+  title: Q-learning is not yet scalable
+  url: https://seohong.me/blog/q-learning-is-not-yet-scalable/
+- by: unknown
+  comments: 49
+  domain: mathpages.com
+  hn_url: https://news.ycombinator.com/item?id=44279181
+  id: 44279181
+  score: 0
+  title: Infinite Grid of Resistors
+  url: https://www.mathpages.com/home/kmath668/kmath668.htm
+- by: unknown
+  comments: 65
+  domain: github.com
+  hn_url: https://news.ycombinator.com/item?id=44276476
+  id: 44276476
+  score: 0
+  title: I have reimplemented Stable Diffusion 3.5 from scratch in pure PyTorch
+  url: https://github.com/yousef-rafat/miniDiffusion
+- by: unknown
+  comments: 16
+  domain: morethanmoore.substack.com
+  hn_url: https://news.ycombinator.com/item?id=44278746
+  id: 44278746
+  score: 0
+  title: AMD's AI Future Is Rack Scale 'Helios'
+  url: https://morethanmoore.substack.com/p/amds-ai-future-is-rack-scale-helios
+- by: unknown
+  comments: 25
+  domain: righto.com
+  hn_url: https://news.ycombinator.com/item?id=44277051
+  id: 44277051
+  score: 0
+  title: Inside the Apollo “8-Ball” FDAI (Flight Director / Attitude Indicator)
+  url: https://www.righto.com/2025/06/inside-apollo-fdai.html
+- by: unknown
+  comments: 25
+  domain: news.mit.edu
+  hn_url: https://news.ycombinator.com/item?id=44260659
+  id: 44260659
+  score: 0
+  title: Have a damaged painting? Restore it in just hours with an AI-generated "mask"
+  url: https://news.mit.edu/2025/restoring-damaged-paintings-using-ai-generated-mask-0611
+- by: unknown
+  comments: 27
+  domain: esa.int
+  hn_url: https://news.ycombinator.com/item?id=44252717
+  id: 44252717
+  score: 0
+  title: Solar Orbiter gets world-first views of the Sun's poles
+  url: https://www.esa.int/Science_Exploration/Space_Science/Solar_Orbiter/Solar_Orbiter_gets_world-first_views_of_the_Sun_s_poles
+- by: unknown
+  comments: 14
+  domain: luu.io
+  hn_url: https://news.ycombinator.com/item?id=44260964
+  id: 44260964
+  score: 0
+  title: Wrong ways to use the databases, when the pendulum swung too far
+  url: https://www.luu.io/posts/2025-database-pendulum
+- by: unknown
+  comments: 0
+  domain: akpain.net
+  hn_url: https://news.ycombinator.com/item?id=44258665
+  id: 44258665
+  score: 0
+  title: Breaking My Security Assignments
+  url: https://www.akpain.net/blog/breaking-secnet-assignments/
+- by: unknown
+  comments: 18
+  domain: en.wikipedia.org
+  hn_url: https://news.ycombinator.com/item?id=44244675
+  id: 44244675
+  score: 0
+  title: Chicken Eyeglasses
+  url: https://en.wikipedia.org/wiki/Chicken_eyeglasses

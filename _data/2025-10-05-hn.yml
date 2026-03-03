@@ -1,0 +1,83 @@
+date: '2025-10-05'
+stories:
+- by: unknown
+  comments: 111
+  domain: github.com
+  hn_url: https://news.ycombinator.com/item?id=45475529
+  id: 45475529
+  score: 0
+  title: 'ProofOfThought: LLM-based reasoning using Z3 theorem proving'
+  url: https://github.com/DebarghaG/proofofthought
+- by: unknown
+  comments: 140
+  domain: github.com
+  hn_url: https://news.ycombinator.com/item?id=45473861
+  id: 45473861
+  score: 0
+  title: A comparison of Ada and Rust, using solutions to the Advent of Code
+  url: https://github.com/johnperry-math/AoC2023/blob/master/More_Detailed_Comparison.md
+- by: unknown
+  comments: 11
+  domain: github.com
+  hn_url: https://news.ycombinator.com/item?id=45440071
+  id: 45440071
+  score: 0
+  title: 'Newton: physics simulation engine built upon NVIDIA Warp'
+  url: https://github.com/newton-physics/newton
+- by: unknown
+  comments: 47
+  domain: blogfeeds.net
+  hn_url: https://news.ycombinator.com/item?id=45475808
+  id: 45475808
+  score: 0
+  title: Blog Feeds
+  url: https://blogfeeds.net
+- by: unknown
+  comments: 4
+  domain: arxiv.org
+  hn_url: https://news.ycombinator.com/item?id=45477742
+  id: 45477742
+  score: 0
+  title: Space Mission Options for Reconnaissance and Mitigation of Asteroid 2024
+    YR4
+  url: https://arxiv.org/abs/2509.12351
+- by: unknown
+  comments: 10
+  domain: richardsapperdesign.com
+  hn_url: https://news.ycombinator.com/item?id=45477971
+  id: 45477971
+  score: 0
+  title: Mod. 5140 - IBM's First Laptop Computer
+  url: https://richardsapperdesign.com/products/mod-5140/
+- by: unknown
+  comments: 25
+  domain: github.com
+  hn_url: https://news.ycombinator.com/item?id=45477661
+  id: 45477661
+  score: 0
+  title: AI-powered open-source code laundering
+  url: https://github.com/SudoMaker/rEFui/blob/main/HALL_OF_SHAME.md
+- by: unknown
+  comments: 3
+  domain: github.com
+  hn_url: https://news.ycombinator.com/item?id=45478033
+  id: 45478033
+  score: 0
+  title: Parrot – type-safe SQL in Gleam, supports SQlite, PostgreSQL and MySQL
+  url: https://github.com/daniellionel01/parrot
+- by: unknown
+  comments: 0
+  domain: arxiv.org
+  hn_url: https://news.ycombinator.com/item?id=45444062
+  id: 45444062
+  score: 0
+  title: Machine Learnability as a Measure of Order in Aperiodic Sequences
+  url: https://arxiv.org/abs/2509.18103
+- by: unknown
+  comments: 2
+  domain: salykova.github.io
+  hn_url: https://news.ycombinator.com/item?id=45476821
+  id: 45476821
+  score: 0
+  title: Matrix Core Programming on AMD GPUs
+  url: https://salykova.github.io/matrix-cores-cdna

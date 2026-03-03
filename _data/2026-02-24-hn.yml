@@ -1,0 +1,76 @@
+date: '2026-02-24'
+stories:
+- by: unknown
+  comments: 32
+  domain: medicalxpress.com
+  hn_url: https://news.ycombinator.com/item?id=47132388
+  id: 47132388
+  score: 0
+  title: Blood test boosts Alzheimer's diagnosis accuracy to 94.5%, clinical study
+    shows
+  url: https://medicalxpress.com/news/2026-02-blood-boosts-alzheimer-diagnosis-accuracy.html
+- by: unknown
+  comments: 19
+  domain: dork.dev
+  hn_url: https://news.ycombinator.com/item?id=47130860
+  id: 47130860
+  score: 0
+  title: I Ported Coreboot to the ThinkPad X270
+  url: https://dork.dev/posts/2026-02-20-ported-coreboot/
+- by: unknown
+  comments: 13
+  domain: lyra.horse
+  hn_url: https://news.ycombinator.com/item?id=47132102
+  id: 47132102
+  score: 0
+  title: 'Show HN: X86CSS – An x86 CPU emulator written in CSS'
+  url: https://lyra.horse/x86css/
+- by: unknown
+  comments: 1019
+  domain: spectrum.ieee.org
+  hn_url: https://news.ycombinator.com/item?id=47122715
+  id: 47122715
+  score: 0
+  title: 'The Age Verification Trap: Verifying age undermines everyone''s data protection'
+  url: https://spectrum.ieee.org/age-verification
+- by: unknown
+  comments: 10
+  domain: guidelabs.ai
+  hn_url: https://news.ycombinator.com/item?id=47131225
+  id: 47131225
+  score: 0
+  title: 'Show HN: Steerling-8B, a language model that can explain any token it generates'
+  url: https://www.guidelabs.ai/post/steerling-8b-base-model-release/
+- by: unknown
+  comments: 52
+  domain: forums.atariage.com
+  hn_url: https://news.ycombinator.com/item?id=47127986
+  id: 47127986
+  score: 0
+  title: UNIX99, a UNIX-like OS for the TI-99/4A (2025)
+  url: https://forums.atariage.com/topic/380883-unix99-a-unix-like-os-for-the-ti-994a/
+- by: unknown
+  comments: 58
+  domain: writings.stephenwolfram.com
+  hn_url: https://news.ycombinator.com/item?id=47129727
+  id: 47129727
+  score: 0
+  title: Making Wolfram Tech Available as a Foundation Tool for LLM Systems
+  url: https://writings.stephenwolfram.com/2026/02/making-wolfram-tech-available-as-a-foundation-tool-for-llm-systems/
+- by: unknown
+  comments: 2
+  domain: scientificamerican.com
+  hn_url: https://news.ycombinator.com/item?id=47079208
+  id: 47079208
+  score: 0
+  title: Baby chicks pass the bouba-kiki test, challenging a theory of language evolution
+  url: https://www.scientificamerican.com/article/baby-chicks-pass-the-bouba-kiki-test-challenging-a-theory-of-language/
+- by: unknown
+  comments: 0
+  domain: intel.com
+  hn_url: https://news.ycombinator.com/item?id=47132721
+  id: 47132721
+  score: 0
+  title: 'Intel XeSS 3: expanded support for Core Ultra/Core Ultra 2 and Arc A, B
+    series'
+  url: https://www.intel.com/content/www/us/en/download/785597/intel-arc-graphics-windows.html
