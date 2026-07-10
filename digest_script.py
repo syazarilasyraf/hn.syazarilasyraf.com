@@ -139,27 +139,55 @@ def format_email_body(stories, date):
     return "\n".join(lines)
 
 
-def send_to_buttondown(subject, body, api_key):
+def send_to_buttondown(subject, body, api_key, test_recipient=None):
     if not api_key:
         logging.error("BUTTONDOWN_API_KEY is not set. Email will not be sent.")
-        return
+        return False
     try:
+        # Buttondown API version 2026-04-01 changed the email creation behavior:
+        # - 'publish: true' is replaced by 'status: about_to_send'
+        # - The first send with 'about_to_send' requires the confirmation header below.
         response = requests.post(
             "https://api.buttondown.email/v1/emails",
-            headers={"Authorization": f"Token {api_key}"},
+            headers={
+                "Authorization": f"Token {api_key}",
+                "X-Buttondown-Live-Dangerously": "true"
+            },
             json={
                 "subject": subject,
                 "body": body,
-                "publish": True
+                "status": "about_to_send"
             },
             timeout=15
         )
         if response.status_code == 201:
-            logging.info("Email sent successfully to Buttondown")
+            email_id = response.json().get("id")
+            logging.info(f"Email created in Buttondown (id={email_id})")
+
+            if test_recipient:
+                send_response = requests.post(
+                    f"https://api.buttondown.email/v1/emails/{email_id}/send-draft",
+                    headers={"Authorization": f"Token {api_key}"},
+                    json={"recipients": [test_recipient]},
+                    timeout=15
+                )
+                if send_response.status_code in (200, 201, 204):
+                    logging.info(f"Test email sent to {test_recipient}")
+                    return True
+                else:
+                    logging.error(
+                        f"Failed to send test email: {send_response.status_code} {send_response.text}"
+                    )
+                    return False
+
+            logging.info("Email queued for sending to all subscribers")
+            return True
         else:
-            logging.error(f"Failed to send email: {response.status_code} {response.text}")
+            logging.error(f"Failed to create email: {response.status_code} {response.text}")
+            return False
     except Exception as e:
         logging.error(f"Exception while sending email: {e}")
+        return False
 
 
 def main():
@@ -168,6 +196,7 @@ def main():
     parser.add_argument('--timezone', type=str, default='Europe/Budapest', help='Timezone for the digest (default: Europe/Budapest)')
     parser.add_argument('--output-dir', type=str, default='_posts', help='Directory to save the markdown post (default: _posts)')
     parser.add_argument('--no-email', action='store_true', help='Do not send the email newsletter')
+    parser.add_argument('--test-email', type=str, default=None, help='Send the email only to this address as a test')
     args = parser.parse_args()
 
     os.chdir(os.path.dirname(os.path.abspath(__file__)))
@@ -188,7 +217,9 @@ def main():
             sys.exit(1)
         subject = f"Hacker News Digest · {now.strftime('%B %d, %Y')}"
         body = format_email_body(stories, now)
-        send_to_buttondown(subject, body, buttondown_api_key)
+        success = send_to_buttondown(subject, body, buttondown_api_key, test_recipient=args.test_email)
+        if not success:
+            sys.exit(1)
     else:
         logging.info("Email sending skipped due to --no-email flag.")
 

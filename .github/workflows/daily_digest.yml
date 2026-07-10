@@ -4,6 +4,11 @@ on:
   schedule:
     - cron: '0 5 * * *'  # 7 AM Budapest = 5 AM UTC
   workflow_dispatch:
+    inputs:
+      test_email:
+        description: 'Send a test email to this address only (leave empty for normal send)'
+        required: false
+        default: ''
 
 jobs:
   build:
@@ -24,7 +29,12 @@ jobs:
         env:
           LINKDING_URL: ${{ secrets.LINKDING_URL }}
           BUTTONDOWN_API_KEY: ${{ secrets.BUTTONDOWN_API_KEY }}
-        run: python digest_script.py
+        run: |
+          if [ -n "${{ github.event.inputs.test_email }}" ]; then
+            python digest_script.py --test-email "${{ github.event.inputs.test_email }}"
+          else
+            python digest_script.py
+          fi
 
       - name: Commit and Push New Digest Post
         env:
